@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theme336-tile-stone.myshopify.com/blogs/blog.atom</id>
+  <link rel="alternate" type="text/html" href="https://theme336-tile-stone.myshopify.com/blogs/blog"/>
+  <link rel="self" type="application/atom+xml" href="https://theme336-tile-stone.myshopify.com/blogs/blog/tagged/benches.atom"/>
+  <title>DStone - Blog</title>
+  <updated>2017-05-30T11:54:00-04:00</updated>
+  <author>
+    <name>DStone</name>
+  </author>
+  <entry>
+    <id>https://theme336-tile-stone.myshopify.com/blogs/blog/easy-to-clean</id>
+    <published>2017-05-30T11:53:00-04:00</published>
+    <updated>2017-06-06T11:56:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme336-tile-stone.myshopify.com/blogs/blog/easy-to-clean"/>
+    <title>Easy to clean</title>
+    <author>
+      <name>David Braun</name>
+    </author>
+    <summary type="html">
+      <![CDATA[This is possible thanks to the variety of textures and surfaces that simulate various natural materials. Leading European manufacturers presented their products in the widest range, and you can browse this beauty on the pages of our store catalog.<p><a class="read-more" href="https://theme336-tile-stone.myshopify.com/blogs/blog/easy-to-clean">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>This is possible thanks to the variety of textures and surfaces that simulate various natural materials. Leading European manufacturers presented their products in the widest range, and you can browse this beauty on the pages of our store catalog. Each collection is a part of a particular category that allows you quickly navigate when searching for the right tile or stone design. Our managers can advise the customer how to create a unique interior, combining tiles or stones from various collections. </p>
+<ol>
+<li>We observe only branded commodities policy</li>
+<li>You can buy the premium quality goods at a fair price</li>
+<li>Our company cares about the clients and never lets them down</li>
+</ol>
+<p>Each collection is a part of a particular category that allows you quickly navigate when searching for the right tile or stone design. Our managers can advise the customer how to create a unique interior, combining tiles or stones from various collections. So as you see, tile and stone are universal finishing materials, which allow you to implement any design ideas you have and at the same time save your efforts &amp; money. They will serve you for decades, delighting you with their brilliance and sophisticated design.</p>]]>
+    </content>
+  </entry>
+</feed>

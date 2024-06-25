@@ -1,0 +1,2420 @@
+Uri: https://demo.read-script.com/
+File Name: C:\Downloaded Web Sites\demo.read-script.com\index.htm
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/blogs/blog.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog/aesthetic-component-is-so-high-that-you-can-create-truly-royal-interiors.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\aesthetic-component-is-so-high-that-you-can-create-truly-royal-interiors.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog/easy-to-clean.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\easy-to-clean.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/benches.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\benches.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/benches.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\benches.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/ceramic.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\ceramic.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/ceramic.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\ceramic.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/glass.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\glass.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/glass.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\glass.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/ledgestones.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\ledgestones.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/ledgestones.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\ledgestones.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/mosaics.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\mosaics.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/mosaics.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\mosaics.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/natural-stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\natural-stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/natural-stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\natural-stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/niches-recesses.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\niches-recesses.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/niches-recesses.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\niches-recesses.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/wood-look.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\wood-look.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/blogs/blog/tagged/wood-look.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\tagged\wood-look.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/blogs/blog/welcome-to-our-tile-store.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\blogs\blog\welcome-to-our-tile-store.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/cart.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cart.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/cdn/shop/articles/blog1_1170x_crop_center.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\articles\blog1_1170x_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/articles/blog1_270x276_crop_center.jpg?v=1496159499
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\articles\blog1_270x276_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/articles/blog1_370x208_crop_center.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\articles\blog1_370x208_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/articles/blog1_370x275_crop_center.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\articles\blog1_370x275_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/articles/blog2_1170x_crop_center.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\articles\blog2_1170x_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/articles/blog2_270x276_crop_center.jpg?v=1496159668
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\articles\blog2_270x276_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/articles/blog2_370x208_crop_center.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\articles\blog2_370x208_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/articles/blog2_370x275_crop_center.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\articles\blog2_370x275_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/articles/blog3_1170x_crop_center.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\articles\blog3_1170x_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/articles/blog3_270x276_crop_center.jpg?v=1496159858
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\articles\blog3_270x276_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/articles/blog3_370x208_crop_center.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\articles\blog3_370x208_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/articles/blog3_370x275_crop_center.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\articles\blog3_370x275_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/collections/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1_270x270_crop_top.png
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\collections\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/collections/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_1_270x270_crop_top.png
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\collections\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/collections/grasslands_road_assortment_road_fairy_house_5inch_1_270x270_crop_top.png
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\collections\grasslands_road_assortment_road_fairy_house_5inch_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/collections/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_1_270x270_crop_top.png
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\collections\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/collections/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_1_270x270_crop_top.png
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\collections\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/collections/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_1_270x270_crop_top.png
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\collections\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/collections/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_1_270x270_crop_top.png
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\collections\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/collections/tile_floor_medallion_marble_mosaic_1_270x270_crop_top.png
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\collections\tile_floor_medallion_marble_mosaic_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/files/about_4_270x270_08b410da-e10c-448d-8f33-f93f01331931_270x270.jpg?v=1613659567
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\about_4_270x270_08b410da-e10c-448d-8f33-f93f01331931_270x270.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/banner1_eaf4a2f2-9d16-4914-98df-d85acc5bbadf_370x370_crop_center.jpg?v=1613659611
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\banner1_eaf4a2f2-9d16-4914-98df-d85acc5bbadf_370x370_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/banner2_770x370_crop_center.jpg?v=1613659594
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\banner2_770x370_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/banner3_370x770_crop_center.jpg?v=1613659594
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\banner3_370x770_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/banner4_370x370_crop_center.jpg?v=1613659594
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\banner4_370x370_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/banner5_370x370_crop_center.jpg?v=1613659594
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\banner5_370x370_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/banner6_770x370_crop_center.jpg?v=1613659594
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\banner6_770x370_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/banner7_370x370_crop_center.jpg?v=1613659594
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\banner7_370x370_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/banner8_370x770_crop_center.jpg?v=1613659594
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\banner8_370x770_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/Depositphotos_2596295_original_2048x200_crop_center.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\Depositphotos_2596295_original_2048x200_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/favicon1_small.png?v=1613659566
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\favicon1_small.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/files/logo_370x%402x.png?v=1613659566
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\logo_370x@2x.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/files/photo_1_270x270.jpg?v=1613659567
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\photo_1_270x270.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/photo_2_270x270.jpg?v=1613659567
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\photo_2_270x270.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/photo_3_270x270.jpg?v=1613659567
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\photo_3_270x270.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/slide1_2048x867_crop_center.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\slide1_2048x867_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/slide2_2048x867_crop_top.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\slide2_2048x867_crop_top.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/files/slide3_2048x867_crop_center.jpg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\files\slide3_2048x867_crop_center.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.read-script.com/cdn/shop/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_1_270x270_crop_center.png?v=1495462532
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_1_270x270_crop_top.png?v=1495462532
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_1_570x570_crop_top.png?v=1495462532
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_1_98x98_crop_top.png?v=1495462532
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_2_570x570_crop_top.png?v=1495462532
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_2_98x98_crop_top.png?v=1495462532
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_3_570x570_crop_top.png?v=1495462532
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_3_98x98_crop_top.png?v=1495462532
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_4_570x570_crop_top.png?v=1495462532
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_4_98x98_crop_top.png?v=1495462532
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_5_570x570_crop_top.png?v=1495462532
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_5_98x98_crop_top.png?v=1495462532
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1_270x270_crop_center.png?v=1495462546
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1_270x270_crop_top.png?v=1495462546
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1_570x570_crop_top.png?v=1495462546
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1_98x98_crop_top.png?v=1495462546
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_2_570x570_crop_top.png?v=1495462546
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_2_98x98_crop_top.png?v=1495462546
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_3_570x570_crop_top.png?v=1495462546
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_3_98x98_crop_top.png?v=1495462546
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_4_570x570_crop_top.png?v=1495462546
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_4_98x98_crop_top.png?v=1495462546
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_5_570x570_crop_top.png?v=1495462546
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_5_98x98_crop_top.png?v=1495462546
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_1_270x270_crop_center.png?v=1495462560
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_1_570x570_crop_top.png?v=1495462560
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_1_98x98_crop_top.png?v=1495462560
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_2_570x570_crop_top.png?v=1495462560
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_2_98x98_crop_top.png?v=1495462560
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_3_570x570_crop_top.png?v=1495462560
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_3_98x98_crop_top.png?v=1495462560
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_4_570x570_crop_top.png?v=1495462560
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_4_98x98_crop_top.png?v=1495462560
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_5_570x570_crop_top.png?v=1495462560
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_5_98x98_crop_top.png?v=1495462560
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor___wall_tile_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_1_270x270_crop_center.png?v=1495462572
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_1_570x570_crop_top.png?v=1495462572
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_1_98x98_crop_top.png?v=1495462572
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_2_570x570_crop_top.png?v=1495462572
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_2_98x98_crop_top.png?v=1495462572
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_3_570x570_crop_top.png?v=1495462572
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_3_98x98_crop_top.png?v=1495462572
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_4_570x570_crop_top.png?v=1495462572
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_4_98x98_crop_top.png?v=1495462572
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_5_570x570_crop_top.png?v=1495462572
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_5_98x98_crop_top.png?v=1495462572
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/chair_rail_molding_1_270x270_crop_center.png?v=1495462583
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\chair_rail_molding_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/chair_rail_molding_1_570x570_crop_top.png?v=1495462583
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\chair_rail_molding_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/chair_rail_molding_1_98x98_crop_top.png?v=1495462583
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\chair_rail_molding_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/chair_rail_molding_2_570x570_crop_top.png?v=1495462583
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\chair_rail_molding_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/chair_rail_molding_2_98x98_crop_top.png?v=1495462583
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\chair_rail_molding_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/chair_rail_molding_3_570x570_crop_top.png?v=1495462583
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\chair_rail_molding_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/chair_rail_molding_3_98x98_crop_top.png?v=1495462583
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\chair_rail_molding_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/chair_rail_molding_4_570x570_crop_top.png?v=1495462583
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\chair_rail_molding_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/chair_rail_molding_4_98x98_crop_top.png?v=1495462583
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\chair_rail_molding_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/chair_rail_molding_5_570x570_crop_top.png?v=1495462583
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\chair_rail_molding_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/chair_rail_molding_5_98x98_crop_top.png?v=1495462583
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\chair_rail_molding_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_1_270x270_crop_center.png?v=1495462595
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_1_570x570_crop_top.png?v=1495462595
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_1_98x98_crop_top.png?v=1495462595
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_2_570x570_crop_top.png?v=1495462595
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_2_98x98_crop_top.png?v=1495462595
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_3_570x570_crop_top.png?v=1495462595
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_3_98x98_crop_top.png?v=1495462595
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_4_570x570_crop_top.png?v=1495462595
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_4_98x98_crop_top.png?v=1495462595
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_5_570x570_crop_top.png?v=1495462595
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_5_98x98_crop_top.png?v=1495462595
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/grasslands_road_assortment_road_fairy_house_5inch_1_270x270_crop_center.png?v=1495462620
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\grasslands_road_assortment_road_fairy_house_5inch_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/grasslands_road_assortment_road_fairy_house_5inch_1_570x570_crop_top.png?v=1495462620
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\grasslands_road_assortment_road_fairy_house_5inch_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/grasslands_road_assortment_road_fairy_house_5inch_1_98x98_crop_top.png?v=1495462620
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\grasslands_road_assortment_road_fairy_house_5inch_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/grasslands_road_assortment_road_fairy_house_5inch_2_570x570_crop_top.png?v=1495462620
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\grasslands_road_assortment_road_fairy_house_5inch_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/grasslands_road_assortment_road_fairy_house_5inch_2_98x98_crop_top.png?v=1495462620
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\grasslands_road_assortment_road_fairy_house_5inch_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/grasslands_road_assortment_road_fairy_house_5inch_3_570x570_crop_top.png?v=1495462620
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\grasslands_road_assortment_road_fairy_house_5inch_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/grasslands_road_assortment_road_fairy_house_5inch_3_98x98_crop_top.png?v=1495462620
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\grasslands_road_assortment_road_fairy_house_5inch_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/grasslands_road_assortment_road_fairy_house_5inch_4_570x570_crop_top.png?v=1495462620
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\grasslands_road_assortment_road_fairy_house_5inch_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/grasslands_road_assortment_road_fairy_house_5inch_4_98x98_crop_top.png?v=1495462620
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\grasslands_road_assortment_road_fairy_house_5inch_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/grasslands_road_assortment_road_fairy_house_5inch_5_570x570_crop_top.png?v=1495462620
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\grasslands_road_assortment_road_fairy_house_5inch_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/grasslands_road_assortment_road_fairy_house_5inch_5_98x98_crop_top.png?v=1495462620
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\grasslands_road_assortment_road_fairy_house_5inch_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces_1_270x270_crop_center.png?v=1495462633
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces_1_570x570_crop_top.png?v=1495462633
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces_1_98x98_crop_top.png?v=1495462633
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces_2_570x570_crop_top.png?v=1495462633
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces_2_98x98_crop_top.png?v=1495462633
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces_3_570x570_crop_top.png?v=1495462633
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces_3_98x98_crop_top.png?v=1495462633
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces_4_570x570_crop_top.png?v=1495462633
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces_4_98x98_crop_top.png?v=1495462633
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces_5_570x570_crop_top.png?v=1495462633
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces_5_98x98_crop_top.png?v=1495462633
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/ledgestone_panels_1_270x270_crop_center.png?v=1495462647
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\ledgestone_panels_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/ledgestone_panels_1_570x570_crop_top.png?v=1495462647
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\ledgestone_panels_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/ledgestone_panels_1_98x98_crop_top.png?v=1495462647
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\ledgestone_panels_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/ledgestone_panels_2_570x570_crop_top.png?v=1495462647
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\ledgestone_panels_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/ledgestone_panels_2_98x98_crop_top.png?v=1495462647
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\ledgestone_panels_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/ledgestone_panels_3_570x570_crop_top.png?v=1495462647
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\ledgestone_panels_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/ledgestone_panels_3_98x98_crop_top.png?v=1495462647
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\ledgestone_panels_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/ledgestone_panels_4_570x570_crop_top.png?v=1495462647
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\ledgestone_panels_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/ledgestone_panels_4_98x98_crop_top.png?v=1495462647
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\ledgestone_panels_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/ledgestone_panels_5_570x570_crop_top.png?v=1495462647
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\ledgestone_panels_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/ledgestone_panels_5_98x98_crop_top.png?v=1495462647
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\ledgestone_panels_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_1_270x270_crop_center.png?v=1495462659
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_1_270x270_crop_top.png?v=1495462659
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_1_570x570_crop_top.png?v=1495462659
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_1_98x98_crop_top.png?v=1495462659
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_2_570x570_crop_top.png?v=1495462659
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_2_98x98_crop_top.png?v=1495462659
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_3_570x570_crop_top.png?v=1495462659
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_3_98x98_crop_top.png?v=1495462659
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_4_570x570_crop_top.png?v=1495462659
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_4_98x98_crop_top.png?v=1495462659
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_5_570x570_crop_top.png?v=1495462659
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_5_98x98_crop_top.png?v=1495462659
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_1_270x270_crop_center.png?v=1495462671
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_1_270x270_crop_top.png?v=1495462671
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_1_570x570_crop_top.png?v=1495462671
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_1_98x98_crop_top.png?v=1495462671
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_2_570x570_crop_top.png?v=1495462671
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_2_98x98_crop_top.png?v=1495462671
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_3_570x570_crop_top.png?v=1495462671
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_3_98x98_crop_top.png?v=1495462671
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_4_570x570_crop_top.png?v=1495462671
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_4_98x98_crop_top.png?v=1495462671
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_5_570x570_crop_top.png?v=1495462671
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_5_98x98_crop_top.png?v=1495462671
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_1_270x270_crop_center.png?v=1495462685
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_1_270x270_crop_top.png?v=1495462685
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_1_570x570_crop_top.png?v=1495462685
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_1_98x98_crop_top.png?v=1495462685
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_2_570x570_crop_top.png?v=1495462685
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_2_98x98_crop_top.png?v=1495462685
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_3_570x570_crop_top.png?v=1495462685
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_3_98x98_crop_top.png?v=1495462685
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_4_570x570_crop_top.png?v=1495462685
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_4_98x98_crop_top.png?v=1495462685
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_5_570x570_crop_top.png?v=1495462685
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_5_98x98_crop_top.png?v=1495462685
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_1_270x270_crop_center.png?v=1495462697
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_1_270x270_crop_top.png?v=1495462697
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_1_570x570_crop_top.png?v=1495462697
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_1_98x98_crop_top.png?v=1495462697
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_2_570x570_crop_top.png?v=1495462697
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_2_98x98_crop_top.png?v=1495462697
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_3_570x570_crop_top.png?v=1495462697
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_3_98x98_crop_top.png?v=1495462697
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_4_570x570_crop_top.png?v=1495462697
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_4_98x98_crop_top.png?v=1495462697
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_5_570x570_crop_top.png?v=1495462697
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_5_98x98_crop_top.png?v=1495462697
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_1_270x270_crop_center.png?v=1495462711
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_1_270x270_crop_top.png?v=1495462711
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_1_570x570_crop_top.png?v=1495462711
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_1_98x98_crop_top.png?v=1495462711
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_2_570x570_crop_top.png?v=1495462711
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_2_98x98_crop_top.png?v=1495462711
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_3_570x570_crop_top.png?v=1495462711
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_3_98x98_crop_top.png?v=1495462711
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_4_570x570_crop_top.png?v=1495462711
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_4_98x98_crop_top.png?v=1495462711
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_5_570x570_crop_top.png?v=1495462711
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_5_98x98_crop_top.png?v=1495462711
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/stone_wall_panels_1_270x270_crop_center.png?v=1495462726
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\stone_wall_panels_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/stone_wall_panels_1_270x270_crop_top.png?v=1495462726
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\stone_wall_panels_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/stone_wall_panels_1_570x570_crop_top.png?v=1495462726
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\stone_wall_panels_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/stone_wall_panels_1_98x98_crop_top.png?v=1495462726
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\stone_wall_panels_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/stone_wall_panels_2_570x570_crop_top.png?v=1495462726
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\stone_wall_panels_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/stone_wall_panels_2_98x98_crop_top.png?v=1495462726
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\stone_wall_panels_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/stone_wall_panels_3_570x570_crop_top.png?v=1495462726
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\stone_wall_panels_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/stone_wall_panels_3_98x98_crop_top.png?v=1495462726
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\stone_wall_panels_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/stone_wall_panels_4_570x570_crop_top.png?v=1495462726
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\stone_wall_panels_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/stone_wall_panels_4_98x98_crop_top.png?v=1495462726
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\stone_wall_panels_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/stone_wall_panels_5_570x570_crop_top.png?v=1495462726
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\stone_wall_panels_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/stone_wall_panels_5_98x98_crop_top.png?v=1495462726
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\stone_wall_panels_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/susan_jablon_mosaics_14_inch_glass_subway_tile_1_270x270_crop_center.png?v=1495462738
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\susan_jablon_mosaics_14_inch_glass_subway_tile_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/susan_jablon_mosaics_14_inch_glass_subway_tile_1_270x270_crop_top.png?v=1495462738
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\susan_jablon_mosaics_14_inch_glass_subway_tile_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/susan_jablon_mosaics_14_inch_glass_subway_tile_1_570x570_crop_top.png?v=1495462738
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\susan_jablon_mosaics_14_inch_glass_subway_tile_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/susan_jablon_mosaics_14_inch_glass_subway_tile_1_98x98_crop_top.png?v=1495462738
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\susan_jablon_mosaics_14_inch_glass_subway_tile_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/susan_jablon_mosaics_14_inch_glass_subway_tile_2_570x570_crop_top.png?v=1495462738
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\susan_jablon_mosaics_14_inch_glass_subway_tile_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/susan_jablon_mosaics_14_inch_glass_subway_tile_2_98x98_crop_top.png?v=1495462738
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\susan_jablon_mosaics_14_inch_glass_subway_tile_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/susan_jablon_mosaics_14_inch_glass_subway_tile_3_570x570_crop_top.png?v=1495462738
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\susan_jablon_mosaics_14_inch_glass_subway_tile_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/susan_jablon_mosaics_14_inch_glass_subway_tile_3_98x98_crop_top.png?v=1495462738
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\susan_jablon_mosaics_14_inch_glass_subway_tile_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/susan_jablon_mosaics_14_inch_glass_subway_tile_4_570x570_crop_top.png?v=1495462738
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\susan_jablon_mosaics_14_inch_glass_subway_tile_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/susan_jablon_mosaics_14_inch_glass_subway_tile_4_98x98_crop_top.png?v=1495462738
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\susan_jablon_mosaics_14_inch_glass_subway_tile_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/susan_jablon_mosaics_14_inch_glass_subway_tile_5_570x570_crop_top.png?v=1495462738
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\susan_jablon_mosaics_14_inch_glass_subway_tile_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/susan_jablon_mosaics_14_inch_glass_subway_tile_5_98x98_crop_top.png?v=1495462738
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\susan_jablon_mosaics_14_inch_glass_subway_tile_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tile_floor_medallion_marble_mosaic_1_270x270_crop_center.png?v=1495462754
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tile_floor_medallion_marble_mosaic_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tile_floor_medallion_marble_mosaic_1_270x270_crop_top.png?v=1495462754
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tile_floor_medallion_marble_mosaic_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tile_floor_medallion_marble_mosaic_1_570x570_crop_top.png?v=1495462754
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tile_floor_medallion_marble_mosaic_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tile_floor_medallion_marble_mosaic_1_98x98_crop_top.png?v=1495462754
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tile_floor_medallion_marble_mosaic_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tile_floor_medallion_marble_mosaic_2_570x570_crop_top.png?v=1495462754
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tile_floor_medallion_marble_mosaic_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tile_floor_medallion_marble_mosaic_2_98x98_crop_top.png?v=1495462754
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tile_floor_medallion_marble_mosaic_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tile_floor_medallion_marble_mosaic_3_570x570_crop_top.png?v=1495462754
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tile_floor_medallion_marble_mosaic_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tile_floor_medallion_marble_mosaic_3_98x98_crop_top.png?v=1495462754
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tile_floor_medallion_marble_mosaic_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tile_floor_medallion_marble_mosaic_4_570x570_crop_top.png?v=1495462754
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tile_floor_medallion_marble_mosaic_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tile_floor_medallion_marble_mosaic_4_98x98_crop_top.png?v=1495462754
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tile_floor_medallion_marble_mosaic_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tile_floor_medallion_marble_mosaic_5_570x570_crop_top.png?v=1495462754
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tile_floor_medallion_marble_mosaic_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tile_floor_medallion_marble_mosaic_5_98x98_crop_top.png?v=1495462754
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tile_floor_medallion_marble_mosaic_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_1_270x270_crop_center.png?v=1495462767
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_1_270x270_crop_top.png?v=1495462767
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_1_570x570_crop_top.png?v=1495462767
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_1_98x98_crop_top.png?v=1495462767
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_2_570x570_crop_top.png?v=1495462767
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_2_98x98_crop_top.png?v=1495462767
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_3_570x570_crop_top.png?v=1495462767
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_3_98x98_crop_top.png?v=1495462767
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_4_570x570_crop_top.png?v=1495462767
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_4_98x98_crop_top.png?v=1495462767
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_5_570x570_crop_top.png?v=1495462767
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_5_98x98_crop_top.png?v=1495462767
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_1_270x270_crop_center.png?v=1495462778
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_1_270x270_crop_center.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_1_270x270_crop_top.png?v=1495462778
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_1_270x270_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_1_570x570_crop_top.png?v=1495462778
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_1_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_1_98x98_crop_top.png?v=1495462778
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_1_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_2_570x570_crop_top.png?v=1495462778
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_2_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_2_98x98_crop_top.png?v=1495462778
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_2_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_3_570x570_crop_top.png?v=1495462778
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_3_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_3_98x98_crop_top.png?v=1495462778
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_3_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_4_570x570_crop_top.png?v=1495462778
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_4_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_4_98x98_crop_top.png?v=1495462778
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_4_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_5_570x570_crop_top.png?v=1495462778
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_5_570x570_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_5_98x98_crop_top.png?v=1495462778
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_5_98x98_crop_top.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/assets.js?v=33160531341215362361695730054
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\assets.js
+Content Type: application/x-javascript
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/contentblock_bg_image.png
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\contentblock_bg_image.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/currency-tools.js?v=56053141205250997201495470951
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\currency-tools.js
+Content Type: application/x-javascript
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/fontawesome-webfont-1.eot
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/fontawesome-webfont.svg
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/fontawesome-webfont.ttf
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/fontawesome-webfont.woff
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/fontawesome-webfont.woff2
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/footer_bg_image.png
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\footer_bg_image.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/responsive.scss.css?v=34124157385147569641656106793
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\responsive.scss.css
+Content Type: text/css
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/shop.js?v=41238977500329979641496412349
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\shop.js
+Content Type: application/x-javascript
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/shopify_logo.gif?v=2295594837597377031495470952
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\shopify_logo.gif
+Content Type: image/gif
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/assets/style.scss.css?v=102610240226928466511695730055
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\assets\style.scss.css
+Content Type: text/css
+
+Uri: https://demo.read-script.com/cdn/shop/t/2/compiled_assets/scripts.js?20
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shop\t\2\compiled_assets\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://demo.read-script.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+File Name: C:\Downloaded Web Sites\demo.read-script.com\cdn\shopifycloud\shopify\assets\storefront\load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+Content Type: application/x-javascript
+
+Uri: https://demo.read-script.com/collections.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/all-1.html?page=2
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all-1.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/all-2.html?page=3
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all-2.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/all-3.html?page=1
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all-3.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/all.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/all.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/all/benches.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\benches.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/all/benches.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\benches.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/all/ceramic.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\ceramic.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/all/ceramic.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\ceramic.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/all/glass.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\glass.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/all/glass.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\glass.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/all/mosaics.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\mosaics.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/all/mosaics.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\mosaics.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/all/natural-stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\natural-stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/all/natural-stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\natural-stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/all/niches-and-recesses.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\niches-and-recesses.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/all/niches-and-recesses.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\niches-and-recesses.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/all/stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/all/stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\all\stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches-1.html?page=2
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches-1.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches-1.oembed?page=2
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches-1.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/benches-2.html?page=3
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches-2.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches-2.oembed?page=3
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches-2.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/benches-3.html?page=1
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches-3.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/benches.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/benches/benches.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\benches.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/benches/benches.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\benches.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/benches.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\benches.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/benches/ceramic.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\ceramic.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/benches/ceramic.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\ceramic.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/ceramic.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\ceramic.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/benches/glass.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\glass.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/benches/glass.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\glass.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/glass.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\glass.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/benches/mosaics.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\mosaics.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/benches/mosaics.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\mosaics.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/mosaics.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\mosaics.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/benches/natural-stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\natural-stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/benches/natural-stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\natural-stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/natural-stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\natural-stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/benches/niches-and-recesses.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\niches-and-recesses.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/benches/niches-and-recesses.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\niches-and-recesses.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/niches-and-recesses.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\niches-and-recesses.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/benches/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor_-_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor_-_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/chair_rail_molding.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\chair_rail_molding.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/grasslands_road_assortment_road_fairy_house_5inch.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\grasslands_road_assortment_road_fairy_house_5inch.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/ledgestone_panels.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\ledgestone_panels.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/stone_wall_panels.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\stone_wall_panels.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/susan_jablon_mosaics_14_inch_glass_subway_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\susan_jablon_mosaics_14_inch_glass_subway_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/tile_floor_medallion_marble_mosaic.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\tile_floor_medallion_marble_mosaic.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/benches/stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/benches/stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\benches\stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/benches.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\benches.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/benches.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\benches.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/benches.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\benches.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/ceramic.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\ceramic.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/ceramic.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\ceramic.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/ceramic.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\ceramic.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/glass.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\glass.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/glass.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\glass.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/glass.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\glass.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/mosaics.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\mosaics.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/mosaics.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\mosaics.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/mosaics.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\mosaics.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/natural-stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\natural-stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/natural-stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\natural-stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/natural-stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\natural-stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/niches-and-recesses.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\niches-and-recesses.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/niches-and-recesses.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\niches-and-recesses.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/niches-and-recesses.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\niches-and-recesses.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/products/stone_wall_panels.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\products\stone_wall_panels.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/products/susan_jablon_mosaics_14_inch_glass_subway_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\products\susan_jablon_mosaics_14_inch_glass_subway_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/glass-tiles-and-mosaics/stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\glass-tiles-and-mosaics\stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/index.htm
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\index.htm
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/ledgestones.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\ledgestones.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/ledgestones.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\ledgestones.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/ledgestones.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\ledgestones.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/mosaics.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/mosaics.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/mosaics/benches.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\benches.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/mosaics/benches.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\benches.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/benches.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\benches.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/mosaics/ceramic.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\ceramic.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/mosaics/ceramic.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\ceramic.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/ceramic.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\ceramic.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/mosaics/glass.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\glass.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/mosaics/glass.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\glass.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/glass.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\glass.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/mosaics/mosaics.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\mosaics.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/mosaics/mosaics.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\mosaics.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/mosaics.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\mosaics.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/mosaics/natural-stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\natural-stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/mosaics/natural-stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\natural-stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/natural-stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\natural-stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/mosaics/niches-and-recesses.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\niches-and-recesses.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/mosaics/niches-and-recesses.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\niches-and-recesses.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/niches-and-recesses.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\niches-and-recesses.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/mosaics/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor_-_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor_-_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/products/chair_rail_molding.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\products\chair_rail_molding.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/products/ledgestone_panels.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\products\ledgestone_panels.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/mosaics/stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/mosaics/stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\mosaics\stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/natural-stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/natural-stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/natural-stone/benches.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\benches.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/natural-stone/benches.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\benches.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/benches.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\benches.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/natural-stone/ceramic.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\ceramic.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/natural-stone/ceramic.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\ceramic.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/ceramic.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\ceramic.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/natural-stone/glass.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\glass.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/natural-stone/glass.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\glass.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/glass.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\glass.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/natural-stone/mosaics.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\mosaics.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/natural-stone/mosaics.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\mosaics.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/mosaics.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\mosaics.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/natural-stone/natural-stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\natural-stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/natural-stone/natural-stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\natural-stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/natural-stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\natural-stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/natural-stone/niches-and-recesses.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\niches-and-recesses.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/natural-stone/niches-and-recesses.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\niches-and-recesses.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/niches-and-recesses.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\niches-and-recesses.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/natural-stone/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor_-_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor_-_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/products/ledgestone_panels.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\products\ledgestone_panels.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/natural-stone/stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/natural-stone/stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\natural-stone\stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/benches.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\benches.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/benches.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\benches.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/benches.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\benches.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/ceramic.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\ceramic.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/ceramic.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\ceramic.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/ceramic.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\ceramic.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/glass.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\glass.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/glass.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\glass.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/glass.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\glass.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/mosaics.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\mosaics.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/mosaics.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\mosaics.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/mosaics.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\mosaics.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/natural-stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\natural-stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/natural-stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\natural-stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/natural-stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\natural-stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/niches-and-recesses.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\niches-and-recesses.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/niches-and-recesses.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\niches-and-recesses.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/niches-and-recesses.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\niches-and-recesses.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/products/ledgestone_panels.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\products\ledgestone_panels.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/products/stone_wall_panels.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\products\stone_wall_panels.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/products/susan_jablon_mosaics_14_inch_glass_subway_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\products\susan_jablon_mosaics_14_inch_glass_subway_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/niches-and-recesses/stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\niches-and-recesses\stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/benches.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\benches.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/benches.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\benches.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/benches.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\benches.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/glass.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\glass.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/glass.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\glass.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/glass.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\glass.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/mosaics.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\mosaics.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/mosaics.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\mosaics.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/mosaics.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\mosaics.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/natural-stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\natural-stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/natural-stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\natural-stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/natural-stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\natural-stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/niches-and-recesses.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\niches-and-recesses.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/niches-and-recesses.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\niches-and-recesses.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/niches-and-recesses.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\niches-and-recesses.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/products/stone_wall_panels.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\products\stone_wall_panels.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/products/tile_floor_medallion_marble_mosaic.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\products\tile_floor_medallion_marble_mosaic.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/porcelain-and-ceramic/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\porcelain-and-ceramic\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/wood-look.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/wood-look/benches.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\benches.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/wood-look/benches.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\benches.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/benches.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\benches.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/wood-look/ceramic.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\ceramic.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/wood-look/ceramic.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\ceramic.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/ceramic.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\ceramic.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/wood-look/glass.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\glass.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/wood-look/glass.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\glass.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/glass.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\glass.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/wood-look/mosaics.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\mosaics.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/wood-look/mosaics.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\mosaics.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/mosaics.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\mosaics.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/wood-look/natural-stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\natural-stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/wood-look/natural-stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\natural-stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/natural-stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\natural-stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/wood-look/niches-and-recesses.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\niches-and-recesses.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/wood-look/niches-and-recesses.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\niches-and-recesses.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/niches-and-recesses.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\niches-and-recesses.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/collections/wood-look/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\products\abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/products/susan_jablon_mosaics_14_inch_glass_subway_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\products\susan_jablon_mosaics_14_inch_glass_subway_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/stone.atom
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\stone.atom
+Content Type: application/atom+xml
+
+Uri: https://demo.read-script.com/collections/wood-look/stone.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\stone.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/collections/wood-look/stone.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\collections\wood-look\stone.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/contact-us.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\contact-us.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/css/knopka.css
+File Name: C:\Downloaded Web Sites\demo.read-script.com\css\knopka.css
+Content Type: text/css
+
+Uri: https://demo.read-script.com/images/footer-light.png
+File Name: C:\Downloaded Web Sites\demo.read-script.com\images\footer-light.png
+Content Type: image/png
+
+Uri: https://demo.read-script.com/index.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\index.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/js/cart.js
+File Name: C:\Downloaded Web Sites\demo.read-script.com\js\cart.js
+Content Type: application/x-javascript
+
+Uri: https://demo.read-script.com/pages/about-us.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\pages\about-us.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor_-_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor_-_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor_-_wall_tile.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\arcadia_weave_neptune_blue_12_x_12_inch_porcelain_floor_-_wall_tile.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\bare_decor_usnap_interlocking_flooring_tiles_in_solid_teak_wood.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/chair_rail_molding.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\chair_rail_molding.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/chair_rail_molding.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\chair_rail_molding.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\coaster_tiletumbled_travertine_porous_craft_tile_in_ivory_color.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/grasslands_road_assortment_road_fairy_house_5inch.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\grasslands_road_assortment_road_fairy_house_5inch.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/grasslands_road_assortment_road_fairy_house_5inch.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\grasslands_road_assortment_road_fairy_house_5inch.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/incstores_36_piece_modular_tap_dance_set_with_edge_pieces.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\incstores_36_piece_modular_tap_dance_set_with_edge_pieces.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/ledgestone_panels.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\ledgestone_panels.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/ledgestone_panels.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\ledgestone_panels.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\sierra_piano_brixton_11_34_x_11_34_inch_glass_and_stone_mosaic_wall_tile.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/stone_wall_panels.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\stone_wall_panels.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/stone_wall_panels.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\stone_wall_panels.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/susan_jablon_mosaics_14_inch_glass_subway_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\susan_jablon_mosaics_14_inch_glass_subway_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/susan_jablon_mosaics_14_inch_glass_subway_tile.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\susan_jablon_mosaics_14_inch_glass_subway_tile.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/tile_floor_medallion_marble_mosaic.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\tile_floor_medallion_marble_mosaic.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/tile_floor_medallion_marble_mosaic.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\tile_floor_medallion_marble_mosaic.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles.html
+Content Type: text/html
+
+Uri: https://demo.read-script.com/products/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles.oembed
+File Name: C:\Downloaded Web Sites\demo.read-script.com\products\torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles.oembed
+Content Type: text/plain
+
+Uri: https://demo.read-script.com/s/javascripts/currencies.js
+File Name: C:\Downloaded Web Sites\demo.read-script.com\s\javascripts\currencies.js
+Content Type: application/x-javascript
+
+Uri: https://demo.read-script.com/tovar1.html
+File Name: C:\Downloaded Web Sites\demo.read-script.com\tovar1.html
+Content Type: text/html
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\demo.read-script.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\demo.read-script.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\demo.read-script.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\demo.read-script.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\demo.read-script.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\demo.read-script.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\demo.read-script.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+

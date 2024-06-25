@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theme336-tile-stone.myshopify.com/blogs/blog.atom</id>
+  <link rel="alternate" type="text/html" href="https://theme336-tile-stone.myshopify.com/blogs/blog"/>
+  <link rel="self" type="application/atom+xml" href="https://theme336-tile-stone.myshopify.com/blogs/blog/tagged/ceramic.atom"/>
+  <title>DStone - Blog</title>
+  <updated>2017-05-30T11:54:00-04:00</updated>
+  <author>
+    <name>DStone</name>
+  </author>
+  <entry>
+    <id>https://theme336-tile-stone.myshopify.com/blogs/blog/welcome-to-our-tile-store</id>
+    <published>2017-05-30T11:45:00-04:00</published>
+    <updated>2017-06-06T11:56:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme336-tile-stone.myshopify.com/blogs/blog/welcome-to-our-tile-store"/>
+    <title>Welcome to our Tile Store</title>
+    <author>
+      <name>David Braun</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Forever fashionable – exactly with these words you can characterize these materials<p><a class="read-more" href="https://theme336-tile-stone.myshopify.com/blogs/blog/welcome-to-our-tile-store">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Forever fashionable – exactly with these words you can characterize these materials, which have such a positive characteristics as:</p>
+<ul>
+<li>Natural and environmental friendly; </li>
+<li>Resistant to water and steam;</li>
+<li>Easy to clean;</li>
+<li>Aesthetic component is so high that you can create truly royal interiors.</li>
+</ul>
+<p>So as you see, tile and stone are universal finishing materials, which allow you to implement any design ideas you have and at the same time save your efforts &amp; money. They will serve you for decades, delighting you with their brilliance and sophisticated design. Whether you need a ceramic tile, glass tile or natural stone for your interior, feel free to contact our online store representative and we will gladly help you find the right material for your design! That's why finishing of the interiors and outdoor facades is often performed with the help of exactly these materials that can globally change the entire apartment look.</p>
+<p>Whatever modern and innovative materials appear on the market of finishing materials, tiles and stone still are in the priority.</p>]]>
+    </content>
+  </entry>
+</feed>
