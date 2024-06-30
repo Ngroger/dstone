@@ -4587,7 +4587,7 @@ header {
   -ms-flex-align: center;
   -webkit-align-items: center;
   -moz-align-items: center;
-  align-items: center;
+  align-items: center !important;
 }
 .header_links {
   display: block;
@@ -4847,7 +4847,7 @@ header {
 }
 .header_center.megamenu_stuck {
   width: 100%;
-  min-height: 150px;
+  min-height: 100px;
   position: fixed;
   align-items: 'center';
   display: 'flex';
@@ -4861,7 +4861,6 @@ header {
   padding: 0 15px;
 }
 .header_center.megamenu_stuck .header_logo {
-  height: 105px;
   line-height: 105px;
 }
 .header_center.megamenu_stuck .header_logo a {
@@ -5096,13 +5095,14 @@ header {
 .megamenu_desktop .level_2 {
   text-align: left;
   position: absolute;
-  right: 15px;
+  right: 400px;
   top: 100%;
   z-index: 99;
   display: none;
   width: 100%;
-  max-width: 950px;
-  margin-top: -63px;
+  max-width: 250px;
+  margin-top: -80px;
+  max-height: 100px !important;
 }
 #custom_menu .level_2 .container,
 .megamenu_desktop .level_2 .container {

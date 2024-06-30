@@ -1797,20 +1797,19 @@
 					<div class="header_top">
 						<div id="pseudo_sticky_block"></div>
 						<div class="header_center">
-							<div class="header_wrap1">
-								<div style="height: 41px;" class="header_logo">
+							<div style="display: flex; align-items: center !important" class="header_wrap1">
+								<div class="header_logo">
 									<a href="index.html">
 										<img src="cdn/shop/files/diamond-stone.png" alt="DStone" />
 									</a>
 								</div>
 
 								<div class="header_cart">
-									<a href="#" id="openscarts">Корзина</a>
+									<a href="cart.html" id="openscarts">0 Корзина</a>
 								</div>
 								<script>
 									function doSomethingCool(event) {
-										event.preventDefault(); // Предотвращаем перезагрузку страницы
-										alert("Привет от Заказчик!");
+										event.preventDefault();
 									}
 								</script>
 								<nav id="megamenu" class="megamenu">
@@ -1824,271 +1823,35 @@
 
 									<ul id="megamenu_level__1" class="level_1">
 										<li class="level_1__item">
-											<a class="level_1__link active" href="index.html">Главная
-											</a>
+											<a class="level_1__link active" href="index.html">Главная</a>
 										</li>
 
 										<li class="level_1__item level_2__links">
-											<a class="level_1__link" href="collections.html">Каталог
+											<a class="level_1__link sf-with-ul" href="collections.html">Каталог
 												<i class="level_1__trigger megamenu_trigger"
 													data-submenu="menu_1479745635495"></i>
 											</a>
 
-											<!-- <ul class="level_2" id="menu_1479745635495">
+											<ul class="level_2" id="menu_1479745635495">
 												<li class="container">
 													<div class="megamenu_col__item">
-														<h3>
-															Камень
-															<i class="level_2__trigger megamenu_trigger"
-																data-submenu="menu_1479745635495-1"></i>
-														</h3>
-
-														<ul class="level_3" id="menu_1479745635495-1">
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/benches.html">Benches</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/glass-tiles-and-mosaics.html">Glass
-																	tiles and mosaics</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/ledgestones.html">Ledgestones</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/mosaics.html">Mosaics</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/natural-stone.html">Natural
-																	Stone</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/niches-and-recesses.html">Niches
-																	and Recesses</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/porcelain-and-ceramic.html">Porcelain
-																	and ceramic</a>
-															</li>
-														</ul>
-													</div>
-
-													<div class="megamenu_col__item">
-														<h3>
-															Плитка
-															<i class="level_2__trigger megamenu_trigger"
-																data-submenu="menu_1479745635495-2"></i>
-														</h3>
-
-														<ul class="level_3" id="menu_1479745635495-2">
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/porcelain-and-ceramic.html">Porcelain
-																	and ceramic</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/wood-look.html">Wood look</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/benches.html">Benches</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/ledgestones.html">Ledgestones</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/natural-stone.html">Natural
-																	Stone</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/mosaics.html">Mosaics</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/glass-tiles-and-mosaics.html">Glass
-																	tiles and mosaics</a>
-															</li>
-														</ul>
-													</div>
-
-													<div class="megamenu_col__item">
-														<h3>
-															Основные бренды
-															<i class="level_2__trigger megamenu_trigger"
-																data-submenu="menu_1479745635495-3"></i>
-														</h3>
-
-														<ul class="level_3" id="menu_1479745635495-3">
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/ledgestones.html">Ledgestones</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/benches.html">Benches</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/glass-tiles-and-mosaics.html">Glass
-																	tiles and mosaics</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/porcelain-and-ceramic.html">Porcelain
-																	and ceramic</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/wood-look.html">Wood look</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/niches-and-recesses.html">Niches
-																	and Recesses</a>
-															</li>
-
-															<li class="level_3__item">
-																<a class="level_3__link"
-																	href="collections/natural-stone.html">Natural
-																	Stone</a>
-															</li>
-														</ul>
-													</div>
-												</li>
-											</ul> -->
-										</li>
-
-										<li class="level_1__item level_2__small">
-											<a class="level_1__link" href="pages/about-us.html">О нас
-												<i class="level_1__trigger megamenu_trigger"
-													data-submenu="menu_1479745076714"></i>
-											</a>
-										</li>
-
-										<!-- <li class="level_1__item level_2__blog">
-											<a class="level_1__link" href="blogs/blog.html">Блог
-												<i class="level_1__trigger megamenu_trigger"
-													data-submenu="menu_1479747008568"></i>
-											</a>
-
-											<ul class="level_2" id="menu_1479747008568">
-												<li class="container">
-													<div class="megamenu_col__item">
-														<div class="blog_img">
-															<img src="cdn/shop/articles/blog3_270x276_crop_center.jpg?v=1496159858"
-																alt="Aesthetic component is so high that you can create truly royal interiors" />
-														</div>
-
-														<div class="blog_info">
-															<p class="article_info">
-																<span><time class="article_time"
-																		datetime="2017-05-30T11:54">05/30/2017</time></span>
-															</p>
-
-															<h3 class="blog_title">
-																<a
-																	href="blogs/blog/aesthetic-component-is-so-high-that-you-can-create-truly-royal-interiors.html">Aesthetic
-																	component is so high that you can
-																	create t...</a>
-															</h3>
-
-															<div class="blog_content">
-																So as you see, tile and stone are universal
-																finishing materials, which allow you to
-																implement any design ideas you have and at ...
-															</div>
-
-															<a class="btn blog_btn"
-																href="blogs/blog/aesthetic-component-is-so-high-that-you-can-create-truly-royal-interiors.html">Подробнее</a>
-														</div>
-													</div>
-
-													<div class="megamenu_col__item">
-														<div class="blog_img">
-															<img src="cdn/shop/articles/blog2_270x276_crop_center.jpg?v=1496159668"
-																alt="Easy to clean" />
-														</div>
-
-														<div class="blog_info">
-															<p class="article_info">
-																<span><time class="article_time"
-																		datetime="2017-05-30T11:53">05/30/2017</time></span>
-															</p>
-
-															<h3 class="blog_title">
-																<a href="blogs/blog/easy-to-clean.html">Easy to
-																	clean</a>
-															</h3>
-
-															<div class="blog_content">
-																This is possible thanks to the variety of
-																textures and surfaces that simulate various
-																natural materials. Leading European manuf...
-															</div>
-
-															<a class="btn blog_btn"
-																href="blogs/blog/easy-to-clean.html">Read
-																moreПодробнее</a>
-														</div>
-													</div>
-
-													<div class="megamenu_col__item">
-														<div class="blog_img">
-															<img src="cdn/shop/articles/blog1_270x276_crop_center.jpg?v=1496159499"
-																alt="Welcome to our Tile Store" />
-														</div>
-
-														<div class="blog_info">
-															<p class="article_info">
-																<span><time class="article_time"
-																		datetime="2017-05-30T11:45">05/30/2017</time></span>
-															</p>
-
-															<h3 class="blog_title">
-																<a href="blogs/blog/welcome-to-our-tile-store.html">Welcome
-																	to our Tile Store</a>
-															</h3>
-
-															<div class="blog_content">
-																Forever fashionable – exactly with these words
-																you can characterize these materials, which
-																have such a positive characteristics...
-															</div>
-
-															<a class="btn blog_btn"
-																href="blogs/blog/welcome-to-our-tile-store.html">Подробнее</a>
-														</div>
+														<a class="level_3__link" href="collections/waterjet-marble-mosaic.html">Waterjet marble mosaic</a>
+														<a class="level_3__link" href="collections/3D-marble-mosaic-tiles.html">3D marble mosaic tiles</a>
+														<a class="level_3__link" href="collections/marble-metal.html">Marble & Metal</a>
+														<a class="level_3__link" href="collections/irregular-marble-mosaic-tiles.html">Irregular marble mosaic tiles</a>
+														<a class="level_3__link" href="collections/flat-mosaic.html">Flat Mosaic</a>
+														<a class="level_3__link" href="collections/border-series.html">Border Series</a>
+														<a class="level_3__link" href="collections/waterjet-marble-medallion.html">Waterjet marble medallion</a>
+														<a class="level_3__link" href="collections/square-strip-marble-mosaic-tiles.html">Square/strip marble mosaic tiles</a>
 													</div>
 												</li>
 											</ul>
-										</li> -->
+										</li>
+
+										<li class="level_1__item level_2__small">
+											<a class="level_1__link" href="about-us.html">О нас
+											</a>
+										</li>
 
 										<li class="level_1__item">
 											<a class="level_1__link" href="contact-us.html">Контакты
@@ -2337,7 +2100,7 @@
 											<p class="single_product__weight">
 												<b>Коллекция:</b>
 
-												<span>Пограничная серия</span>
+												<span>Border Series</span>
 											</p>
 
 											<p class="single_product__type">
@@ -2381,7 +2144,7 @@
 								</form>
 								<button class="cart-add btn btn_big btn-cart" id="product-6" data-id="6"
 									data-name="LAY902" data-image="./images/product6/image1.jpg"
-									data-collection="Пограничная серия" data-color="Черный"
+									data-collection="Border Series" data-color="Черный"
 									weight="5"
 									data-material="Мрамор + Металл" data-size="320x245мм" data-thickness="8мм">
 									В корзину
@@ -2437,14 +2200,14 @@
 												</li>
 
 												<li>
-													<a href="pages/about-us.html">О нас</a>
+													<a href="about-us.html">О нас</a>
 												</li>
-
 												<li>
 													<a href="contact-us.html">Контакты</a>
 												</li>
 											</ul>
 										</div>
+										<img style="margin-right: 100px; height: 200px" src="images/footer-light.png"/>
 									</div>
 
 									<div class="col-sm-3 footer_block">
@@ -2453,27 +2216,27 @@
 
 											<ul>
 												<li>
-													<a href="collections/waterjet-marble-mosaic.html">Водоструйная мраморная мозаика</a>
+													<a href="collections/collection.html?id=2">Waterjet marble mosaic</a>
 												</li>
 
 												<li>
-													<a href="collections/3D-marble-mosaic-tiles.html">3D мраморная мозаика</a>
+													<a href="collections/collection.html?id=3">3D marble mosaic tiles</a>
 												</li>
 
 												<li>
-													<a href="collections/marble-metal.html">Мрамор и Металл</a>
+													<a href="collections/collection.html?id=4">Marble & Metal</a>
 												</li>
 
 												<li>
-													<a href="collections/irregular-marble-mosaic-tiles.html">Неправильная мраморная мозаика</a>
+													<a href="collections/collection.html?id=5">Irregular marble mosaic tiles</a>
 												</li>
 
 												<li>
-													<a href="collections/flat-mosaic.html">Плоская Мозаика</a>
+													<a href="collections/collection.html?id=6">Flat Mosaic</a>
 												</li>
 
 												<li>
-													<a href="collections/border-series.html">Пограничная серия</a>
+													<a href="collections/collection.html?id=7">Border Series</a>
 												</li>
 											</ul>
 										</div>
@@ -2510,7 +2273,6 @@
 												<p>+7 (701) 333-00-00<br />info@bokentau-company.kz</p>
 											</div>
 										</div>
-										<img src="images/footer-light.png" class="footerimg" alt="" />
 									</div>
 
 									<div class="clearfix devided"></div>

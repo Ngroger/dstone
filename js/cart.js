@@ -98,7 +98,6 @@ function loadCart() {
               <p class="item_weight"><b>Материал:</b> ${product.material}</p>
               <p class="item_weight"><b>Размер:</b> ${product.size}</p>
               <p class="item_weight"><b>Толщина:</b> ${product.thickness}</p>
-              <p class="item_weight"><b>Вес:</b> ${product.weight * product.quantity} кг</p>
             </div>
 
             <a class="btn cart_item__remove" href="#" data-id="${product.id}">Удалить</a>
@@ -187,14 +186,14 @@ function updateQuantity(id, delta) {
 }
 
 // Функция для отправки данных на сервер
-function sendOrderEmail(note, cart) {
+function sendOrderEmail(note, cart, name, surname, phone ) {
   if (note) {
       fetch('https://bigsnab.kz/api-sendOrderMail', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
         },
-        body: JSON.stringify({ note, cart })
+        body: JSON.stringify({ note, cart, name, surname, phone })
       })
       .then(response => {
         if (response.ok) {
@@ -221,10 +220,13 @@ const checkoutButton = document.querySelector('button[name="checkout"]');
 checkoutButton.addEventListener('click', function(event) {
   event.preventDefault(); // Предотвращаем отправку формы по умолчанию
 
+  const name = document.getElementById("cart-name").value;
+  const surname = document.getElementById("cart-surname").value;
+  const phone = document.getElementById("cart-phone-number").value;
   const note = document.getElementById('cart_note').value;
   const cart = JSON.parse(localStorage.getItem('cart')) || [];
 
-  sendOrderEmail(note, cart);
+  sendOrderEmail(note, cart, name, surname, phone);
 });
 
 // Добавляем обработчики событий для удаления и изменения количества товаров
