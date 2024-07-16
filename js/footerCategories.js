@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
     function createCategoryLink(category) {
         return `
             <li>
-                <a href="collection.html?id=${category.category_id}">${category.title}</a>
+                <a class="footer_after_link" style="color: #000;" href="collection.html?id=${category.category_id}">${category.title}</a>
             </li>
         `;
     }

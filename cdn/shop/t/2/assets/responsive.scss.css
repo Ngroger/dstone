@@ -22,7 +22,7 @@
   }
   .header_center_abs .header_center {
     position: static;
-    background: url(contentblock_bg_image.png) 50% 0 no-repeat;
+    /* background: url(contentblock_bg_image.png) 50% 0 no-repeat; */
     background-size: cover;
   }
   .header_center_abs .header_center.megamenu_stuck {

@@ -33,9 +33,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 <div class="collection_item flexible_block flexible_block__normal flexible_block__hover flexible_block__">
                     <a href="collections/collection.html?id=${category.category_id}">
                         <div class="layer_1 collection_img">
-                            <div class="img_placeholder__wrap img_placeholder__medium" style="
-                                background-image: url(https://diamondstone.kz/api-categoryImage/${category.photo});
-                            "></div>
+                            <div class="img_placeholder__wrap img_placeholder__medium" style="background-image: url(https://diamondstone.kz/api-categoryImage/${category.photo});"></div>
                         </div>
                         <div class="layer_2">
                             <div>

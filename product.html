@@ -6,7 +6,11 @@
 	<meta charset="utf-8" />
 	<script defer="" src="js/cart.js"></script>
 	<script defer="" src="js/product.js"></script>
+	<script defer="" src="js/languages.js"></script>
+	<script defer="" src="js/loadLanguage.js"></script>
+
 	<link href="font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 	<meta charset="utf-8" />
 
 	<title>
@@ -1114,246 +1118,7 @@
 			moneyFormat: "${{amount}}",
 		};
 	</script>
-	<meta property="og:image"
-		content="https://cdn.shopify.com/s/files/1/2025/6185/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1.png?v=1495462546" />
-	<meta property="og:image:secure_url"
-		content="https://cdn.shopify.com/s/files/1/2025/6185/products/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1.png?v=1495462546" />
-	<meta property="og:image:width" content="1000" />
-	<meta property="og:image:height" content="1000" />
-	<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch" />
-	<script>
-		(function () {
-			if ("sendBeacon" in navigator && "performance" in window) {
-				var session_token = document.cookie.match(/_shopify_s=([^;]*)/);
-				function handle_abandonment_event(e) {
-					var entries = performance.getEntries().filter(function (entry) {
-						return /monorail-edge.shopifysvc.com/.test(entry.name);
-					});
-					if (!window.abandonment_tracked && entries.length === 0) {
-						window.abandonment_tracked = true;
-						var currentMs = Date.now();
-						var navigation_start = performance.timing.navigationStart;
-						var payload = {
-							shop_id: 20256185,
-							url: window.location.href,
-							navigation_start,
-							duration: currentMs - navigation_start,
-							session_token:
-								session_token && session_token.length === 2
-									? session_token[1]
-									: "",
-							page_type: "product",
-						};
-						window.navigator.sendBeacon(
-							"https://monorail-edge.shopifysvc.com/v1/produce",
-							JSON.stringify({
-								schema_id: "online_store_buyer_site_abandonment/1.1",
-								payload: payload,
-								metadata: {
-									event_created_at_ms: currentMs,
-									event_sent_at_ms: currentMs,
-								},
-							})
-						);
-					}
-				}
-				window.addEventListener("pagehide", handle_abandonment_event);
-			}
-		})();
-	</script>
-	<script id="web-pixels-manager-setup">
-		(function e(e, n, a, t, r) {
-			var o =
-				"function" == typeof BigInt &&
-					-1 !== BigInt.toString().indexOf("[native code]")
-					? "modern"
-					: "legacy";
-			window.Shopify = window.Shopify || {};
-			var i = window.Shopify;
-			i.analytics = i.analytics || {};
-			var s = i.analytics;
-			(s.replayQueue = []),
-				(s.publish = function (e, n, a) {
-					return s.replayQueue.push([e, n, a]), !0;
-				});
-			try {
-				self.performance.mark("wpm:start");
-			} catch (e) { }
-			var l = [a, "/wpm", "/b", r, o.substring(0, 1), ".js"].join("");
-			!(function (e) {
-				var n = e.src,
-					a = e.async,
-					t = void 0 === a || a,
-					r = e.onload,
-					o = e.onerror,
-					i = document.createElement("script"),
-					s = document.head,
-					l = document.body;
-				(i.async = t),
-					(i.src = n),
-					r && i.addEventListener("load", r),
-					o && i.addEventListener("error", o),
-					s
-						? s.appendChild(i)
-						: l
-							? l.appendChild(i)
-							: console.error(
-								"Did not find a head or body element to append the script"
-							);
-			})({
-				src: l,
-				async: !0,
-				onload: function () {
-					var a = window.webPixelsManager.init(e);
-					n(a);
-					var t = window.Shopify.analytics;
-					t.replayQueue.forEach(function (e) {
-						var n = e[0],
-							t = e[1],
-							r = e[2];
-						a.publishCustomEvent(n, t, r);
-					}),
-						(t.replayQueue = []),
-						(t.publish = a.publishCustomEvent),
-						(t.visitor = a.visitor);
-				},
-				onerror: function () {
-					var n = e.storefrontBaseUrl.replace(/\/$/, ""),
-						a = "".concat(
-							n,
-							"/.well-known/shopify/monorail/unstable/produce_batch"
-						),
-						r = JSON.stringify({
-							metadata: { event_sent_at_ms: new Date().getTime() },
-							events: [
-								{
-									schema_id: "web_pixels_manager_load/2.0",
-									payload: {
-										version: t || "latest",
-										page_url: self.location.href,
-										status: "failed",
-										error_msg: "".concat(l, " has failed to load"),
-									},
-									metadata: { event_created_at_ms: new Date().getTime() },
-								},
-							],
-						});
-					try {
-						if (self.navigator.sendBeacon.bind(self.navigator)(a, r))
-							return !0;
-					} catch (e) { }
-					var o = new XMLHttpRequest();
-					try {
-						return (
-							o.open("POST", a, !0),
-							o.setRequestHeader("Content-Type", "text/plain"),
-							o.send(r),
-							!0
-						);
-					} catch (e) {
-						console &&
-							console.warn &&
-							console.warn(
-								"[Web Pixels Manager] Got an unhandled error while logging a load error."
-							);
-					}
-					return !1;
-				},
-			});
-		})(
-			{
-				shopId: 20256185,
-				storefrontBaseUrl: "https://theme336-tile-stone.myshopify.com",
-				extensionsBaseUrl:
-					"https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",
-				surface: "storefront-renderer",
-				enabledBetaFlags: ["5de24938", "3b4293f9"],
-				webPixelsConfigList: [
-					{
-						id: "shopify-app-pixel",
-						configuration: "{}",
-						eventPayloadVersion: "v1",
-						runtimeContext: "STRICT",
-						scriptVersion: "090",
-						apiClientId: "shopify-pixel",
-						type: "APP",
-						purposes: ["ANALYTICS", "MARKETING"],
-					},
-					{
-						id: "shopify-custom-pixel",
-						eventPayloadVersion: "v1",
-						runtimeContext: "LAX",
-						scriptVersion: "090",
-						apiClientId: "shopify-pixel",
-						type: "CUSTOM",
-						purposes: ["ANALYTICS", "MARKETING"],
-					},
-				],
-				initData: {
-					cart: null,
-					checkout: null,
-					customer: null,
-					productVariants: [
-						{
-							id: "34973768786",
-							image: {
-								src: "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1.png?v=1495462546",
-							},
-							price: { amount: 10000, currencyCode: "KZT" },
-							product: {
-								id: "9584357714",
-								title:
-									"Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile",
-								untranslatedTitle:
-									"Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile",
-								url: "\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile",
-								vendor: "DStone",
-								type: "Southwestern",
-							},
-							sku: "",
-							title: "Default Title",
-							untranslatedTitle: "Default Title",
-						},
-					],
-					shop: {
-						name: "DStone",
-						paymentSettings: { currencyCode: "KZT" },
-						myshopifyDomain: "theme336-tile-stone.myshopify.com",
-						countryCode: "US",
-						storefrontUrl: "https:\/\/theme336-tile-stone.myshopify.com",
-					},
-				},
-			},
-			function pageEvents(webPixelsManagerAPI) {
-				webPixelsManagerAPI.publish("page_viewed");
-				webPixelsManagerAPI.publish("product_viewed", {
-					productVariant: {
-						id: "34973768786",
-						image: {
-							src: "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1.png?v=1495462546",
-						},
-						price: { amount: 10000, currencyCode: "KZT" },
-						product: {
-							id: "9584357714",
-							title:
-								"Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile",
-							untranslatedTitle:
-								"Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile",
-							url: "\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile",
-							vendor: "DStone",
-							type: "Southwestern",
-						},
-						sku: "",
-						title: "Default Title",
-						untranslatedTitle: "Default Title",
-					},
-				});
-			},
-			"https://theme336-tile-stone.myshopify.com/cdn",
-			"5b636a1e6fdeaedbf596f5704297971b3433a17e",
-			"07126ca1w84bbcbafp74979a33mc3de2333"
-		);
-	</script>
+
 	<script>
 		window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 		window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -1790,86 +1555,79 @@
 	</script>
 </head>
 
-<body class="template-product">
-	<div class="page_wrapper">
-		<div id="shopify-section-header" class="shopify-section">
-			<header id="page_header">
-				<div class="page_container">
-					<div class="header_top">
-						<div id="pseudo_sticky_block"></div>
-						<div class="header_center">
-							<div style="display: flex; align-items: center !important" class="header_wrap1">
-								<div class="header_logo">
-									<a href="index.html">
-										<img src="cdn/shop/files/diamond-stone.png" alt="DStone" />
-									</a>
-								</div>
-
-								<div class="header_cart">
-									<a href="cart.html" id="openscarts">0 Корзина</a>
-								</div>
-								<script>
-									function doSomethingCool(event) {
-										event.preventDefault();
-									}
-								</script>
-								<nav id="megamenu" class="megamenu">
-									<h2 id="megamenu_mobile_toggle">
-										<i class="fa fa-bars" aria-hidden="true"></i>Меню
-									</h2>
-
-									<div id="megamenu_mobile_close">
-										<div class="close_icon"></div>
-									</div>
-
-									<ul id="megamenu_level__1" class="level_1">
-										<li class="level_1__item">
-											<a class="level_1__link active" href="index.html">Главная</a>
-										</li>
-
-										<li class="level_1__item level_2__links">
-											<a class="level_1__link sf-with-ul" href="collections.html">Каталог
-												<i class="level_1__trigger megamenu_trigger"
-													data-submenu="menu_1479745635495"></i>
-											</a>
-
-											<ul class="level_2" id="menu_1479745635495">
-												<li class="container">
-													<div class="megamenu_col__item">
-														<a class="level_3__link" href="collections/waterjet-marble-mosaic.html">Waterjet marble mosaic</a>
-														<a class="level_3__link" href="collections/3D-marble-mosaic-tiles.html">3D marble mosaic tiles</a>
-														<a class="level_3__link" href="collections/marble-metal.html">Marble & Metal</a>
-														<a class="level_3__link" href="collections/irregular-marble-mosaic-tiles.html">Irregular marble mosaic tiles</a>
-														<a class="level_3__link" href="collections/flat-mosaic.html">Flat Mosaic</a>
-														<a class="level_3__link" href="collections/border-series.html">Border Series</a>
-														<a class="level_3__link" href="collections/waterjet-marble-medallion.html">Waterjet marble medallion</a>
-														<a class="level_3__link" href="collections/square-strip-marble-mosaic-tiles.html">Square/strip marble mosaic tiles</a>
-													</div>
-												</li>
-											</ul>
-										</li>
-
-										<li class="level_1__item level_2__small">
-											<a class="level_1__link" href="about-us.html">О нас
-											</a>
-										</li>
-
-										<li class="level_1__item">
-											<a class="level_1__link" href="contact-us.html">Контакты
-											</a>
-										</li>
-									</ul>
-								</nav>
+<body class="template-product" style="background-color: #fff !important;">
+	<div class="page_wrapper" style="background-color: #fff !important;">
+		<div id="shopify-section-header" class="shopify-section" style="background-color: #fff !important;">
+			<header id="page_header" style="background-color: #fff !important;">
+				<div class="page_container" style="background-color: #fff !important;">
+					<div class="header_top" style="background-color: #fff !important;">
+						<div id="pseudo_sticky_block" ></div>
+						<div class="header_center" style="background-color: #fff !important; background: none;">
+						<div style="display: flex; align-items: center !important;" class="header_wrap1">
+							<div style="justify-content: center; display: flex; align-items: center" class="header_logo">
+							<a href="index.html">
+								<img src="cdn/shop/files/diamond-stone.png" alt="DStone" />
+							</a>
 							</div>
+							<div class="language_selector">
+							<div class="language" id="selected_language"><i class="fas fa-globe"></i> RU</div>
+							<div class="language_dropdown">
+								<button class="select-language" data-lang="RU">RU</button>
+								<button class="select-language" data-lang="KZ">KZ</button>
+								<button class="select-language" data-lang="ENG">ENG</button>
+							</div>
+							</div>
+							<div class="header_cart" style="border: 1px solid #000;">
+								<a href="cart.html" id="openscarts" style="color: #000;">0 Корзина</a>
+							</div>
+							<nav id="megamenu" class="megamenu">
+							<h2 id="megamenu_mobile_toggle">
+								<i class="fa fa-bars" aria-hidden="true"></i>Меню
+							</h2>
+							<div id="megamenu_mobile_close">
+								<div class="close_icon"></div>
+							</div>
+							<ul id="megamenu_level__1" class="level_1">
+								<li class="level_1__item">
+								<a class="level_1__link" href="index.html" id="mainButtonTitle" style="color: #000;">Главная</a>
+								</li>
+								<li class="level_1__item level_2__links">
+								<a class="level_1__link sf-with-ul" href="collections.html" id="catalogButtonTitle" style="color: #000">Каталог
+									<i class="level_1__trigger megamenu_trigger" data-submenu="menu_1479745635495"></i>
+								</a>
+								<ul class="level_2" style="border: 1px solid #CCC;" id="menu_1479745635495">
+									<li class="container">
+									<div class="megamenu_col__item">
+										<a class="level_3__link" href="collections/waterjet-marble-mosaic.html">Waterjet marble mosaic</a><br>
+										<a class="level_3__link" href="collections/3D-marble-mosaic-tiles.html">3D marble mosaic tiles</a><br>
+										<a class="level_3__link" href="collections/marble-metal.html">Marble & Metal</a><br>
+										<a class="level_3__link" href="collections/irregular-marble-mosaic-tiles.html">Irregular marble mosaic tiles</a><br>
+										<a class="level_3__link" href="collections/flat-mosaic.html">Flat Mosaic</a><br>
+										<a class="level_3__link" href="collections/border-series.html">Border Series</a><br>
+										<a class="level_3__link" href="collections/waterjet-marble-medallion.html">Waterjet marble medallion</a><br>
+										<a class="level_3__link" href="collections/square-strip-marble-mosaic-tiles.html">Square/strip marble mosaic tiles</a><br>
+									</div>
+									</li>
+								</ul>
+								</li>
+									<li class="level_1__item level_2__small">
+										<a class="level_1__link" href="about-us.html" id="aboutUsButtonTitle" style="color: #000">О нас</a>
+									</li>
+									<li class="level_1__item">
+										<a class="level_1__link" href="contact-us.html" id="contactsButtonTitle" style="color: #000">Контакты</a>
+									</li>
+								</ul>
+							</nav>
+						</div>
 						</div>
 					</div>
 				</div>
 			</header>
 		</div>
 
-		<div class="page_container">
-			<div class="breadcrumbs">
-				<div class="container">
+		<div class="page_container" style="background-color: #fff !important;">
+			<div class="breadcrumbs" style="background-color: #fff !important;">
+				<div class="container" style="background-color: #fff !important;">
 					<ul>
 						<li><a href="index.html">Главная</a></li>
 
@@ -1878,155 +1636,7 @@
 				</div>
 			</div>
 
-			<div id="shopify-section-template-product"
-				class="shopify-section section section_single-product section_product section_template__product">
-				<script type="application/json" id="product_json_template-product">
-            {
-              "id": 9584357714,
-              "title": "Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile",
-              "handle": "abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile",
-              "description": "\u003ch2\u003eOur managers can advise the customer how to create a unique interior, combining tiles or stones from various collections.\u003c\/h2\u003e\n\u003cp\u003eSo as you see, tile and stone are universal finishing materials, which allow you to implement any design ideas you have and at the same time save your efforts \u0026amp; money. They will serve you for decades, delighting you with their brilliance and sophisticated design. Whether you need a ceramic tile, glass tile or natural stone for your interior, feel free to contact our online store representative and we will gladly help you find the right material for your design!\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eSo as you see, tile and stone are universal finishing materials, which allow you to implement any design ideas you have and at the same time save your efforts \u0026amp; money.\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003eLeading European manufacturers presented their products in the widest range, and you can browse this beauty on the pages of our store catalog. Each collection is a part of a particular category that allows you quickly navigate when searching for the right tile or stone design. Our managers can advise the customer how to create a unique interior, combining tiles or stones from various collections. So as you see, tile and stone are universal finishing materials, which allow you to implement any design ideas you have and at the same time save your efforts \u0026amp; money.\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003eVictorian\u003c\/li\u003e\n\u003cli\u003eSouthwestern\u003c\/li\u003e\n\u003cli\u003eScandinavian\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003ch3\u003eEach collection is a part of a particular category that allows you quickly navigate when searching for the right tile or stone design.\u003c\/h3\u003e\n\u003cp\u003eThey will serve you for decades, delighting you with their brilliance and sophisticated design. Whether you need a ceramic tile, glass tile or natural stone for your interior, feel free to contact our online store representative and we will gladly help you find the right material for your design! Going to make repairs in your house, apartment or office soon? \u003cstrong\u003eOr you just want to \"refresh\"\u003c\/strong\u003e the interior and make the room more stylish and elegant? Or maybe you want to add a new element in some room for the perception of the antique?\u003c\/p\u003e\n\u003cp\u003eOur online store has a wide range of tile and stone that can be used for the arrangement of any premises. Whatever modern and innovative materials appear on the market of finishing materials, tiles and stone still are in the priority.\u003c\/p\u003e",
-              "published_at": "2017-05-22T10:15:32-04:00",
-              "created_at": "2017-05-22T10:15:46-04:00",
-              "vendor": "DStone",
-              "type": "Southwestern",
-              "tags": ["ceramic", "stone"],
-              "price": 10000,
-              "price_min": 10000,
-              "price_max": 10000,
-              "available": true,
-              "price_varies": false,
-              "compare_at_price": null,
-              "compare_at_price_min": 0,
-              "compare_at_price_max": 0,
-              "compare_at_price_varies": false,
-              "variants": [
-                {
-                  "id": 34973768786,
-                  "inventory_quantity": 93,
-                  "title": "Default Title",
-                  "option1": "Default Title",
-                  "option2": null,
-                  "option3": null,
-                  "sku": "",
-                  "requires_shipping": true,
-                  "taxable": true,
-                  "featured_image": null,
-                  "available": true,
-                  "name": "Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile",
-                  "public_title": null,
-                  "options": ["Default Title"],
-                  "price": 10000,
-                  "weight": 0,
-                  "compare_at_price": null,
-                  "inventory_quantity": 93,
-                  "inventory_management": "shopify",
-                  "inventory_policy": "deny",
-                  "barcode": "",
-                  "requires_selling_plan": false,
-                  "selling_plan_allocations": [],
-                  "quantity_rule": { "min": 1, "max": null, "increment": 1 }
-                }
-              ],
-              "images": [
-                "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1.png?v=1495462546",
-                "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_2.png?v=1495462546",
-                "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_3.png?v=1495462546",
-                "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_4.png?v=1495462546",
-                "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_5.png?v=1495462546"
-              ],
-              "featured_image": "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1.png?v=1495462546",
-              "options": ["Title"],
-              "media": [
-                {
-                  "alt": null,
-                  "id": 455074938939,
-                  "position": 1,
-                  "preview_image": {
-                    "aspect_ratio": 1.0,
-                    "height": 1000,
-                    "width": 1000,
-                    "src": "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1.png?v=1495462546"
-                  },
-                  "aspect_ratio": 1.0,
-                  "height": 1000,
-                  "media_type": "image",
-                  "src": "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1.png?v=1495462546",
-                  "width": 1000
-                },
-                {
-                  "alt": null,
-                  "id": 455074971707,
-                  "position": 2,
-                  "preview_image": {
-                    "aspect_ratio": 1.0,
-                    "height": 1000,
-                    "width": 1000,
-                    "src": "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_2.png?v=1495462546"
-                  },
-                  "aspect_ratio": 1.0,
-                  "height": 1000,
-                  "media_type": "image",
-                  "src": "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_2.png?v=1495462546",
-                  "width": 1000
-                },
-                {
-                  "alt": null,
-                  "id": 455075004475,
-                  "position": 3,
-                  "preview_image": {
-                    "aspect_ratio": 1.0,
-                    "height": 1000,
-                    "width": 1000,
-                    "src": "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_3.png?v=1495462546"
-                  },
-                  "aspect_ratio": 1.0,
-                  "height": 1000,
-                  "media_type": "image",
-                  "src": "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_3.png?v=1495462546",
-                  "width": 1000
-                },
-                {
-                  "alt": null,
-                  "id": 455075037243,
-                  "position": 4,
-                  "preview_image": {
-                    "aspect_ratio": 1.0,
-                    "height": 1000,
-                    "width": 1000,
-                    "src": "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_4.png?v=1495462546"
-                  },
-                  "aspect_ratio": 1.0,
-                  "height": 1000,
-                  "media_type": "image",
-                  "src": "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_4.png?v=1495462546",
-                  "width": 1000
-                },
-                {
-                  "alt": null,
-                  "id": 455075070011,
-                  "position": 5,
-                  "preview_image": {
-                    "aspect_ratio": 1.0,
-                    "height": 1000,
-                    "width": 1000,
-                    "src": "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_5.png?v=1495462546"
-                  },
-                  "aspect_ratio": 1.0,
-                  "height": 1000,
-                  "media_type": "image",
-                  "src": "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_5.png?v=1495462546",
-                  "width": 1000
-                }
-              ],
-              "requires_selling_plan": false,
-              "selling_plan_groups": [],
-              "content": "\u003ch2\u003eOur managers can advise the customer how to create a unique interior, combining tiles or stones from various collections.\u003c\/h2\u003e\n\u003cp\u003eSo as you see, tile and stone are universal finishing materials, which allow you to implement any design ideas you have and at the same time save your efforts \u0026amp; money. They will serve you for decades, delighting you with their brilliance and sophisticated design. Whether you need a ceramic tile, glass tile or natural stone for your interior, feel free to contact our online store representative and we will gladly help you find the right material for your design!\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eSo as you see, tile and stone are universal finishing materials, which allow you to implement any design ideas you have and at the same time save your efforts \u0026amp; money.\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003eLeading European manufacturers presented their products in the widest range, and you can browse this beauty on the pages of our store catalog. Each collection is a part of a particular category that allows you quickly navigate when searching for the right tile or stone design. Our managers can advise the customer how to create a unique interior, combining tiles or stones from various collections. So as you see, tile and stone are universal finishing materials, which allow you to implement any design ideas you have and at the same time save your efforts \u0026amp; money.\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003eVictorian\u003c\/li\u003e\n\u003cli\u003eSouthwestern\u003c\/li\u003e\n\u003cli\u003eScandinavian\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003ch3\u003eEach collection is a part of a particular category that allows you quickly navigate when searching for the right tile or stone design.\u003c\/h3\u003e\n\u003cp\u003eThey will serve you for decades, delighting you with their brilliance and sophisticated design. Whether you need a ceramic tile, glass tile or natural stone for your interior, feel free to contact our online store representative and we will gladly help you find the right material for your design! Going to make repairs in your house, apartment or office soon? \u003cstrong\u003eOr you just want to \"refresh\"\u003c\/strong\u003e the interior and make the room more stylish and elegant? Or maybe you want to add a new element in some room for the perception of the antique?\u003c\/p\u003e\n\u003cp\u003eOur online store has a wide range of tile and stone that can be used for the arrangement of any premises. Whatever modern and innovative materials appear on the market of finishing materials, tiles and stone still are in the priority.\u003c\/p\u003e"
-            }
-          </script>
-
-				<script type="application/json" id="variant_weights_template-product">
-          </script>
+			<div id="shopify-section-template-product" class="shopify-section section section_single-product section_product section_template__product">
 
 				<div class="container">
 					<div class="row">
@@ -2034,13 +1644,13 @@
 							<div id="gallery_big-template-product" class="gallery_big swiper-container">
 								<div class="swiper-wrapper">
 									<div class="swiper-slide">
-										<img id="big-image-1" class="primary_img_template-product_slide1515961" id="primary_img_template-product primary_img_template-product_slide1" src="" alt="Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile" />
+										<img id="big-image-1" style="object-fit: cover; width: 100%;" class="primary_img_template-product_slide1515961" id="primary_img_template-product primary_img_template-product_slide1" src="" alt="Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile" />
 									</div>
 									<div class="swiper-slide">
-										<img id="big-image-2" class="primary_img_template-product_slide15159615768" id="primary_img_template-product primary_img_template-product_slide2" src="" alt="" />
+										<img id="big-image-2" style="object-fit: cover; width: 100%;" class="primary_img_template-product_slide15159615768" id="primary_img_template-product primary_img_template-product_slide2" src="" alt="" />
 									</div>
 									<div class="swiper-slide">
-										<img id="big-image-3" class="primary_img_template-product_slide151586181" id="primary_img_template-product primary_img_template-product_slide3" src="" alt="" />
+										<img id="big-image-3" style="object-fit: cover; width: 100%;" class="primary_img_template-product_slide151586181" id="primary_img_template-product primary_img_template-product_slide3" src="" alt="" />
 									</div>
 								</div>
 
@@ -2151,62 +1761,63 @@
 			</div>
 
 			<div id="shopify-section-footer" class="shopify-section">
-				<footer>
-					<div class="footer_row__1">
-						<div class="container">
+				<footer style="background-color: #fff;">
+					<div style="background-color: #fff;" class="footer_row__1">
+						<div style="background-color: #fff;" class="container">
 							<div class="row">
-								<div class="flexbox">
+								<div style="background-color: #fff;" class="flexbox">
 									<div class="col-sm-3 footer_block footer_block__2_1">
+										
 										<div class="footer_item footer_item__links">
-											<h6>Информация</h6>
+											
+											<h6 style="color: #000;">Информация</h6>
 
 											<ul>
 												<li>
-													<a href="index.html">Главная</a>
+													<a style="color: #000;" class="footer_after_link" href="index.html">Главная</a>
 												</li>
 
 												<li>
-													<a href="collections.html">Коллекции</a>
+													<a style="color: #000;" class="footer_after_link" href="collections.html">Коллекции</a>
 												</li>
 
 												<li>
-													<a href="about-us.html">О нас</a>
+													<a style="color: #000;" class="footer_after_link" href="about-us.html">О нас</a>
 												</li>
 												<li>
-													<a href="contact-us.html">Контакты</a>
+													<a style="color: #000;" class="footer_after_link" href="contact-us.html">Контакты</a>
 												</li>
 											</ul>
 										</div>
-										<img style="margin-right: 100px; height: 200px" src="images/footer-light.png"/>
+										<img style="margin-right: 100px; height: 200px; width: 100px" src="images/footer-light.png" />
 									</div>
 
 									<div class="col-sm-3 footer_block">
-										<div class="footer_item footer_item__links">
-											<h6>Каталог</h6>
-
+										<div class="footer_item footer_item__links footer_item__categories_links">
+											<h6 style="color: #000;">Каталог</h6>
 											<ul>
 												<li>
-													<a href="collections/collection.html?id=2">Waterjet marble mosaic</a>
+													<a style="color: #000;" href="collections/collection.html?id=2">Waterjet marble mosaic</a>
 												</li>
 
 												<li>
-													<a href="collections/collection.html?id=3">3D marble mosaic tiles</a>
+													<a style="color: #000;" href="collections/collection.html?id=3">3D marble mosaic tiles</a>
 												</li>
 
 												<li>
-													<a href="collections/collection.html?id=4">Marble & Metal</a>
+													<a style="color: #000;" href="collections/collection.html?id=4">Marble & Metal</a>
 												</li>
 
 												<li>
-													<a href="collections/collection.html?id=5">Irregular marble mosaic tiles</a>
+													<a style="color: #000;" href="collections/collection.html?id=5">Irregular marble mosaic tiles</a>
 												</li>
 
 												<li>
-													<a href="collections/collection.html?id=6">Flat Mosaic</a>
+													<a style="color: #000;" href="collections/collection.html?id=6">Flat Mosaic</a>
 												</li>
 
 												<li>
-													<a href="collections/collection.html?id=7">Border Series</a>
+													<a style="color: #000;" href="collections/collection.html?id=7">Border Series</a>
 												</li>
 											</ul>
 										</div>
@@ -2214,35 +1825,36 @@
 
 									<div class="col-sm-3 footer_block footer_block__2_1">
 										<div class="footer_item footer_item__social">
-											<h6>Подписывайтесь</h6>
+											<h6 style="color: #000;">Подписывайтесь</h6>
 
 											<ul>
 												<li>
 													<a href="https://www.instagram.com/landerstoneallen/"><i
 															class="fa fa-facebook"
-															aria-hidden="true"></i><span>Facebook</span></a>
+															aria-hidden="true"></i><span style="color: #000;">Facebook</span></a>
 												</li>
 												<li>
-													<a href="https://www.facebook.com/profile.php?id=100069467755646"><i
+													<a  href="https://www.facebook.com/profile.php?id=100069467755646"><i
 															class="fa fa-instagram"
-															aria-hidden="true"></i><span>Instagram</span></a>
+															aria-hidden="true"></i><span style="color: #000;">Instagram</span></a>
 												</li>
 											</ul>
 										</div>
 									</div>
-
+									
 									<div class="col-sm-3 footer_block">
 										<div class="footer_item footer_item__contacts">
-											<h6>Контакты</h6>
+											<h6 style="color: #000;">Контакты</h6>
 
 											<div>
-												<p>
-													Богенбай батыра 83/6, Астана, Казахстан
-												</p>
+												<p style="color: #000;">Богенбай батыра 83/6, Астана, Казахстан</p>
 												<p></p>
-												<p>+7 (701) 333-00-00<br />info@bokentau-company.kz</p>
+												<p style="color: #000;">
+													+7 (701) 333-00-00<br />info@bokentau-company.kz
+												</p>
 											</div>
 										</div>
+										
 									</div>
 
 									<div class="clearfix devided"></div>

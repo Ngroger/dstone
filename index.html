@@ -4,15 +4,21 @@
 <head>
 	<link rel="stylesheet" href="css/knopka.css" />
 	<meta charset="utf-8" />
+	<!-- scripts -->
 	<script defer="" src="js/cart.js"></script>
 	<script defer="" src="js/products.js"></script>
 	<script defer="" src="js/footerCategories.js"></script>
+	<script defer="" src="js/languages.js"></script>
+	<script defer="" src="js/loadLanguage.js"></script>
+
 	<link href="font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
 	<title>DStone - Главная</title>
 
 	<link rel="canonical" href="index.html" />
 
 	<link rel="shortcut icon" href="cdn/shop/files/favicon1_small.png?v=1613659566" type="image/png" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
@@ -1114,81 +1120,79 @@
 <body class="template-index">
 	<div class="page_wrapper">
 		<div id="shopify-section-header" class="shopify-section">
-			<header id="page_header">
-				<div class="page_container">
-					<div class="header_top">
+			<header id="page_header" style="background-color: #fff !important;">
+				<div class="page_container" style="background-color: #fff !important;">
+					<div class="header_top" style="background-color: #fff !important">
 						<div id="pseudo_sticky_block"></div>
-						<div class="header_center">
-							<div style="display: flex; align-items: center !important" class="header_wrap1">
-								<div class="header_logo">
-									<a href="index.html">
-										<img src="cdn/shop/files/diamond-stone.png" alt="DStone" />
-									</a>
-								</div>
-
-								<div class="header_cart">
-									<a href="cart.html" id="openscarts">0 Корзина</a>
-								</div>
-								<script>
-									function doSomethingCool(event) {
-										event.preventDefault();
-									}
-								</script>
-								<nav id="megamenu" class="megamenu">
-									<h2 id="megamenu_mobile_toggle">
-										<i class="fa fa-bars" aria-hidden="true"></i>Меню
-									</h2>
-
-									<div id="megamenu_mobile_close">
-										<div class="close_icon"></div>
-									</div>
-
-									<ul id="megamenu_level__1" class="level_1">
-										<li class="level_1__item">
-											<a class="level_1__link active" href="index.html">Главная</a>
-										</li>
-
-										<li class="level_1__item level_2__links">
-											<a class="level_1__link sf-with-ul" href="collections.html">Каталог
-												<i class="level_1__trigger megamenu_trigger"
-													data-submenu="menu_1479745635495"></i>
-											</a>
-
-											<ul class="level_2" id="menu_1479745635495">
-												<li class="container">
-													<div class="megamenu_col__item">
-														<a class="level_3__link" href="collections/waterjet-marble-mosaic.html">Waterjet marble mosaic</a>
-														<a class="level_3__link" href="collections/3D-marble-mosaic-tiles.html">3D marble mosaic tiles</a>
-														<a class="level_3__link" href="collections/marble-metal.html">Marble & Metal</a>
-														<a class="level_3__link" href="collections/irregular-marble-mosaic-tiles.html">Irregular marble mosaic tiles</a>
-														<a class="level_3__link" href="collections/flat-mosaic.html">Flat Mosaic</a>
-														<a class="level_3__link" href="collections/border-series.html">Border Series</a>
-														<a class="level_3__link" href="collections/waterjet-marble-medallion.html">Waterjet marble medallion</a>
-														<a class="level_3__link" href="collections/square-strip-marble-mosaic-tiles.html">Square/strip marble mosaic tiles</a>
-													</div>
-												</li>
-											</ul>
-										</li>
-
-										<li class="level_1__item level_2__small">
-											<a class="level_1__link" href="about-us.html">О нас
-											</a>
-										</li>
-
-										<li class="level_1__item">
-											<a class="level_1__link" href="contact-us.html">Контакты
-											</a>
-										</li>
-									</ul>
-								</nav>
+						<div class="header_center" style="background-color: #fff !important;">
+						<div style="display: flex; align-items: center !important;" class="header_wrap1">
+							<div style="justify-content: center; display: flex; align-items: center" class="header_logo">
+							<a href="index.html">
+								<img src="cdn/shop/files/diamond-stone.png" alt="DStone" />
+							</a>
 							</div>
+							<div class="language_selector">
+							<div class="language" id="selected_language"><i class="fas fa-globe"></i> RU</div>
+							<div class="language_dropdown">
+								<button class="select-language" data-lang="RU">RU</button>
+								<button class="select-language" data-lang="KZ">KZ</button>
+								<button class="select-language" data-lang="ENG">ENG</button>
+							</div>
+							</div>
+							<div class="header_cart" style="border: 1px solid #000;">
+								<a href="cart.html" id="openscarts" style="color: #000;">0 Корзина</a>
+							</div>
+							<script>
+							function doSomethingCool(event) {
+								event.preventDefault();
+							}
+							</script>
+							<nav id="megamenu" class="megamenu">
+							<h2 id="megamenu_mobile_toggle">
+								<i class="fa fa-bars" aria-hidden="true"></i>Меню
+							</h2>
+							<div id="megamenu_mobile_close">
+								<div class="close_icon"></div>
+							</div>
+							<ul id="megamenu_level__1" class="level_1">
+								<li class="level_1__item">
+								<a class="level_1__link" href="index.html" id="mainButtonTitle" style="color: #000;">Главная</a>
+								</li>
+								<li class="level_1__item level_2__links">
+								<a class="level_1__link sf-with-ul" href="collections.html" id="catalogButtonTitle" style="color: #000">Каталог
+									<i class="level_1__trigger megamenu_trigger" data-submenu="menu_1479745635495"></i>
+								</a>
+								<ul class="level_2" style="border: 1px solid #CCC;" id="menu_1479745635495">
+									<li class="container">
+									<div class="megamenu_col__item">
+										<a class="level_3__link" href="collections/waterjet-marble-mosaic.html">Waterjet marble mosaic</a><br>
+										<a class="level_3__link" href="collections/3D-marble-mosaic-tiles.html">3D marble mosaic tiles</a><br>
+										<a class="level_3__link" href="collections/marble-metal.html">Marble & Metal</a><br>
+										<a class="level_3__link" href="collections/irregular-marble-mosaic-tiles.html">Irregular marble mosaic tiles</a><br>
+										<a class="level_3__link" href="collections/flat-mosaic.html">Flat Mosaic</a><br>
+										<a class="level_3__link" href="collections/border-series.html">Border Series</a><br>
+										<a class="level_3__link" href="collections/waterjet-marble-medallion.html">Waterjet marble medallion</a><br>
+										<a class="level_3__link" href="collections/square-strip-marble-mosaic-tiles.html">Square/strip marble mosaic tiles</a><br>
+									</div>
+									</li>
+								</ul>
+								</li>
+									<li class="level_1__item level_2__small">
+										<a class="level_1__link" href="about-us.html" id="aboutUsButtonTitle" style="color: #000">О нас</a>
+									</li>
+									<li class="level_1__item">
+										<a class="level_1__link" href="contact-us.html" id="contactsButtonTitle" style="color: #000">Контакты</a>
+									</li>
+								</ul>
+							</nav>
+						</div>
 						</div>
 					</div>
 				</div>
 			</header>
 		</div>
 
-		<div class="page_container">
+		<div class="page_container" style="margin-top: 100px;">
 			<!-- BEGIN content_for_index -->
 			<div id="shopify-section-1484331457896" class="shopify-section index-section section_bg section_slideshow_wrapper section_Главнаяpage">
 				
@@ -1221,32 +1225,32 @@
 			<div id="shopify-section-1495544831426" class="shopify-section index-section index-custom-menu section_bg">
 				<ul id="custom_menu">
 					<li class="level_1__item">
-						<a class="level_1__link" href="collections/waterjet-marble-mosaic.html">Waterjet marble mosaic</a>
+						<a class="level_1__link" style="font-size: 14px; padding-left: 24px; padding-right: 24px;" href="collections/waterjet-marble-mosaic.html">Waterjet marble mosaic</a>
 					</li>
 					<li class="level_1__item">
-						<a class="level_1__link" href="collections/3D-marble-mosaic-tiles.html">3D marble mosaic tiles</a>
+						<a class="level_1__link" style="font-size: 14px; padding-left: 14px; padding-right: 14px;" href="collections/3D-marble-mosaic-tiles.html">3D marble mosaic tiles</a>
 					</li>
 					<li class="level_1__item">
-						<a class="level_1__link" href="collections/marble-metal.html">Marble & Metal</a>
+						<a class="level_1__link" style="font-size: 14px; padding-left: 14px; padding-right: 14px;" href="collections/marble-metal.html">Marble & Metal</a>
 					</li>
 					<li class="level_1__item">
-						<a class="level_1__link" href="collections/irregular-marble-mosaic-tiles.html">Irregular marble mosaic tiles</a>
+						<a class="level_1__link" style="font-size: 14px; padding-left: 14px; padding-right: 14px;" href="collections/irregular-marble-mosaic-tiles.html">Irregular marble mosaic tiles</a>
 					</li>
 					<li class="level_1__item">
-						<a class="level_1__link" href="collections/flat-mosaic.html">Flat Mosaic</a>
+						<a class="level_1__link" style="font-size: 14px; padding-left: 14px; padding-right: 14px;" href="collections/flat-mosaic.html">Flat Mosaic</a>
 					</li>
 					<li class="level_1__item">
-						<a class="level_1__link" href="collections/border-series.html">Border Series</a>
+						<a class="level_1__link" style="font-size: 14px; padding-left: 14px; padding-right: 14px;" href="collections/border-series.html">Border Series</a>
 					</li>
 					<li class="level_1__item">
-						<a class="level_1__link" href="collections/waterjet-marble-medallion.html">Waterjet marble medallion</a>
+						<a class="level_1__link" style="font-size: 14px; padding-left: 14px; padding-right: 14px;" href="collections/waterjet-marble-medallion.html">Waterjet marble medallion</a>
 					</li>
 					<li class="level_1__item">
-						<a class="level_1__link" href="collections/square-strip-marble-mosaic-tiles.html">Square/strip marble mosaic tiles</a>
+						<a class="level_1__link" style="font-size: 14px; padding-left: 14px; padding-right: 14px;" href="collections/square-strip-marble-mosaic-tiles.html">Square/strip marble mosaic tiles</a>
 					</li>
 				</ul>
 			</div>
-			<div id="shopify-section-1495558826133" class="shopify-section section section_Главнаяpage section_banners">
+			<div id="shopify-section-1495558826133" style="background-color: #fff;" class="shopify-section section section_Главнаяpage section_banners">
 				<div class="container">
 					<div class="banners_wrapper">
 						<div style="margin-top: 40px" class="banner small_banner">
@@ -1336,8 +1340,7 @@
 							<div class="product_item">
 								<div class="product_img">
 									<a class="img_change" href="product1.html">
-										<img src="./images/products1/image1.jpg"
-											alt="Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile" />
+										<img src="./images/products1/image1.jpg" alt="Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile" />
 									</a>
 								</div>
 								<div class="product_info">
@@ -1505,33 +1508,32 @@
 			</div> -->
 			<!-- END content_for_index -->
 
-			<div id="shopify-section-footer" class="shopify-section">
-				<footer>
-					<div class="footer_row__1">
-						<div class="container">
+			<div style="background-color: #fff;" id="shopify-section-footer" class="shopify-section">
+				<footer style="background-color: #fff;">
+					<div style="background-color: #fff;" class="footer_row__1">
+						<div style="background-color: #fff;" class="container">
 							<div class="row">
-								<div class="flexbox">
-									
+								<div style="background-color: #fff;" class="flexbox">
 									<div class="col-sm-3 footer_block footer_block__2_1">
 										
 										<div class="footer_item footer_item__links">
 											
-											<h6>Информация</h6>
+											<h6 style="color: #000;">Информация</h6>
 
 											<ul>
 												<li>
-													<a href="index.html">Главная</a>
+													<a style="color: #000;" class="footer_after_link" href="index.html">Главная</a>
 												</li>
 
 												<li>
-													<a href="collections.html">Коллекции</a>
+													<a style="color: #000;" class="footer_after_link" href="collections.html">Коллекции</a>
 												</li>
 
 												<li>
-													<a href="about-us.html">О нас</a>
+													<a style="color: #000;" class="footer_after_link" href="about-us.html">О нас</a>
 												</li>
 												<li>
-													<a href="contact-us.html">Контакты</a>
+													<a style="color: #000;" class="footer_after_link" href="contact-us.html">Контакты</a>
 												</li>
 											</ul>
 										</div>
@@ -1540,62 +1542,62 @@
 
 									<div class="col-sm-3 footer_block">
 										<div class="footer_item footer_item__links footer_item__categories_links">
-											<h6>Каталог</h6>
+											<h6 style="color: #000; background-color: #fff;">Каталог</h6>
 											<ul>
 												<li>
-													<a href="collections/collection.html?id=2">Waterjet marble mosaic</a>
+													<a style="color: #000;" href="collections/collection.html?id=2">Waterjet marble mosaic</a>
 												</li>
 
 												<li>
-													<a href="collections/collection.html?id=3">3D marble mosaic tiles</a>
+													<a style="color: #000;" href="collections/collection.html?id=3">3D marble mosaic tiles</a>
 												</li>
 
 												<li>
-													<a href="collections/collection.html?id=4">Marble & Metal</a>
+													<a style="color: #000;" href="collections/collection.html?id=4">Marble & Metal</a>
 												</li>
 
 												<li>
-													<a href="collections/collection.html?id=5">Irregular marble mosaic tiles</a>
+													<a style="color: #000;" href="collections/collection.html?id=5">Irregular marble mosaic tiles</a>
 												</li>
 
 												<li>
-													<a href="collections/collection.html?id=6">Flat Mosaic</a>
+													<a style="color: #000;" href="collections/collection.html?id=6">Flat Mosaic</a>
 												</li>
 
 												<li>
-													<a href="collections/collection.html?id=7">Border Series</a>
+													<a style="color: #000;" href="collections/collection.html?id=7">Border Series</a>
 												</li>
 											</ul>
 										</div>
 									</div>
 
-									<div class="col-sm-3 footer_block footer_block__2_1">
+									<div class="col-sm-3 footer_block footer_block__2_1" style="background-color: #fff;">
 										<div class="footer_item footer_item__social">
-											<h6>Подписывайтесь</h6>
+											<h6 style="color: #000;">Подписывайтесь</h6>
 
 											<ul>
 												<li>
 													<a href="https://www.instagram.com/landerstoneallen/"><i
 															class="fa fa-facebook"
-															aria-hidden="true"></i><span>Facebook</span></a>
+															aria-hidden="true"></i><span style="color: #000;">Facebook</span></a>
 												</li>
 												<li>
-													<a href="https://www.facebook.com/profile.php?id=100069467755646"><i
+													<a  href="https://www.facebook.com/profile.php?id=100069467755646"><i
 															class="fa fa-instagram"
-															aria-hidden="true"></i><span>Instagram</span></a>
+															aria-hidden="true"></i><span style="color: #000;">Instagram</span></a>
 												</li>
 											</ul>
 										</div>
 									</div>
 									
-									<div class="col-sm-3 footer_block">
-										<div class="footer_item footer_item__contacts">
-											<h6>Контакты</h6>
+									<div class="col-sm-3 footer_block" style="background-color: #fff;">
+										<div class="footer_item footer_item__contacts" style="background-color: #fff;">
+											<h6 style="color: #000;">Контакты</h6>
 
 											<div>
-												<p>Богенбай батыра 83/6, Астана, Казахстан</p>
+												<p style="color: #000;">Богенбай батыра 83/6, Астана, Казахстан</p>
 												<p></p>
-												<p>
+												<p style="color: #000;">
 													+7 (701) 333-00-00<br />info@bokentau-company.kz
 												</p>
 											</div>
