@@ -20,11 +20,6 @@
   #back_top {
     margin: 0 0 0 535px;
   }
-  .header_center_abs .header_center {
-    position: static;
-    /* background: url(contentblock_bg_image.png) 50% 0 no-repeat; */
-    background-size: cover;
-  }
   .header_center_abs .header_center.megamenu_stuck {
     position: fixed;
   }

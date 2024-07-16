@@ -13,6 +13,10 @@
 
 	<script defer="" src="../js/cart.js"></script>
 	<script defer="" src="../js/collections.js"></script>
+	<script defer="" src="js/languages.js"></script>
+	<script defer="" src="js/loadLanguage.js"></script>
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 	<meta name="description"
 		content='Going to make repairs in your house, apartment or office soon? Or you just want to "refresh" the interior and make the room more stylish and elegant? Or maybe you want to add a new element in some room for the perception of the antique? Our online store has a wide range of tile and stone that can be used for the arrang' />
@@ -2063,74 +2067,72 @@
 <body class="template-collection">
 	<div class="page_wrapper">
 		<div id="shopify-section-header" class="shopify-section">
-			<header id="page_header">
-				<div class="page_container">
-					<div class="header_top">
+			<header id="page_header" style="background-color: #fff !important;">
+				<div class="page_container" style="background-color: #fff !important;">
+					<div class="header_top" style="background-color: #fff !important">
 						<div id="pseudo_sticky_block"></div>
-						<div class="header_center">
-							<div style="display: flex; align-items: center !important" class="header_wrap1">
-								<div class="header_logo">
-									<a href="../index.html">
-										<img src="../cdn/shop/files/diamond-stone.png" alt="DStone" />
-									</a>
-								</div>
-
-								<div class="header_cart" style="border: 1px solid black;">
-									<a href="cart.html" id="openscarts" style="color: #000">0 Корзина</a>
-								</div>
-								<script>
-									function doSomethingCool(event) {
-										event.preventDefault();
-									}
-								</script>
-								<nav id="megamenu" class="megamenu">
-									<h2 id="megamenu_mobile_toggle">
-										<i class="fa fa-bars" aria-hidden="true"></i>Меню
-									</h2>
-
-									<div id="megamenu_mobile_close">
-										<div class="close_icon"></div>
-									</div>
-
-									<ul id="megamenu_level__1" class="level_1">
-										<li class="level_1__item">
-											<a class="level_1__link" href="../index.html">Главная</a>
-										</li>
-
-										<li class="level_1__item level_2__links">
-											<a class="level_1__link sf-with-ul active" href="../collections.html">Каталог
-												<i class="level_1__trigger megamenu_trigger"
-													data-submenu="menu_1479745635495"></i>
-											</a>
-
-											<ul class="level_2" id="menu_1479745635495">
-												<li class="container">
-													<div class="megamenu_col__item">
-														<a class="level_3__link" href="../collections/collection.html?id=2">Waterjet marble mosaic</a>
-														<a class="level_3__link" href="../collections/collection.html?id=3">3D marble mosaic tiles</a>
-														<a class="level_3__link" href="../collections/collection.html?id=4">Marble & Metal</a>>
-														<a class="level_3__link" href="../collections/collection.html?id=5">Irregular marble mosaic tiles</a>
-														<a class="level_3__link" href="../collections/collection.html?id=6">Flat Mosaic</a>
-														<a class="level_3__link" href="../collections/collection.html?id=7">Border Series</a>
-														<a class="level_3__link" href="../collections/collection.html?id=8">Waterjet marble medallion</a
-														<a class="level_3__link" href="../collections/collection.html?id=9">Square/strip marble mosaic tiles</a
-													</div>
-												</li>
-											</ul>
-										</li>
-
-										<li class="level_1__item level_2__small">
-											<a class="level_1__link" href="../pages/about-us.html">О нас
-											</a>
-										</li>
-
-										<li class="level_1__item">
-											<a class="level_1__link" href="../contact-us.html">Контакты
-											</a>
-										</li>
-									</ul>
-								</nav>
+						<div class="header_center" style="background-color: #fff !important;">
+						<div style="display: flex; align-items: center !important;" class="header_wrap1">
+							<div style="justify-content: center; display: flex; align-items: center" class="header_logo">
+							<a href="../index.html">
+								<img src="../cdn/shop/files/diamond-stone.png" alt="DStone" />
+							</a>
 							</div>
+							<div class="language_selector">
+							<div class="language" id="selected_language"><i class="fas fa-globe"></i> RU</div>
+							<div class="language_dropdown">
+								<button class="select-language" data-lang="RU">RU</button>
+								<button class="select-language" data-lang="KZ">KZ</button>
+								<button class="select-language" data-lang="ENG">ENG</button>
+							</div>
+							</div>
+							<div class="header_cart" style="border: 1px solid #000;">
+								<a href="../cart.html" id="openscarts" style="color: #000;">0 Корзина</a>
+							</div>
+							<script>
+							function doSomethingCool(event) {
+								event.preventDefault();
+							}
+							</script>
+							<nav id="megamenu" class="megamenu">
+							<h2 id="megamenu_mobile_toggle">
+								<i class="fa fa-bars" aria-hidden="true"></i>Меню
+							</h2>
+							<div id="megamenu_mobile_close">
+								<div class="close_icon"></div>
+							</div>
+							<ul id="megamenu_level__1" class="level_1">
+								<li class="level_1__item">
+								<a class="level_1__link" href="../index.html" id="mainButtonTitle" style="color: #000;">Главная</a>
+								</li>
+								<li class="level_1__item level_2__links">
+								<a class="level_1__link sf-with-ul" href="../collections.html" id="catalogButtonTitle" style="color: #000">Каталог
+									<i class="level_1__trigger megamenu_trigger" data-submenu="menu_1479745635495"></i>
+								</a>
+								<ul class="level_2" style="border: 1px solid #CCC;" id="menu_1479745635495">
+									<li class="container">
+									<div class="megamenu_col__item">
+										<a class="level_3__link" href="../collections/waterjet-marble-mosaic.html">Waterjet marble mosaic</a><br>
+										<a class="level_3__link" href="../collections/3D-marble-mosaic-tiles.html">3D marble mosaic tiles</a><br>
+										<a class="level_3__link" href="../collections/marble-metal.html">Marble & Metal</a><br>
+										<a class="level_3__link" href="../collections/irregular-marble-mosaic-tiles.html">Irregular marble mosaic tiles</a><br>
+										<a class="level_3__link" href="../collections/flat-mosaic.html">Flat Mosaic</a><br>
+										<a class="level_3__link" href="../collections/border-series.html">Border Series</a><br>
+										<a class="level_3__link" href="../collections/waterjet-marble-medallion.html">Waterjet marble medallion</a><br>
+										<a class="level_3__link" href="../collections/square-strip-marble-mosaic-tiles.html">Square/strip marble mosaic tiles</a><br>
+									</div>
+									</li>
+								</ul>
+								</li>
+									<li class="level_1__item level_2__small">
+										<a class="level_1__link" href="../about-us.html" id="aboutUsButtonTitle" style="color: #000">О нас</a>
+									</li>
+									<li class="level_1__item">
+										<a class="level_1__link" href="../contact-us.html" id="contactsButtonTitle" style="color: #000">Контакты</a>
+									</li>
+								</ul>
+							</nav>
+						</div>
 						</div>
 					</div>
 				</div>

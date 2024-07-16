@@ -4912,8 +4912,8 @@ header {
 }
 .header_center {
   min-height: 50px;
-  background: url(contentblock_bg_image.png) 50% 0 no-repeat;
-  background-size: cover;
+  background: none !important;
+  background-color: #fff !important; 
 }
 .header_center.megamenu_stuck {
   width: 100%;

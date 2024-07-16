@@ -16,6 +16,9 @@
 	<script defer="" src="js/footerCategories.js"></script>
 	<script defer="" src="js/languages.js"></script>
 	<script defer="" src="js/loadLanguage.js"></script>
+	<script>
+		console.log("TEST")
+	</script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 	<meta name="description"
@@ -1159,322 +1162,6 @@
 			}
 		})();
 	</script>
-	<script id="web-pixels-manager-setup">
-		(function e(e, n, a, t, r) {
-			var o =
-				"function" == typeof BigInt &&
-					-1 !== BigInt.toString().indexOf("[native code]")
-					? "modern"
-					: "legacy";
-			window.Shopify = window.Shopify || {};
-			var i = window.Shopify;
-			i.analytics = i.analytics || {};
-			var s = i.analytics;
-			(s.replayQueue = []),
-				(s.publish = function (e, n, a) {
-					return s.replayQueue.push([e, n, a]), !0;
-				});
-			try {
-				self.performance.mark("wpm:start");
-			} catch (e) { }
-			var l = [a, "/wpm", "/b", r, o.substring(0, 1), ".js"].join("");
-			!(function (e) {
-				var n = e.src,
-					a = e.async,
-					t = void 0 === a || a,
-					r = e.onload,
-					o = e.onerror,
-					i = document.createElement("script"),
-					s = document.head,
-					l = document.body;
-				(i.async = t),
-					(i.src = n),
-					r && i.addEventListener("load", r),
-					o && i.addEventListener("error", o),
-					s
-						? s.appendChild(i)
-						: l
-							? l.appendChild(i)
-							: console.error(
-								"Did not find a head or body element to append the script"
-							);
-			})({
-				src: l,
-				async: !0,
-				onload: function () {
-					var a = window.webPixelsManager.init(e);
-					n(a);
-					var t = window.Shopify.analytics;
-					t.replayQueue.forEach(function (e) {
-						var n = e[0],
-							t = e[1],
-							r = e[2];
-						a.publishCustomEvent(n, t, r);
-					}),
-						(t.replayQueue = []),
-						(t.publish = a.publishCustomEvent),
-						(t.visitor = a.visitor);
-				},
-				onerror: function () {
-					var n = e.storefrontBaseUrl.replace(/\/$/, ""),
-						a = "".concat(
-							n,
-							"/.well-known/shopify/monorail/unstable/produce_batch"
-						),
-						r = JSON.stringify({
-							metadata: { event_sent_at_ms: new Date().getTime() },
-							events: [
-								{
-									schema_id: "web_pixels_manager_load/2.0",
-									payload: {
-										version: t || "latest",
-										page_url: self.location.href,
-										status: "failed",
-										error_msg: "".concat(l, " has failed to load"),
-									},
-									metadata: { event_created_at_ms: new Date().getTime() },
-								},
-							],
-						});
-					try {
-						if (self.navigator.sendBeacon.bind(self.navigator)(a, r))
-							return !0;
-					} catch (e) { }
-					var o = new XMLHttpRequest();
-					try {
-						return (
-							o.open("POST", a, !0),
-							o.setRequestHeader("Content-Type", "text/plain"),
-							o.send(r),
-							!0
-						);
-					} catch (e) {
-						console &&
-							console.warn &&
-							console.warn(
-								"[Web Pixels Manager] Got an unhandled error while logging a load error."
-							);
-					}
-					return !1;
-				},
-			});
-		})(
-			{
-				shopId: 20256185,
-				storefrontBaseUrl: "https://theme336-tile-stone.myshopify.com",
-				extensionsBaseUrl:
-					"https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",
-				surface: "storefront-renderer",
-				enabledBetaFlags: ["5de24938", "3b4293f9"],
-				webPixelsConfigList: [
-					{
-						id: "shopify-app-pixel",
-						configuration: "{}",
-						eventPayloadVersion: "v1",
-						runtimeContext: "STRICT",
-						scriptVersion: "090",
-						apiClientId: "shopify-pixel",
-						type: "APP",
-						purposes: ["ANALYTICS", "MARKETING"],
-					},
-					{
-						id: "shopify-custom-pixel",
-						eventPayloadVersion: "v1",
-						runtimeContext: "LAX",
-						scriptVersion: "090",
-						apiClientId: "shopify-pixel",
-						type: "CUSTOM",
-						purposes: ["ANALYTICS", "MARKETING"],
-					},
-				],
-				initData: {
-					cart: null,
-					checkout: null,
-					customer: null,
-					productVariants: [],
-					shop: {
-						name: "DStone",
-						paymentSettings: { currencyCode: "USD" },
-						myshopifyDomain: "theme336-tile-stone.myshopify.com",
-						countryCode: "US",
-						storefrontUrl: "https:\/\/theme336-tile-stone.myshopify.com",
-					},
-				},
-			},
-			function pageEvents(webPixelsManagerAPI) {
-				webPixelsManagerAPI.publish("page_viewed");
-				webPixelsManagerAPI.publish("collection_viewed", {
-					collection: {
-						id: "383849170",
-						title: "Benches",
-						productVariants: [
-							{
-								id: "34973768786",
-								image: {
-									src: "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile_1.png?v=1495462546",
-								},
-								price: { amount: 18.0, currencyCode: "USD" },
-								product: {
-									id: "9584357714",
-									title:
-										"Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile",
-									untranslatedTitle:
-										"Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile",
-									url: "\/products\/abba_patio_12_x_12_inch_outdoor_four_slat_composite_interlocking_decking_tile",
-									vendor: "DStone",
-									type: "Southwestern",
-								},
-								sku: "",
-								title: "Default Title",
-								untranslatedTitle: "Default Title",
-							},
-							{
-								id: "34973877394",
-								image: {
-									src: "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile_1.png?v=1495462767",
-								},
-								price: { amount: 10.0, currencyCode: "USD" },
-								product: {
-									id: "9584378578",
-									title:
-										"Tinge Sapphire 13 x 13 Inch Porcelain Floor and Wall Tile",
-									untranslatedTitle:
-										"Tinge Sapphire 13 x 13 Inch Porcelain Floor and Wall Tile",
-									url: "\/products\/tinge_sapphire_13_x_13_38_inch_porcelain_floor_and_wall_tile",
-									vendor: "DStone",
-									type: "Victorian",
-								},
-								sku: "327038",
-								title: "Default Title",
-								untranslatedTitle: "Default Title",
-							},
-							{
-								id: "34973842130",
-								image: {
-									src: "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles_1.png?v=1495462697",
-								},
-								price: { amount: 10.0, currencyCode: "USD" },
-								product: {
-									id: "9584372050",
-									title:
-										"Rip Curl Green and Blue Hand Painted Linear Glass Mosaic Tiles",
-									untranslatedTitle:
-										"Rip Curl Green and Blue Hand Painted Linear Glass Mosaic Tiles",
-									url: "\/products\/rip_curl_green_and_blue_hand_painted_linear_glass_mosaic_tiles",
-									vendor: "DStone",
-									type: "Victorian",
-								},
-								sku: "327038",
-								title: "Default Title",
-								untranslatedTitle: "Default Title",
-							},
-							{
-								id: "34973834130",
-								image: {
-									src: "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor___wall_tile_1.png?v=1495462685",
-								},
-								price: { amount: 4.0, currencyCode: "USD" },
-								product: {
-									id: "9584370834",
-									title:
-										"Penny Marine 12 x 12 Inch Porcelain Mosaic Floor and Wall Tile",
-									untranslatedTitle:
-										"Penny Marine 12 x 12 Inch Porcelain Mosaic Floor and Wall Tile",
-									url: "\/products\/penny_marine_12_14_x_12_inch_porcelain_mosaic_floor_-_wall_tile",
-									vendor: "DStone",
-									type: "Farmhouse",
-								},
-								sku: "327AE-6",
-								title: "L",
-								untranslatedTitle: "L",
-							},
-							{
-								id: "34973819090",
-								image: {
-									src: "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36_1.png?v=1495462659",
-								},
-								price: { amount: 3.0, currencyCode: "USD" },
-								product: {
-									id: "9584368658",
-									title:
-										"Marble Mosaic Stone Medallion Square Shape Floor Medallion Art Decoration Tile 36",
-									untranslatedTitle:
-										"Marble Mosaic Stone Medallion Square Shape Floor Medallion Art Decoration Tile 36",
-									url: "\/products\/marble_mosaic_stone_medallion_square_shape_floor_medallion_art_decoration_tile_36",
-									vendor: "DStone",
-									type: "Southwestern",
-								},
-								sku: null,
-								title: "Black \/ 20x20 \/ wall",
-								untranslatedTitle: "Black \/ 20x20 \/ wall",
-							},
-							{
-								id: "34973753874",
-								image: {
-									src: "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles_1.png?v=1495462532",
-								},
-								price: { amount: 6.0, currencyCode: "USD" },
-								product: {
-									id: "9584356242",
-									title:
-										"4 x 6 Sample Beach Break Hand Painted Linear Glass Mosaic Tiles",
-									untranslatedTitle:
-										"4 x 6 Sample Beach Break Hand Painted Linear Glass Mosaic Tiles",
-									url: "\/products\/4_x_6_sample_beach_break_hand_painted_linear_glass_mosaic_tiles",
-									vendor: "DStone",
-									type: "Victorian",
-								},
-								sku: null,
-								title: "Black \/ 20x20 \/ wall",
-								untranslatedTitle: "Black \/ 20x20 \/ wall",
-							},
-							{
-								id: "34973880018",
-								image: {
-									src: "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles_1.png?v=1495462778",
-								},
-								price: { amount: 14.0, currencyCode: "USD" },
-								product: {
-									id: "9584379538",
-									title:
-										"Torpedo Random White Carrera Pattern Marble Mosaic Tiles",
-									untranslatedTitle:
-										"Torpedo Random White Carrera Pattern Marble Mosaic Tiles",
-									url: "\/products\/torpedo_14_x_random_white_carrera_pattern_marble_mosaic_tiles",
-									vendor: "DStone",
-									type: "Southwestern",
-								},
-								sku: "654654654-56",
-								title: "Default Title",
-								untranslatedTitle: "Default Title",
-							},
-							{
-								id: "34973869010",
-								image: {
-									src: "\/\/theme336-tile-stone.myshopify.com\/cdn\/shop\/products\/tile_floor_medallion_marble_mosaic_1.png?v=1495462754",
-								},
-								price: { amount: 4.0, currencyCode: "USD" },
-								product: {
-									id: "9584377234",
-									title: "Tile Floor Medallion Marble Mosaic",
-									untranslatedTitle: "Tile Floor Medallion Marble Mosaic",
-									url: "\/products\/tile_floor_medallion_marble_mosaic",
-									vendor: "DStone",
-									type: "Beach style",
-								},
-								sku: "327AE-6",
-								title: "L",
-								untranslatedTitle: "L",
-							},
-						],
-					},
-				});
-			},
-			"https://theme336-tile-stone.myshopify.com/cdn",
-			"5b636a1e6fdeaedbf596f5704297971b3433a17e",
-			"07126ca1w84bbcbafp74979a33mc3de2333"
-		);
-	</script>
 	<script>
 		window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 		window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -2071,7 +1758,7 @@
 				<div class="page_container" style="background-color: #fff !important;">
 					<div class="header_top" style="background-color: #fff !important;">
 						<div id="pseudo_sticky_block" ></div>
-						<div class="header_center" style="background-color: #fff !important; background: none;">
+						<div class="header_center">
 						<div style="display: flex; align-items: center !important;" class="header_wrap1">
 							<div style="justify-content: center; display: flex; align-items: center" class="header_logo">
 							<a href="index.html">
@@ -2079,12 +1766,12 @@
 							</a>
 							</div>
 							<div class="language_selector">
-							<div class="language" id="selected_language"><i class="fas fa-globe"></i> RU</div>
-							<div class="language_dropdown">
-								<button class="select-language" data-lang="RU">RU</button>
-								<button class="select-language" data-lang="KZ">KZ</button>
-								<button class="select-language" data-lang="ENG">ENG</button>
-							</div>
+								<div class="language" style="border: 1px solid #000;" id="selected_language"><i class="fas fa-globe"></i> RU</div>
+								<div class="language_dropdown">
+									<button class="select-language" data-lang="RU">RU</button>
+									<button class="select-language" data-lang="KZ">KZ</button>
+									<button class="select-language" data-lang="ENG">ENG</button>
+								</div>
 							</div>
 							<div class="header_cart" style="border: 1px solid #000;">
 								<a href="cart.html" id="openscarts" style="color: #000;">0 Корзина</a>

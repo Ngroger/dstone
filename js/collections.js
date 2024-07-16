@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
             <div class="${colClass}">
                 <div class="product_item">
                     <div class="product_img">
-                        <a class="img_change" href="./product.html?id=${product.product_id}">
+                        <a class="img_change" href="../product.html?id=${product.product_id}">
                             <img src="https://diamondstone.kz/api-productImage/${product.photo1}" alt="${product.title}" />
                         </a>
                     </div>

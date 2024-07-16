@@ -22,7 +22,7 @@ function loadJSON(path, callback) {
 }
 
 // Function to update UI elements with new translation
-export function updateUI(translation) {
+function updateUI(translation) {
     const mainButtonTitle = document.getElementById("mainButtonTitle");
     const catalogButtonTitle = document.getElementById("catalogButtonTitle");
     const aboutUsButtonTitle = document.getElementById("aboutUsButtonTitle");
