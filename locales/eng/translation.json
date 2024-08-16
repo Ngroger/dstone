@@ -1,0 +1,9 @@
+{
+    "menu": {
+        "main": "Home",
+        "catalog": "Catalog",
+        "about-us": "About us",
+        "contacts": "Contacts",
+        "cart": "Cart"
+    }
+}
