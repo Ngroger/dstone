@@ -12,15 +12,15 @@ document.addEventListener('DOMContentLoaded', function () {
     function setCookie(name, value, days) {
         let expires = '';
         let sameSite = '; SameSite=Strict'; // добавляем SameSite=Strict
-    
+
         if (days) {
             const date = new Date();
             date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
             expires = '; expires=' + date.toUTCString();
         }
-    
+
         document.cookie = name + '=' + (value || '') + expires + '; path=/' + sameSite; // добавляем sameSite к строке cookie
-    }    
+    }
 
     // Initialize language from cookie or default to 'RU'
     let lang = getCookie('lang');
@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function () {
         setCookie('lang', lang, 7); // Set default language to 'RU' for 7 days
     }
     selectedLanguage.innerHTML = `${lang}`;
-    
+
     // Event listener for language selection
     languageButtons.forEach(button => {
         button.addEventListener('click', function () {

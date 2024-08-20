@@ -12,7 +12,7 @@
 	<script defer="" src="js/loadLanguage.js"></script>
 	<script defer="" src="js/loadPage.js"></script>
 	<script defer="" src="js/themeProvider.js"></script>
-	<link href="./src/output.css" rel="stylesheet"/> 
+	<link href="./src/output.css" rel="stylesheet" />
 
 	<link href="font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 	<link href="./src/responsive.css" rel="stylesheet" />
@@ -21,9 +21,9 @@
 
 	<link rel="canonical" href="index.html" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-	
-	<link rel="icon" href="/cdn/shop/files/new-icon.png"/>
-	
+
+	<link rel="icon" href="/cdn/shop/files/new-icon.png" />
+
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -1113,18 +1113,24 @@
 		.section_map .map_wrapper__large {
 			padding: 39.06% 0 0 0;
 		}
+
 		.load_page {
-			width: 100vw; /* Убедитесь, что ширина на всю ширину экрана */
-			height: 100vh; /* Убедитесь, что высота на всю высоту экрана */
+			width: 100vw;
+			/* Убедитесь, что ширина на всю ширину экрана */
+			height: 100vh;
+			/* Убедитесь, что высота на всю высоту экрана */
 			background-color: #fff;
 			position: fixed;
-			top: 0; /* Убедитесь, что позиционирование начинается с верхнего края */
-			left: 0; /* Убедитесь, что позиционирование начинается с левого края */
+			top: 0;
+			/* Убедитесь, что позиционирование начинается с верхнего края */
+			left: 0;
+			/* Убедитесь, что позиционирование начинается с левого края */
 			z-index: 1000000;
 			display: flex;
 			justify-content: center;
 			align-items: center;
 		}
+
 		.loader {
 			width: 100px;
 			position: fixed;
@@ -1133,18 +1139,21 @@
 			aspect-ratio: 1;
 			border-radius: 100%;
 			background: #000;
-			--_m: 
-				conic-gradient(#0000 10%,#000),
+			--_m:
+				conic-gradient(#0000 10%, #000),
 				linear-gradient(#000 0 0) content-box;
 			-webkit-mask: var(--_m);
-					mask: var(--_m);
+			mask: var(--_m);
 			-webkit-mask-composite: source-out;
-					mask-composite: subtract;
+			mask-composite: subtract;
 			animation: l3 1s infinite linear;
 		}
 
-		@keyframes l3 {to{transform: rotate(1turn)}}
-
+		@keyframes l3 {
+			to {
+				transform: rotate(1turn)
+			}
+		}
 	</style>
 
 	<script>
@@ -1157,7 +1166,7 @@
 
 <body class="template-index">
 	<div class="load_page">
-		<img src="./images/load-icon.png" height="60px" alt="load-icon"/>
+		<img src="./images/load-icon.png" height="60px" alt="load-icon" />
 		<div class="loader"></div>
 	</div>
 	<div class="page_wrapper">
@@ -1167,76 +1176,81 @@
 					<div class="header_top" style="background-color: #fff !important">
 						<div id="pseudo_sticky_block"></div>
 						<div class="header_center" style="background-color: #fff !important;">
-						<div style="display: flex; align-items: center !important;" class="header_wrap1">
-							<div class="header_logo" style="margin-bottom: 0px !important;">
-								<a href="index.html" class="h-12">
-									<img src="cdn/shop/files/diamond-stone.png" alt="DStone" class="header_logotype"/>
-								</a>
-							</div>
-							<div class="language_selector">
-								<a href="https://wa.me/+77008888099?text=Привет!" target="_blank">
-									<i class="fab fa-whatsapp" style="font-size: 21px; color: #000;"></i>
-								</a>
-							</div>							
-							<div class="language_selector">
-								<div class="language" id="selected_language" style="color: #000;">RU</div>
-								<div class="language_dropdown">
-									<button class="select-language" data-lang="RU">
-										<img src="./cdn/shop/files/flags/russian.png" alt="RU" style="width: 36px; height: 24px;">
-									</button>
-									<button class="select-language" data-lang="KZ">
-										<img src="./cdn/shop/files/flags/kazakhstan.png" alt="KZ" style="width: 36px; height: 24px;">
-									</button>
-									<button class="select-language" data-lang="ENG">
-										<img src="./cdn/shop/files/flags/uk.png" alt="ENG" style="width: 36px; height: 24px;">
-									</button>
+							<div style="display: flex; align-items: center !important;" class="header_wrap1">
+								<div class="header_logo" style="margin-bottom: 0px !important;">
+									<a href="index.html" class="h-12">
+										<img src="cdn/shop/files/diamond-stone.png" alt="DStone" class="header_logotype" />
+									</a>
 								</div>
+
+								<div class="language_selector">
+									<div class="language" id="selected_language" style="color: #000;">RU</div>
+									<div class="language_dropdown">
+										<button class="select-language" data-lang="RU">
+											<img src="./cdn/shop/files/flags/russian.png" alt="RU" style="width: 36px; height: 24px;">
+										</button>
+										<button class="select-language" data-lang="KZ">
+											<img src="./cdn/shop/files/flags/kazakhstan.png" alt="KZ" style="width: 36px; height: 24px;">
+										</button>
+										<button class="select-language" data-lang="ENG">
+											<img src="./cdn/shop/files/flags/uk.png" alt="ENG" style="width: 36px; height: 24px;">
+										</button>
+									</div>
+								</div>
+
+								<div class="header_cart">
+									<a href="cart.html" id="openscarts" style="color: #000; font-size: 21px;">0 Корзина</a>
+								</div>
+								<script>
+									function doSomethingCool(event) {
+										event.preventDefault();
+									}
+								</script>
+								<nav id="megamenu" class="megamenu">
+									<div id="megamenu_mobile_close">
+										<div class="close_icon"></div>
+									</div>
+									<ul id="megamenu_level__1" class="level_1">
+										<li class="level_1__item level_1_item_effect">
+											<a class="level_1__link level_1_effect" href="index.html" id="mainButtonTitle"
+												style="font-weight: 100;">Главная</a>
+										</li>
+										<li class="level_1__item level_2__links">
+											<a class="level_1__link sf-with-ul" href="collections.html" id="catalogButtonTitle"
+												style="color: #000; font-weight: 100;">Каталог
+												<i class="level_1__trigger megamenu_trigger" data-submenu="menu_1479745635495"></i>
+											</a>
+											<ul class="level_2" style="border: 1px solid #CCC;" id="menu_1479745635495">
+												<li class="container">
+													<div class="megamenu_col__item">
+														<a class="level_3__link" href="./collections/collection.html?id=2">Waterjet marble
+															mosaic</a><br>
+														<a class="level_3__link" href="./collections/collection.html?id=3">3D marble mosaic
+															tiles</a><br>
+														<a class="level_3__link" href="./collections/collection.html?id=4">Marble & Metal</a><br>
+														<a class="level_3__link" href="./collections/collection.html?id=5">Irregular marble mosaic
+															tiles</a><br>
+														<a class="level_3__link" href="./collections/collection.html?id=6">Flat Mosaic</a><br>
+														<a class="level_3__link" href="./collections/collection.html?id=8">Border Series</a><br>
+														<a class="level_3__link" href="./collections/collection.html?id=9">Waterjet marble
+															medallion</a><br>
+														<a class="level_3__link" href="./collections/collection.html?id=10">Square/strip marble
+															mosaic tiles</a><br>
+													</div>
+												</li>
+											</ul>
+										</li>
+										<li class="level_1__item level_2__small">
+											<a class="level_1__link" href="about-us.html" id="aboutUsButtonTitle"
+												style="color: #000; font-weight: 100;">О нас</a>
+										</li>
+										<li class="level_1__item">
+											<a class="level_1__link" href="contact-us.html" id="contactsButtonTitle"
+												style="color: #000; font-weight: 100;">Контакты</a>
+										</li>
+									</ul>
+								</nav>
 							</div>
-							
-							<div class="header_cart">
-								<a href="cart.html" id="openscarts" style="color: #000; font-size: 21px;">0 Корзина</a>
-							</div>
-							<script>
-							function doSomethingCool(event) {
-								event.preventDefault();
-							}
-							</script>
-							<nav id="megamenu" class="megamenu">
-							<div id="megamenu_mobile_close">
-								<div class="close_icon"></div>
-							</div>
-								<ul id="megamenu_level__1" class="level_1">
-									<li class="level_1__item level_1_item_effect">
-										<a class="level_1__link level_1_effect" href="index.html" id="mainButtonTitle" style="font-weight: 100;">Главная</a>
-									</li>
-									<li class="level_1__item level_2__links">
-										<a class="level_1__link sf-with-ul" href="collections.html" id="catalogButtonTitle" style="color: #000; font-weight: 100;">Каталог
-											<i class="level_1__trigger megamenu_trigger" data-submenu="menu_1479745635495"></i>
-										</a>
-										<ul class="level_2" style="border: 1px solid #CCC;" id="menu_1479745635495">
-											<li class="container">
-											<div class="megamenu_col__item">
-												<a class="level_3__link" href="./collections/collection.html?id=2">Waterjet marble mosaic</a><br>
-												<a class="level_3__link" href="./collections/collection.html?id=3">3D marble mosaic tiles</a><br>
-												<a class="level_3__link" href="./collections/collection.html?id=4">Marble & Metal</a><br>
-												<a class="level_3__link" href="./collections/collection.html?id=5">Irregular marble mosaic tiles</a><br>
-												<a class="level_3__link" href="./collections/collection.html?id=6">Flat Mosaic</a><br>
-												<a class="level_3__link" href="./collections/collection.html?id=8">Border Series</a><br>
-												<a class="level_3__link" href="./collections/collection.html?id=9">Waterjet marble medallion</a><br>
-												<a class="level_3__link" href="./collections/collection.html?id=10">Square/strip marble mosaic tiles</a><br>
-											</div>
-											</li>
-										</ul>
-									</li>
-									<li class="level_1__item level_2__small">
-										<a class="level_1__link" href="about-us.html" id="aboutUsButtonTitle" style="color: #000; font-weight: 100;">О нас</a>
-									</li>
-									<li class="level_1__item">
-										<a class="level_1__link" href="contact-us.html" id="contactsButtonTitle" style="color: #000; font-weight: 100;">Контакты</a>
-									</li>
-								</ul>
-							</nav>
-						</div>
 						</div>
 					</div>
 				</div>
@@ -1245,10 +1259,11 @@
 
 		<div class="page_container" style="margin-top: 100px;">
 			<!-- BEGIN content_for_index -->
-			<div id="shopify-section-1484331457896" class="shopify-section index-section section_bg section_slideshow_wrapper main_swiper section_Главнаяpage">
-				
-				<div class="section section_slideshow section_slideshow__large swiper-container"
-					id="slideshow_1484331457896" data-autoplay="true" data-speed="5000">
+			<div id="shopify-section-1484331457896"
+				class="shopify-section index-section section_bg section_slideshow_wrapper main_swiper section_Главнаяpage">
+
+				<div class="section section_slideshow section_slideshow__large swiper-container" id="slideshow_1484331457896"
+					data-autoplay="true" data-speed="5000">
 					<div class="swiper-wrapper">
 						<div class="swiper-slide image_slide">
 							<div class="img_placeholder__wrap img_placeholder__large" style="background-image: url(cdn/shop/files/slide1_2048x867_crop_center.jpg);
@@ -1272,14 +1287,15 @@
 					</div>
 				</div>
 			</div>
-			<h1 style="font-size: 24px; text-align: center; margin-top: 24px; margin-bottom: 24px;"> ⎯ Каталог  ⎯ </h1>
-			<div id="shopify-section-1495558826133" style="background-color: #fff;" class="shopify-section section section_Главнаяpage section_banners">
+			<h1 style="font-size: 24px; text-align: center; margin-top: 24px; margin-bottom: 24px;"> ⎯ Каталог ⎯ </h1>
+			<div id="shopify-section-1495558826133" style="background-color: #fff;"
+				class="shopify-section section section_Главнаяpage section_banners">
 				<div class="container">
 					<div class="banners_wrapper">
 						<div class="banner small_banner">
 							<a class="banner_txt" href="./collections/collection.html?id=2">
 								<h2 style="font-size: 20px;">Waterjet marble mosaic</h2>
-								<span class="link" style="font-size: 14px;">Смотреть все<br/> продукты</span>
+								<span class="link" style="font-size: 14px;">Смотреть все<br /> продукты</span>
 							</a>
 							<div class="placeholder_wrap placeholder_wrap__small">
 								<img src="./images/gallery1.png" alt="" />
@@ -1288,16 +1304,16 @@
 						<div class="banner big_banner_long">
 							<a class="banner_txt" href="./collections/collection.html?id=3">
 								<h2 style="font-size: 20px;">3D marble mosaic tiles</h2>
-								<span class="link" style="font-size: 14px;">Смотреть все<br/> продукты</span>
+								<span class="link" style="font-size: 14px;">Смотреть все<br /> продукты</span>
 							</a>
 							<div class="placeholder_wrap placeholder_wrap__big_long">
 								<img src="./images/gallery2.png" alt="" />
 							</div>
 						</div>
 						<div class="banner big_banner_high">
-							<a class="banner_txt"href="./collections/collection.html?id=4">
+							<a class="banner_txt" href="./collections/collection.html?id=4">
 								<h2 style="font-size: 20px;">Marble & Metal</h2>
-								<span class="link" style="font-size: 14px;">Смотреть все<br/> продукты</span>
+								<span class="link" style="font-size: 14px;">Смотреть все<br /> продукты</span>
 							</a>
 							<div class="placeholder_wrap placeholder_wrap__big_high">
 								<img src="cdn/shop/files/banner3_370x770_crop_center.jpg?v=1613659594" alt="" />
@@ -1306,7 +1322,7 @@
 						<div class="banner small_banner">
 							<a class="banner_txt" href="./collections/collection.html?id=5">
 								<h2 style="font-size: 20px;">Irregular marble mosaic tiles</h2>
-								<span class="link" style="font-size: 14px;">Смотреть все<br/> продукты</span>
+								<span class="link" style="font-size: 14px;">Смотреть все<br /> продукты</span>
 							</a>
 							<div class="placeholder_wrap placeholder_wrap__small">
 								<img src="cdn/shop/files/banner4_370x370_crop_center.jpg?v=1613659594" alt="" />
@@ -1315,7 +1331,7 @@
 						<div class="banner small_banner">
 							<a class="banner_txt" href="./collections/collection.html?id=6">
 								<h2 style="font-size: 20px;">Flat Mosaic</h2>
-								<span class="link" style="font-size: 14px;">Смотреть все<br/> продукты</span>
+								<span class="link" style="font-size: 14px;">Смотреть все<br /> продукты</span>
 							</a>
 							<div class="placeholder_wrap placeholder_wrap__small">
 								<img src="cdn/shop/files/banner7_370x370_crop_center.jpg?v=1613659594" alt="" />
@@ -1324,7 +1340,7 @@
 						<div class="banner small_banner">
 							<a class="banner_txt" href="./collections/collection.html?id=8">
 								<h2 style="font-size: 20px;">Border Series</h2>
-								<span class="link" style="font-size: 14px;">Смотреть все<br/> продукты</span>
+								<span class="link" style="font-size: 14px;">Смотреть все<br /> продукты</span>
 							</a>
 							<div class="placeholder_wrap placeholder_wrap__small">
 								<img src="cdn/shop/files/banner5_370x370_crop_center.jpg?v=1613659594" alt="" />
@@ -1333,7 +1349,7 @@
 						<div class="banner big_banner_high">
 							<a class="banner_txt" href="./collections/collection.html?id=9">
 								<h2 style="font-size: 20px;">Waterjet marble medallion</h2>
-								<span class="link" style="font-size: 14px;">Смотреть все<br/> продукты</span>
+								<span class="link" style="font-size: 14px;">Смотреть все<br /> продукты</span>
 							</a>
 							<div class="placeholder_wrap placeholder_wrap__big_high">
 								<img src="cdn/shop/files/banner8_370x770_crop_center.jpg?v=1613659594" alt="" />
@@ -1342,7 +1358,7 @@
 						<div class="banner big_banner_long">
 							<a class="banner_txt" href="./collections/collection.html?id=10">
 								<h2 style="font-size: 20px;">Square/strip marble mosaic tiles</h2>
-								<span class="link" style="font-size: 14px;">Смотреть все<br/> продукты</span>
+								<span class="link" style="font-size: 14px;">Смотреть все<br /> продукты</span>
 							</a>
 							<div class="placeholder_wrap placeholder_wrap__big_long">
 								<img src="cdn/shop/files/banner6_770x370_crop_center.jpg?v=1613659594" alt="" />
@@ -1363,7 +1379,8 @@
 							<div class="product_item">
 								<div class="product_img">
 									<a class="img_change" href="product1.html">
-										<img src="./images/products1/image1.jpg" alt="Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile" />
+										<img src="./images/products1/image1.jpg"
+											alt="Abba Patio 12 x 12 Inch Outdoor Four Slat Composite Interlocking Decking Tile" />
 									</a>
 								</div>
 								<div class="product_info">
@@ -1372,12 +1389,10 @@
 									</p>
 									<div class="product_links">
 										<form method="post" action="/cart/add"></form>
-										<button class="cart-add btn btn_big btn-cart" id="product-1" data-id="1"
-											data-name="LAY907" data-price="10000"
-											data-image="./images/products1/image1.jpg"
-											data-collection="Waterjet marble mosaic" data-color="Белый"
-											data-material="Мрамор + Металл" data-size="300x290мм" data-thickness="8мм"
-											weight="5">
+										<button class="cart-add btn btn_big btn-cart" id="product-1" data-id="1" data-name="LAY907"
+											data-price="10000" data-image="./images/products1/image1.jpg"
+											data-collection="Waterjet marble mosaic" data-color="Белый" data-material="Мрамор + Металл"
+											data-size="300x290мм" data-thickness="8мм" weight="5">
 											В корзину
 										</button>
 									</div>
@@ -1402,10 +1417,10 @@
 									</p>
 
 									<div class="product_links">
-										<button class="cart-add btn btn_big btn-cart" id="product-4" data-id="2"
-											data-name="LAY809-B" data-image="./images/product2/image1.jpg"
-											data-collection="Waterjet marble mosaic" data-color="Белый" weight="10"
-											data-material="Мрамор + Металл" data-size="300x290мм" data-thickness="8мм">
+										<button class="cart-add btn btn_big btn-cart" id="product-4" data-id="2" data-name="LAY809-B"
+											data-image="./images/product2/image1.jpg" data-collection="Waterjet marble mosaic"
+											data-color="Белый" weight="10" data-material="Мрамор + Металл" data-size="300x290мм"
+											data-thickness="8мм">
 											В корзину
 										</button>
 									</div>
@@ -1538,9 +1553,9 @@
 							<div class="row">
 								<div style="background-color: #fff;" class="flexbox">
 									<div class="col-sm-3 footer_block footer_block__2_1">
-										
+
 										<div class="footer_item footer_item__links">
-											
+
 											<h6 style="color: #000;">Информация</h6>
 
 											<ul>
@@ -1560,7 +1575,9 @@
 												</li>
 											</ul>
 										</div>
-										<img style="margin-right: 100px; height: 250px; width: 150px; margin-top: 24px; margin-bottom: 24px;" src="images/footer-light.png" />
+										<img
+											style="margin-right: 100px; height: 250px; width: 150px; margin-top: 24px; margin-bottom: 24px;"
+											src="images/footer-light.png" />
 									</div>
 
 									<div class="col-sm-3 footer_block">
@@ -1580,7 +1597,8 @@
 												</li>
 
 												<li>
-													<a style="color: #000;" href="collections/collection.html?id=5">Irregular marble mosaic tiles</a>
+													<a style="color: #000;" href="collections/collection.html?id=5">Irregular marble mosaic
+														tiles</a>
 												</li>
 
 												<li>
@@ -1600,38 +1618,46 @@
 
 											<ul>
 												<li>
-													<a style="font-size: 32px; color: #22D847;" href="https://wa.me/+77008888099?text=Привет!"><i
-															class="fa fa-whatsapp"
-															aria-hidden="true"></i><span style="color: #000; font-size: 20px; margin-left: 10px;">WhatsApp</span></a>
+													<a style="font-size: 32px; color: #22D847;" href="https://wa.me/+77008888099?text=Привет!">
+														<img src="/images/social/whatsapp.png" height="30px" />
+														<span style="color: #000; font-size: 20px; margin-left: 2px;">WhatsApp</span></a>
 												</li>
 												<li>
-													<a style="font-size: 32px; color: #E81B93;"  href="https://www.instagram.com/dstone.kz"><i
-															class="fa fa-instagram"
-															aria-hidden="true"></i><span style="color: #000; font-size: 20px; margin-left: 10px;">Instagram</span></a>
+													<a style="font-size: 32px; color: #E81B93;" href="https://www.instagram.com/dstone.kz">
+														<img src="/images/social/instagram.png" height="30px" />
+														<span style="color: #000; font-size: 20px; margin-left: 2px;">Instagram</span>
+													</a>
+												</li>
+												<li>
+													<a style="font-size: 32px; color: #E81B93;" href="https://www.facebook.com/?locale=ru_RU">
+														<img src="/images/social/facebook.png" height="30px" />
+														<span style="color: #000; font-size: 20px; margin-left: 2px;">Facebook</span>
+													</a>
 												</li>
 											</ul>
 										</div>
 									</div>
-									
+
 									<div class="col-sm-3 footer_block" style="background-color: #fff;">
 										<div class="footer_item footer_item__contacts" style="background-color: #fff;">
 											<h6 style="color: #000;">Контакты</h6>
 
 											<div>
-												<p style="color: #000;">город Астана, Есилийский район, ул.Арай Бизнес-Центр, здание 29/3</p>
+												<p style="color: #000;">город Астана, Есильский район, ул.Арай 29/3, БЦ «Арай» (2 этаж)</p>
 												<p></p>
 												<p style="color: #000;">
 													+7 (700) 888-80-99<br />info@diamondstone.kz
 												</p>
-												<a href="https://wa.me/+77008888099?text=Привет!" target="_blank" style="color: #000; text-decoration: none;">
+												<a href="https://wa.me/+77008888099?text=Привет!" target="_blank"
+													style="color: #000; text-decoration: none;">
 													<p>
 														Написать нам
 													</p>
 												</a>
-												
+
 											</div>
 										</div>
-										
+
 									</div>
 
 									<div class="clearfix devided"></div>
@@ -1657,8 +1683,7 @@
 		<link href="cdn/shop/t/2/assets/responsive.scss.css?v=34124157385147569641656106793" rel="stylesheet"
 			type="text/css" media="all" />
 
-		<link href="css?family=Lato:300,300i,400,400i,700,700i,900,900i&subset=cyrillic" rel="stylesheet"
-			type="text/css" />
+		<link href="css?family=Lato:300,300i,400,400i,700,700i,900,900i&subset=cyrillic" rel="stylesheet" type="text/css" />
 	</noscript>
 
 	<script>
@@ -1875,8 +1900,8 @@
 			})(window, document, "Shopify", "ce_forms", "captcha");
 		})();
 	</script>
-	<script integrity="sha256-n5Uet9jVOXPHGd4hH4B9Y6+BxkTluaaucmYaxAjUcvY="
-		data-source-attribution="shopify.loadfeatures" defer="defer"
+	<script integrity="sha256-n5Uet9jVOXPHGd4hH4B9Y6+BxkTluaaucmYaxAjUcvY=" data-source-attribution="shopify.loadfeatures"
+		defer="defer"
 		src="cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js"
 		crossorigin="anonymous"></script>
 	<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">

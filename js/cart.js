@@ -124,7 +124,7 @@ function loadCart() {
 
     // Добавляем обработчик события для поля input.quantity_input
     const quantityInput = row.querySelector('.quantity_input');
-    quantityInput.addEventListener('input', function(event) {
+    quantityInput.addEventListener('input', function (event) {
       const newQuantity = parseInt(event.target.value, 10);
       updateCartQuantity(product.id, newQuantity); // Обновляем количество товара в корзине
     });
@@ -178,23 +178,23 @@ function updateQuantity(id, delta) {
   console.log("updateQuantity", id)
 
   if (product) {
-      product.quantity = Math.max(1, product.quantity + delta); // Минимальное количество - 1
-      localStorage.setItem('cart', JSON.stringify(cart));
-      loadCart();
-      updateCartCount(); // Обновляем количество товаров в корзине
+    product.quantity = Math.max(1, product.quantity + delta); // Минимальное количество - 1
+    localStorage.setItem('cart', JSON.stringify(cart));
+    loadCart();
+    updateCartCount(); // Обновляем количество товаров в корзине
   }
 }
 
 // Функция для отправки данных на сервер
-function sendOrderEmail(note, cart, name, surname, phone ) {
+function sendOrderEmail(note, cart, name, surname, phone) {
   if (note) {
-      fetch('https://bigsnab.kz/api-sendOrderMail', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ note, cart, name, surname, phone })
-      })
+    fetch('https://bigsnab.kz/api-sendOrderMail', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ note, cart, name, surname, phone })
+    })
       .then(response => {
         if (response.ok) {
           alert('Заказ успешно отправлен!');
@@ -217,7 +217,7 @@ function sendOrderEmail(note, cart, name, surname, phone ) {
 
 // Добавляем обработчик события на кнопку "Отправить"
 const checkoutButton = document.querySelector('button[name="checkout"]');
-checkoutButton.addEventListener('click', function(event) {
+checkoutButton.addEventListener('click', function (event) {
   event.preventDefault(); // Предотвращаем отправку формы по умолчанию
 
   const name = document.getElementById("cart-name").value;
@@ -230,15 +230,15 @@ checkoutButton.addEventListener('click', function(event) {
 });
 
 // Добавляем обработчики событий для удаления и изменения количества товаров
-document.addEventListener('click', function(event) {
+document.addEventListener('click', function (event) {
   if (event.target.closest('.cart_item__remove')) {
-      removeFromCart(event);
+    removeFromCart(event);
   } else if (event.target.closest('.quantity_down')) {
-      const id = event.target.closest('.quantity_down').getAttribute('data-id');
-      updateQuantity(id, -1);
+    const id = event.target.closest('.quantity_down').getAttribute('data-id');
+    updateQuantity(id, -1);
   } else if (event.target.closest('.quantity_up')) {
-      const id = event.target.closest('.quantity_up').getAttribute('data-id');
-      updateQuantity(id, 1);
+    const id = event.target.closest('.quantity_up').getAttribute('data-id');
+    updateQuantity(id, 1);
   }
 });
 
@@ -249,11 +249,11 @@ function updateCartCount() {
   const cartCountElement = document.getElementById('openscarts');
 
   if (cartCountElement) {
-    cartCountElement.textContent = `${cartCount} Корзина`;
+    cartCountElement.textContent = `${cartCount}`;
   }
 }
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
   // Обновляем количество товаров в корзине каждую секунду
   setInterval(updateCartCount, 500);
 
