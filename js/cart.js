@@ -241,22 +241,3 @@ document.addEventListener('click', function (event) {
     updateQuantity(id, 1);
   }
 });
-
-// Функция для обновления количества товаров в корзине
-function updateCartCount() {
-  const cart = JSON.parse(localStorage.getItem('cart')) || [];
-  const cartCount = cart.length
-  const cartCountElement = document.getElementById('openscarts');
-
-  if (cartCountElement) {
-    cartCountElement.textContent = `${cartCount}`;
-  }
-}
-
-document.addEventListener('DOMContentLoaded', function () {
-  // Обновляем количество товаров в корзине каждую секунду
-  setInterval(updateCartCount, 500);
-
-  // Обновляем количество товаров в корзине сразу после загрузки страницы
-  updateCartCount();
-});

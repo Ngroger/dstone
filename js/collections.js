@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
     const params = new URLSearchParams(window.location.search);
     const id = params.get('id');
     const endpoint = `https://diamondstone.kz/api-getProductByCategory/${id}`;
@@ -6,13 +6,13 @@ document.addEventListener("DOMContentLoaded", function() {
     // Function to create a product card
     function createProductCard(product, isFirst) {
         const colClass = isFirst ? "col-sm-3 item_4_1 item_2_1" : "col-sm-3";
-        
+
         return `
             <div class="${colClass}">
                 <div class="product_item">
                     <div class="product_img">
                         <a class="img_change" href="../product.html?id=${product.product_id}">
-                            <img src="https://diamondstone.kz/api-productImage/${product.photo1}" alt="${product.title}" />
+                            <img loading="eager" style="height: 250px !important; width: 300px !important;" src="https://diamondstone.kz/api-productImage/${product.photo1}" alt="${product.title}" />
                         </a>
                     </div>
                     <div class="product_info">

@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
     const apiEndpoint = "https://diamondstone.kz/api-getAllProducts";
     const container = document.querySelector(".product_listing__main"); // Убедитесь, что у вас есть этот контейнер в вашем HTML
 
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 <div class="product_item">
                     <div class="product_img">
                         <a class="img_change" href="product.html?id=${product.product_id}">
-                            <img src="https://diamondstone.kz/api-productImage/${product.photo1}" alt="${product.title}" />
+                            <img loading="eager" style="height: 250px !important; width: 300px !important;" src="https://diamondstone.kz/api-productImage/${product.photo1}" alt="${product.title}" />
                         </a>
                     </div>
                     <div class="product_info">

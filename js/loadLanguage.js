@@ -27,7 +27,6 @@ function updateUI(translation) {
     const catalogButtonTitle = document.getElementById("catalogButtonTitle");
     const aboutUsButtonTitle = document.getElementById("aboutUsButtonTitle");
     const contactsButtonTitle = document.getElementById("contactsButtonTitle");
-    const cartButtonTitle = document.getElementById("openscarts");
 
     if (translation.menu) {
         mainButtonTitle.textContent = translation.menu.main;
