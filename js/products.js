@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
             const response = await fetch(apiEndpoint);
             const data = await response.json();
             if (data.success) {
-                console.log("data.products", data.products)
+                console.log("data.products", data.products);
                 renderProducts(data.products);
             } else {
                 console.error("Failed to fetch products");
@@ -22,7 +22,13 @@ document.addEventListener("DOMContentLoaded", function () {
     function renderProducts(products) {
         container.innerHTML = ""; // Clear any existing content
 
-        products.forEach(product => {
+        // Shuffle the array of products
+        const shuffledProducts = products.sort(() => 0.5 - Math.random());
+
+        // Select the first 8 products from the shuffled array
+        const randomProducts = shuffledProducts.slice(0, 8);
+
+        randomProducts.forEach(product => {
             const productElement = document.createElement("div");
             productElement.classList.add("col-xs-3");
 
@@ -38,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             <a href="product.html?id=${product.product_id}">${product.title}</a>
                         </p>
                         <div class="product_links">
-                            <button class="cart-add btn btn_big btn-cart" id="product-${product.product_id}" 
+                            <button class="cart-add add-cart-button btn btn_big btn-cart" id="product-${product.product_id}" 
                                 data-id="${product.product_id}"
                                 data-name="${product.title}"
                                 data-image="https://diamondstone.kz/api-productImage/${product.photo1}"
