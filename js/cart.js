@@ -46,4 +46,19 @@ document.addEventListener('DOMContentLoaded', () => {
       addToCart(product);
     });
   });
+
+  // Находим общий контейнер, который существует на странице
+  const container = document.querySelector('.product_listing__main');
+
+  // Проверяем, что контейнер существует
+  if (container) {
+    container.addEventListener('click', (event) => {
+      // Проверяем, что клик был по кнопке с id, начинающимся с "add-cart-button"
+      if (event.target && event.target.matches('[id^="add-cart-button"]')) {
+        const product = getProductData(event.target);
+        addToCart(product);
+      }
+    });
+  }
 });
+

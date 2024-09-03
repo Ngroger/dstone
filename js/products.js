@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             <a href="product.html?id=${product.product_id}">${product.title}</a>
                         </p>
                         <div class="product_links">
-                            <button class="cart-add add-cart-button btn btn_big btn-cart" id="product-${product.product_id}" 
+                            <button class="cart-add add-cart-button btn btn_big btn-cart" id="add-cart-button"
                                 data-id="${product.product_id}"
                                 data-name="${product.title}"
                                 data-image="https://diamondstone.kz/api-productImage/${product.photo1}"

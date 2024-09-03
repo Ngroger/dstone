@@ -1,84 +1,95 @@
 .whatsapp-button {
-		position: fixed;
-		left: 53px;
-		bottom: 90px;
-		transform: translate(-50%, -50%);
-		background: #25D366; /*цвет кнопки*/
-		border-radius: 50%;
-		width: 55px; /*ширина кнопки*/
-		height: 55px; /*высота кнопки*/
-		color: #fff;
-		text-align: center;
-		line-height: 53px; /*центровка иконки в кнопке*/
-		font-size: 35px; /*размер иконки*/
-		z-index: 9999;
-		}
-		.whatsapp-button a {
-		color: #fff;
-		}
-		.whatsapp-button:before,
-		.whatsapp-button:after {
-		content: " ";
-		display: block;
-		position: absolute;
-		border: 50%;
-		border: 1px solid #25D366; /*цвет анимированных волн от кнопки*/
-		left: -20px;
-		right: -20px;
-		top: -20px;
-		bottom: -20px;
-		border-radius: 50%;
-		animation: animate 1.5s linear infinite;
+	position: fixed;
+	right: 50px;
+	bottom: 50px;
+	transform: translate(-50%, -50%);
+	background: #25D366;
+	/*цвет кнопки*/
+	border-radius: 50%;
+	width: 55px;
+	/*ширина кнопки*/
+	height: 55px;
+	/*высота кнопки*/
+	color: #fff;
+	text-align: center;
+	line-height: 53px;
+	/*центровка иконки в кнопке*/
+	font-size: 35px;
+	/*размер иконки*/
+	z-index: 9999;
+}
+
+.whatsapp-button a {
+	color: #fff;
+}
+
+.whatsapp-button:before,
+.whatsapp-button:after {
+	content: " ";
+	display: block;
+	position: absolute;
+	border: 50%;
+	border: 1px solid #25D366;
+	/*цвет анимированных волн от кнопки*/
+	left: -20px;
+	right: -20px;
+	top: -20px;
+	bottom: -20px;
+	border-radius: 50%;
+	animation: animate 1.5s linear infinite;
+	opacity: 0;
+	backface-visibility: hidden;
+}
+
+.whatsapp-button:after {
+	animation-delay: .5s;
+}
+
+@keyframes animate {
+	0% {
+		transform: scale(0.5);
 		opacity: 0;
-		backface-visibility: hidden; 
-		}
-		
-		.whatsapp-button:after{
-		animation-delay: .5s;
-		}
-		
-		@keyframes animate
-		{
-		0%
-		{
-        transform: scale(0.5);
-        opacity: 0;
-		}
-		50%
-		{
-        opacity: 1;
-		}
-		100%
-		{
-        transform: scale(1.2);
-        opacity: 0;
-		}
-		}
-		@media (max-width : 800px) {  
-		.whatsapp-button {   
-		bottom: 5px; /*отступ кнопки снизу от экрана*/
-		left: 70px; /*отступ кнопки слева от экрана(right - справа)*/
-		}
-		
-		.whatsapp-button {
-		width: 100px; /*ширина кнопки*/
-		height: 100px; /*высота кнопки*/
+	}
+
+	50% {
+		opacity: 1;
+	}
+
+	100% {
+		transform: scale(1.2);
+		opacity: 0;
+	}
+}
+
+@media (max-width : 800px) {
+	.whatsapp-button {
+		bottom: 5px;
+		/*отступ кнопки снизу от экрана*/
+		left: 70px;
+		/*отступ кнопки слева от экрана(right - справа)*/
+	}
+
+	.whatsapp-button {
+		width: 100px;
+		/*ширина кнопки*/
+		height: 100px;
+		/*высота кнопки*/
 		line-height: 97px;
 		font-size: 65px;
-		
-		}
-		}
 
-		.cart-imgs1 img{
-			width: 100% !important;
-			height: 55px !important;
-		}
+	}
+}
 
-		#header {
-			padding-left: 0px !important;
-		}
+.cart-imgs1 img {
+	width: 100% !important;
+	height: 55px !important;
+}
 
-		.footerimg {
-			float: right;
-			width: 150px;
-		}
+#header {
+	padding-left: 0px !important;
+}
+
+.footerimg {
+	float: right;
+	width: 150px;
+}

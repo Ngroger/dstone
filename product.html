@@ -10,6 +10,7 @@
 	<script defer="" src="js/loadLanguage.js"></script>
 	<script defer="" src="js/footerCategories.js"></script>
 	<script defer="" src="js/loadPage.js"></script>
+	<script defer="" src="js/loadCartCounter.js"></script>
 
 	<link href="font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -1771,28 +1772,28 @@
 
 									<div class="details_wrapper">
 										<div class="details_left">
-											<p class="single_product__weight">
+											<p class="single_product__weight" style="font-size: 16px !important;">
 												<b>Код:</b>
 												<span id="product_code">LAY907</span>
 											</p>
 
-											<p class="single_product__weight">
+											<p class="single_product__weight" style="font-size: 16px !important;">
 												<b>Коллекция:</b><span id="product_category">Waterjet marble mosaic</span>
 											</p>
 
-											<p class="single_product__type">
+											<p class="single_product__type" style="font-size: 16px !important;">
 												<b>Цвет:</b><span id="product_color">Белый</span>
 											</p>
-											<p class="single_product__type">
+											<p class="single_product__type" style="font-size: 16px !important;">
 												<b>Материал:</b><span id="product_material"> Мрамор + Металл</span>
 											</p>
-											<p class="single_product__type">
+											<p class="single_product__type" style="font-size: 16px !important;">
 												<b>Размер:</b><span id="product_size">300x290мм</span>
 											</p>
-											<p class="single_product__type">
+											<p class="single_product__type" style="font-size: 16px !important;">
 												<b>Толщина:</b><span id="product_thickness">8мм</span>
 											</p>
-											<p class="single_product__type">
+											<p class="single_product__type" style="font-size: 16px !important;">
 												<b>Место применения:</b><span id="product_place_of_application"> Ванна</span>
 											</p>
 										</div>
@@ -1909,47 +1910,51 @@
 
 									<div class="col-sm-3 footer_block footer_block__2_1">
 										<div class="footer_item">
-											<h6 style="color: #000;">Подписывайтесь</h6>
+											<h6>Подписывайтесь</h6>
 
 											<ul>
 												<li>
-													<a style="font-size: 32px; color: #22D847;" href="https://wa.me/+77008888099?text=Привет!">
-														<img src="/images/social/whatsapp.png" height="30px" />
-														<span style="color: #000; font-size: 20px; margin-left: 2px;">WhatsApp</span></a>
+													<a style="display: flex; align-items: center; margin-top: 10px;"
+														href="https://wa.me/+77008888099?text=Привет!">
+														<img src="../images/social/whatsapp.png" height="25px" />
+														<span style="color: #000; font-size: 13px; margin-left: 6px;">WhatsApp</span></a>
 												</li>
 												<li>
-													<a style="font-size: 32px; color: #E81B93;" href="https://www.instagram.com/dstone.kz">
-														<img src="/images/social/instagram.png" height="30px" />
-														<span style="color: #000; font-size: 20px; margin-left: 2px;">Instagram</span>
+													<a style="display: flex; align-items: center; margin-top: 10px;"
+														href="https://www.instagram.com/dstone.kz">
+														<img src="../images/social/instagram.png" height="25px" />
+														<span style="color: #000; font-size: 13px; margin-left: 6px;">Instagram</span>
 													</a>
 												</li>
 												<li>
-													<a style="font-size: 32px; color: #E81B93;" href="https://www.facebook.com/?locale=ru_RU">
-														<img src="/images/social/facebook.png" height="30px" />
-														<span style="color: #000; font-size: 20px; margin-left: 2px;">Facebook</span>
+													<a style="display: flex; align-items: center; margin-top: 10px;"
+														href="https://www.facebook.com/?locale=ru_RU">
+														<img src="../images/social/facebook.png" height="25px" />
+														<span style="color: #000; font-size: 13px; margin-left: 6px;">Facebook</span>
 													</a>
 												</li>
 											</ul>
 										</div>
 									</div>
 
-									<div class="col-sm-3 footer_block">
-										<div class="footer_item footer_item__contacts">
+									<div class="col-sm-3 footer_block" style="background-color: #fff;">
+										<div class="footer_item footer_item__contacts" style="background-color: #fff;">
 											<h6 style="color: #000;">Контакты</h6>
 
 											<div>
-												<p style="color: #000; font-size: 16px">город Астана, Есильский район, ул.Арай 29/3, БЦ «Арай»
+												<p style="color: #000; font-size: 13px;">город Астана, Есильский район, ул.Арай 29/3, БЦ «Арай»
 													(2 этаж)</p>
 												<p></p>
-												<p style="color: #000; font-size: 16px;">
+												<p style="color: #000; font-size: 13px;">
 													+7 (700) 888-80-99<br />info@diamondstone.kz
 												</p>
 												<a href="https://wa.me/+77008888099?text=Привет!" target="_blank"
 													style="color: #000; text-decoration: none;">
-													<p>
+													<p style="font-size: 13px !important;">
 														Написать нам
 													</p>
 												</a>
+
 											</div>
 										</div>
 
