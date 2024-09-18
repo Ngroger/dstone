@@ -16,7 +16,7 @@
 	<script defer="" src="../js/languages.js"></script>
 	<script defer="" src="../js/loadLanguage.js"></script>
 	<script defer="" src="../js/loadPage.js"></script>
-	<script defer="" src="js/loadCartCounter.js"></script>
+	<script defer="" src="../js/loadCartCounter.js"></script>
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
@@ -2134,9 +2134,12 @@
 									</div>
 								</div>
 
-								<div class="header_cart">
-									<a href="../cart.html" id="openscarts" style="color: #000; font-size: 21px;">Корзина</a>
-								</div>
+								<a href="../cart.html"
+									style="flex-direction: row; align-items: center; justify-content: center; display: flex;"
+									class="header_cart">
+									<p id="openscarts" style="color: #000; font-size: 21px; margin-right: 10px;"></p>
+									<img style="height: 21px; width: 21px;" src="../images/cart.png" alt="cart icon" />
+								</a>
 								<script>
 									function doSomethingCool(event) {
 										event.preventDefault();
@@ -2153,7 +2156,7 @@
 										</li>
 										<li class="level_1__item level_2__links">
 											<a class="level_1__link sf-with-ul" href="../collections.html" id="catalogButtonTitle"
-												style="color: #000; font-weight: 100;">Каталог
+												style="color: #000; font-weight: 100;">Коллекия
 												<i class="level_1__trigger megamenu_trigger" data-submenu="menu_1479745635495"></i>
 											</a>
 											<ul class="level_2" style="border: 1px solid #CCC;" id="menu_1479745635495">
@@ -2227,13 +2230,6 @@
 				</div>
 
 				<div class="container">
-					<div class="collection_desc rte">
-						Дайте новое измерение вашему интерьеру с нашей коллекцией 3D-мраморной мозаики. Эти уникальные панели
-						сочетают в себе премиальное качество мрамора с эффектной трехмерной геометрией, создавая удивительные
-						визуальные эффекты и игру света. Каждая деталь пропитана элегантностью и изысканностью, делая ваше
-						пространство неповторимым и современным.
-					</div>
-
 					<div class="product_options">
 						<ul class="product_view">
 							<li id="view_grid" data-view="grid" class="active">
@@ -2329,7 +2325,7 @@
 
 									<div class="col-sm-3 footer_block">
 										<div class="footer_item footer_item__links">
-											<h6>Каталог</h6>
+											<h6>Коллекия</h6>
 
 											<ul>
 												<li>

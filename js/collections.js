@@ -26,10 +26,15 @@ document.addEventListener("DOMContentLoaded", function () {
                             ${product.description}
                         </p>
                         <div class="product_links">
-                            <button class="cart-add btn btn_big btn-cart" id="product-${product.product_id}" data-id="${product.product_id}"
-                                data-name="${product.title}" data-image="./images/product2/${product.photo1}"
-                                data-collection="${product.category}" data-color="${product.color}"
-                                weight="10" data-material="${product.material}" data-size="${product.size}" data-thickness="${product.thickness}">
+                            <button class="cart-add add-cart-button btn btn_big btn-cart" id="add-cart-button"
+                                data-id="${product.product_id}"
+                                data-name="${product.title}"
+                                data-image="https://diamondstone.kz/api-productImage/${product.photo1}"
+                                data-collection="${product.category}"
+                                data-color="${product.color}"
+                                data-material="${product.material}"
+                                data-size="${product.size}"
+                                data-thickness="${product.thickness}">
                                 В корзину
                             </button>
                         </div>

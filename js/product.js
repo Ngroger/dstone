@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
     // Function to get the query parameter 'id' from the URL
     function getProductIdFromUrl() {
         const params = new URLSearchParams(window.location.search);
@@ -55,16 +55,22 @@ document.addEventListener("DOMContentLoaded", function() {
         addCartButton.dataset.thickness = product.thickness;
         addCartButton.weight = product.weight;
         console.log("addCartButton: ", addCartButton);
-        
+
         // Update text details (title, category, etc.)
         const title = document.querySelector(".single_product__title");
         title.innerText = product.title;
+
+        const mainTitle = document.getElementById('main-title');
+        mainTitle.innerText = product.title;
 
         const code = document.getElementById("product_code")
         code.innerText = product.title
 
         const category = document.getElementById("product_category")
         category.innerText = product.category
+
+        const mainCategory = document.getElementById('main-category');
+        mainCategory.innerText = product.category;
 
         const color = document.getElementById("product_color");
         color.innerText = product.color;
@@ -82,12 +88,12 @@ document.addEventListener("DOMContentLoaded", function() {
         placeOfApplication.innerText = product.placeOfApplication;
 
         const descriptionTitle = document.getElementById("description-title");
-        console.log("descriptionTitle: ",descriptionTitle);
+        console.log("descriptionTitle: ", descriptionTitle);
         descriptionTitle.innerText = product.descriptionTitle
 
         const description = document.getElementById("description");
         description.innerText = product.description
-    }    
+    }
 
     // Main function to execute the script logic
     async function main() {

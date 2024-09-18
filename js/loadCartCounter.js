@@ -12,7 +12,7 @@ function updateCartButton() {
   // Проверяем, что кнопка существует на странице
   if (cartButton) {
     // Обновляем текст кнопки в зависимости от количества товаров
-    cartButton.textContent = cartLength > 0 ? `${cartLength} Корзина` : 'Корзина';
+    cartButton.textContent = cartLength > 0 ? `${cartLength}` : '';
   }
 }
 
