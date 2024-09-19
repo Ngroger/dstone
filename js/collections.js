@@ -8,11 +8,11 @@ document.addEventListener("DOMContentLoaded", function () {
         const colClass = isFirst ? "col-sm-3 item_4_1 item_2_1" : "col-sm-3";
 
         return `
-            <div class="${colClass}">
+            <div class="${colClass} product_container">
                 <div class="product_item">
                     <div class="product_img">
                         <a class="img_change" href="../product.html?id=${product.product_id}">
-                            <img loading="eager" style="height: 250px !important; width: 300px !important;" src="https://diamondstone.kz/api-productImage/${product.photo1}" alt="${product.title}" />
+                            <img loading="eager" class="product_container_image" src="https://diamondstone.kz/api-productImage/${product.photo1}" alt="${product.title}" />
                         </a>
                     </div>
                     <div class="product_info">

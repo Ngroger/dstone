@@ -1,0 +1,225 @@
+.header_container {
+  width: 100%;
+  padding: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  background: #FFF;
+}
+
+.header_logotype {
+  height: 35px;
+}
+
+.links_menu {
+  display: flex;
+  gap: 20px;
+}
+
+.navbar_mobile_container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+/* Скрываем меню на экранах меньше 1000px */
+@media (max-width: 999px) {
+  .menu {
+    display: flex;
+  }
+
+  .links_menu {
+    display: none;
+  }
+
+  .language_selector_mobile {
+    display: flex;
+  }
+
+  .navbar_mobile_container {
+    display: flex;
+  }
+}
+
+/* Показываем меню на экранах 1000px и больше */
+@media (min-width: 1000px) {
+  .links_menu {
+    display: flex;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .language_selector_mobile {
+    display: none;
+  }
+}
+
+.header_link {
+  font-size: 21px;
+  color: black;
+  text-transform: uppercase;
+}
+
+.header_link:hover {
+  color: #FF0000;
+}
+
+.links_menu_level_2 {
+  position: relative;
+}
+
+/* Скрываем выпадающее меню по умолчанию */
+.links_menu_level_2_dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  margin-left: -50px;
+  background-color: #fff;
+  list-style: none;
+  padding: 10px 20px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Показываем меню при наведении на элемент с классом links_menu_level_2 */
+.links_menu_level_2:hover .links_menu_level_2_dropdown {
+  display: block;
+}
+
+.links_menu_level_3 {
+  display: inline-block;
+  white-space: normal;
+  word-wrap: break-word;
+  width: 200px;
+  font-size: 18px;
+  color: #000;
+  text-decoration: none;
+  margin-bottom: 4px;
+}
+
+.links_menu_level_3:hover {
+  color: #FF0000;
+}
+
+.header_cart {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+#openscarts {
+  color: #000;
+  font-size: 21px;
+}
+
+.cart_icon {
+  height: 21px;
+  width: 21px;
+}
+
+#selected_language {
+  font-size: 21px;
+}
+
+.menu {
+  height: 21px;
+  width: 21px;
+}
+
+/* Медиа-запросы для уменьшения шрифта и иконок на экранах меньше 1100px */
+@media (max-width: 1100px) {
+  .header_logotype {
+    height: 18px;
+  }
+
+  .header_link {
+    font-size: 16px;
+  }
+
+  #openscarts {
+    font-size: 16px;
+  }
+
+  .cart_icon {
+    height: 16px;
+    width: 16px;
+  }
+
+  #selected_language {
+    font-size: 16px;
+  }
+}
+
+/* Общие стили для меню */
+.mobile_menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  /* Затемнение фона */
+  display: none;
+  /* Скрываем меню по умолчанию */
+  z-index: 1000;
+  /* Устанавливаем высокий z-index, чтобы меню было поверх других элементов */
+}
+
+.menu_overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.menu_content {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+  /* Ширина контейнера меню */
+  height: 100%;
+  background: #fff;
+  /* Белый фон контейнера меню */
+  overflow: auto;
+  /* Если меню будет длиннее экрана, добавляется прокрутка */
+  padding: 20px;
+}
+
+.menu_items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu_items li {
+  margin-bottom: 20px;
+}
+
+.menu_items a {
+  text-decoration: none;
+  color: #000;
+  font-size: 21px;
+}
+
+.menu_items a:hover {
+  color: #FF0000;
+}
+
+/* Кнопка для открытия меню */
+.menu {
+  cursor: pointer;
+}
+
+/* Стили для скрытия меню */
+.menu_overlay {
+  cursor: pointer;
+}

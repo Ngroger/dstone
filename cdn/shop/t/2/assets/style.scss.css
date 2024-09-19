@@ -4970,7 +4970,6 @@ input[type="password"],
   -moz-order: 4;
   -ms-flex-order: 4;
   order: 4;
-  margin-left: 20px;
 }
 
 .language {
@@ -6090,10 +6089,6 @@ header {
 
 .header_center.megamenu_stuck .header_logo {
   line-height: 10px;
-}
-
-.header_logotype {
-  height: 35px;
 }
 
 /* .header_center.megamenu_stuck .header_logo a {

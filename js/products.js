@@ -33,10 +33,10 @@ document.addEventListener("DOMContentLoaded", function () {
             productElement.classList.add("col-xs-3");
 
             const productHTML = `
-                <div class="product_item">
+                <div class="product_item ">
                     <div class="product_img">
                         <a class="img_change" href="product.html?id=${product.product_id}">
-                            <img loading="eager" style="height: 250px !important; width: 300px !important;" src="https://diamondstone.kz/api-productImage/${product.photo1}" alt="${product.title}" />
+                            <img loading="eager" style="product_container_image" src="https://diamondstone.kz/api-productImage/${product.photo1}" alt="${product.title}" />
                         </a>
                     </div>
                     <div class="product_info">

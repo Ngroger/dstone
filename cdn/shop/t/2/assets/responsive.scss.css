@@ -568,20 +568,6 @@
     width: auto;
   }
 
-  @media only screen and (min-width: 320px) {
-    .header_cart {
-      display: none !important;
-    }
-
-    ;
-  }
-
-  @media only screen and (min-width: 1000px) {
-    .header_cart {
-      display: block !important;
-    }
-  }
-
 
   .megamenu_mobile,
   .header_cart {

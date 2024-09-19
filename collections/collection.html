@@ -10,6 +10,7 @@
 
 
 	<link rel="shortcut icon" href="../cdn/shop/files/favicon1_small.png?v=1613659566" type="image/png" />
+	<link href="../css/navbar.css" rel="stylesheet" />
 
 	<script defer="" src="../js/cart.js"></script>
 	<script defer="" src="../js/collections.js"></script>
@@ -34,6 +35,7 @@
 		.row {
 			overflow: hidden;
 		}
+
 
 		#page_preloader__bg {
 			background: #fff;
@@ -94,7 +96,19 @@
 				padding-left: 15px;
 				padding-right: 15px;
 			}
+
+			.product_container {
+				width: 500px !important;
+			}
+
+			.product_container_image {
+				height: 150px !important;
+				width: 100% !important;
+				object-fit: cover;
+			}
 		}
+
+
 
 		@media (min-width: 768px) {
 			.container {
@@ -110,7 +124,22 @@
 
 		@media (min-width: 1200px) {
 			.container {
-				width: 1170px;
+				width: 1600px;
+			}
+
+			.product_container {
+				width: 325px !important;
+			}
+
+			.product_listing__list .product_container {
+				/* Стили для product_container, когда родитель имеет класс product_listing__list */
+				width: 75% !important;
+			}
+
+			.product_container_image {
+				height: 300px !important;
+				width: 100% !important;
+				object-fit: cover;
 			}
 		}
 
@@ -1148,6 +1177,16 @@
 			moneyFormat: "${{amount}}",
 		};
 	</script>
+	<script>
+		function toggleMenu() {
+			const menu = document.getElementById('mobileMenu');
+			if (menu.style.display === 'block') {
+				menu.style.display = 'none';
+			} else {
+				menu.style.display = 'block';
+			}
+		}
+	</script>
 	<meta property="og:image"
 		content="https://cdn.shopify.com/s/files/1/2025/6185/collections/nextstone_6npts1_random_rock_indooroutdoor_siding_panel_4pack_1.png?v=1495462851" />
 	<meta property="og:image:secure_url"
@@ -2108,96 +2147,81 @@
 	</div>
 	<div class="page_wrapper">
 		<div id="shopify-section-header" class="shopify-section">
-			<header id="page_header" style="background-color: #fff !important;">
-				<div class="page_container" style="background-color: #fff !important;">
-					<div class="header_top" style="background-color: #fff !important">
-						<div id="pseudo_sticky_block"></div>
-						<div class="header_center" style="background-color: #fff !important;">
-							<div style="display: flex; align-items: center !important;" class="header_wrap1">
-								<div class="header_logo" style="margin-bottom: 0px !important;">
-									<a href="../index.html" class="h-12">
-										<img src="../cdn/shop/files/diamond-stone.png" alt="DStone" class="header_logotype" />
-									</a>
-								</div>
-								<div class="language_selector">
-									<div class="language" id="selected_language" style="color: #000;">RU</div>
-									<div class="language_dropdown">
-										<button class="select-language" data-lang="RU">
-											<img src="../cdn/shop/files/flags/russian.png" alt="RU" style="width: 36px; height: 24px;">
-										</button>
-										<button class="select-language" data-lang="KZ">
-											<img src="../cdn/shop/files/flags/kazakhstan.png" alt="KZ" style="width: 36px; height: 24px;">
-										</button>
-										<button class="select-language" data-lang="ENG">
-											<img src="../cdn/shop/files/flags/uk.png" alt="ENG" style="width: 36px; height: 24px;">
-										</button>
-									</div>
-								</div>
-
-								<a href="../cart.html"
-									style="flex-direction: row; align-items: center; justify-content: center; display: flex;"
-									class="header_cart">
-									<p id="openscarts" style="color: #000; font-size: 21px; margin-right: 10px;"></p>
-									<img style="height: 21px; width: 21px;" src="../images/cart.png" alt="cart icon" />
-								</a>
-								<script>
-									function doSomethingCool(event) {
-										event.preventDefault();
-									}
-								</script>
-								<nav id="megamenu" class="megamenu">
-									<div id="megamenu_mobile_close">
-										<div class="close_icon"></div>
-									</div>
-									<ul id="megamenu_level__1" class="level_1">
-										<li class="level_1__item level_1_item_effect">
-											<a class="level_1__link level_1_effect" href="../index.html" id="mainButtonTitle"
-												style="font-weight: 100;">Главная</a>
-										</li>
-										<li class="level_1__item level_2__links">
-											<a class="level_1__link sf-with-ul" href="../collections.html" id="catalogButtonTitle"
-												style="color: #000; font-weight: 100;">Коллекия
-												<i class="level_1__trigger megamenu_trigger" data-submenu="menu_1479745635495"></i>
-											</a>
-											<ul class="level_2" style="border: 1px solid #CCC;" id="menu_1479745635495">
-												<li class="container">
-													<div class="megamenu_col__item">
-														<a class="level_3__link" href="./collection.html?id=2">Waterjet marble
-															mosaic</a><br><br>
-														<a class="level_3__link" href="./collection.html?id=3">3D marble mosaic
-															tiles</a><br><br>
-														<a class="level_3__link" href="./collection.html?id=4">Marble & Metal</a><br><br>
-														<a class="level_3__link" href="./collection.html?id=5">Irregular marble mosaic
-															tiles</a><br><br>
-														<a class="level_3__link" href="./collection.html?id=6">Flat Mosaic</a><br><br>
-														<a class="level_3__link" href="./collection.html?id=8">Border Series</a><br><br>
-														<a class="level_3__link" href="./collection.html?id=9">Waterjet marble
-															medallion</a><br><br>
-														<a class="level_3__link" href="./collection.html?id=10">Square/strip marble
-															mosaic tiles</a><br><br>
-														<a class="level_3__link" href="./collection.html?id=12">Marble sink</a><br><br>
-														<a class="level_3__link" href="./collection.html?id=13">Marble glass
-															series</a><br><br>
-														<a class="level_3__link" href="./collection.html?id=14">Lava stone
-															serias</a><br><br>
-														<a class="level_3__link" href="./collection.html?id=15">3d marble tiles</a><br><br>
-														<a class="level_3__link" href="./collection.html?id=19">3d mosaic tiles</a><br><br>
-													</div>
-												</li>
-											</ul>
-										</li>
-										<li class="level_1__item level_2__small">
-											<a class="level_1__link" href="../about-us.html" id="aboutUsButtonTitle"
-												style="color: #000; font-weight: 100;">О нас</a>
-										</li>
-										<li class="level_1__item">
-											<a class="level_1__link" href="../contact-us.html" id="contactsButtonTitle"
-												style="color: #000; font-weight: 100;">Контакты</a>
-										</li>
-									</ul>
-								</nav>
-							</div>
+			<header class="header_container">
+				<a href="index.html">
+					<img src="../cdn/shop/files/diamond-stone.png" alt="DStone" class="header_logotype" />
+				</a>
+				<div class="links_menu">
+					<li>
+						<a class="header_link" href="index.html">Главная</a>
+					</li>
+					<li class="links_menu_level_2">
+						<a class="header_link" href="collections.html">Коллекция</a>
+						<ul class="links_menu_level_2_dropdown">
+							<a class="links_menu_level_3" href="./collection.html?id=2">Waterjet marble
+								mosaic</a><br>
+							<a class="links_menu_level_3" href="./collection.html?id=3">3D marble mosaic
+								tiles</a><br>
+							<a class="links_menu_level_3" href="./collection.html?id=4">Marble &
+								Metal</a><br>
+							<a class="links_menu_level_3" href="./collection.html?id=5">Irregular marble mosaic
+								tiles</a><br>
+							<a class="links_menu_level_3" href="./collection.html?id=6">Flat Mosaic</a><br>
+							<a class="links_menu_level_3" href="./collection.html?id=8">Border Series</a><br>
+							<a class="links_menu_level_3" href="./collection.html?id=9">Waterjet marble
+								medallion</a><br>
+							<a class="links_menu_level_3" href="./collection.html?id=10">Square/strip marble
+								mosaic tiles</a><br>
+							<a class="links_menu_level_3" href="./collection.html?id=12">Marble sink</a><br>
+							<a class="links_menu_level_3" href="./collection.html?id=13">Marble glass
+								series</a><br>
+							<a class="links_menu_level_3" href="./collection.html?id=14">Lava stone
+								serias</a><br>
+							<a class="links_menu_level_3" href="./collection.html?id=15">3d marble
+								tiles</a><br>
+							<a class="links_menu_level_3" href="./collection.html?id=19">3d mosaic tiles</a>
+						</ul>
+					</li>
+					<li>
+						<a class="header_link" href="../about-us.html">О нас</a>
+					</li>
+					<li>
+						<a class="header_link" href="../contact-us.html">Контакты</a>
+					</li>
+					<a class="header_cart" href="../cart.html">
+						<p id="openscarts">0</p>
+						<img class="cart_icon" src="../images/cart.png" alt="cart icon" />
+					</a>
+					<div class="language_selector">
+						<div class="language" id="selected_language" style="color: #000;">RU</div>
+						<div class="language_dropdown">
+							<button class="select-language" data-lang="RU">
+								<img src="./cdn/shop/files/flags/russian.png" alt="RU" style="width: 36px; height: 24px;">
+							</button>
+							<button class="select-language" data-lang="KZ">
+								<img src="./cdn/shop/files/flags/kazakhstan.png" alt="KZ" style="width: 36px; height: 24px;">
+							</button>
+							<button class="select-language" data-lang="ENG">
+								<img src="./cdn/shop/files/flags/uk.png" alt="ENG" style="width: 36px; height: 24px;">
+							</button>
 						</div>
+					</div>
+				</div>
+				<img class="menu" src="./images/menu.png" alt="menu_mobile" onclick="toggleMenu()" />
+
+				<!-- Меню -->
+				<div id="mobileMenu" class="mobile_menu">
+					<div class="menu_overlay" onclick="toggleMenu()"></div>
+					<div class="menu_content">
+						<ul class="menu_items">
+							<li><a class="header_link" href="index.html">Главная</a></li>
+							<li class="links_menu_level_2">
+								<a class="header_link" href="../collections.html">Коллекция</a>
+							</li>
+							<li><a class="header_link" href="../about-us.html">О нас</a></li>
+							<li><a class="header_link" href="../contact-us.html">Контакты</a></li>
+							<li><a class="header_link" href="../cart.html">Корзина</a></li>
+						</ul>
 					</div>
 				</div>
 			</header>
@@ -2207,17 +2231,17 @@
 			<div class="breadcrumbs">
 				<div class="container">
 					<ul>
-						<li><a href="../index.html">Главная</a></li>
+						<li><a style="font-size: 21px;" href="../index.html">Главная</a></li>
 
-						<li><a href="../collections.html">Колекции</a></li>
-						<li><span id="category-breadcrumbs-title"></span></li>
+						<li><a style="font-size: 21px;" href="../collections.html">Колекции</a></li>
+						<li><span style="font-size: 21px;" id="category-breadcrumbs-title"></span></li>
 					</ul>
 				</div>
 			</div>
 
 			<div id="shopify-section-template-collection"
 				class="shopify-section section_template section_template__collection">
-				<div class="collection_img collection_img__overlay">
+				<div class="collection_img collection_img__overlay" style="margin-top: 40px;">
 					<div class="layer_1 img_wrapper__small img_center" style="
                 background-image: url(../cdn/shop/files/Depositphotos_2596295_original_2048x200_crop_center.jpg);
               "></div>
