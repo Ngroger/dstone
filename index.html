@@ -13,7 +13,9 @@
 	<script defer="" src="js/loadPage.js"></script>
 	<script defer="" src="js/themeProvider.js"></script>
 	<script defer="" src="js/loadCartCounter.js"></script>
+	<script defer="" src="js/customeSwiper.js"></script>
 	<link href="./css/navbar.css" rel="stylesheet" />
+	<link href="./css/swiper.css" rel="stylesheet" />
 	<link href="./src/output.css" rel="stylesheet" />
 
 	<link href="font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
@@ -480,9 +482,7 @@
 				width: 33.33333333%;
 			}
 
-			.col-sm-3 {
-				width: 25%;
-			}
+			.col-sm-3 {}
 
 			.col-sm-2 {
 				width: 16.66666667%;
@@ -1286,28 +1286,30 @@
 						data-autoplay="true" data-speed="5000">
 						<div class="swiper-wrapper">
 							<div class="swiper-slide image_slide">
-								<div class="img_placeholder__wrap img_placeholder__large" style="background-image: url(cdn/shop/files/slide1_2048x867_crop_center.jpg);
-                  "></div>
-								<div class="slide_caption">
-									<div></div>
-								</div>
+								<div class="img_placeholder__wrap img_placeholder__large"
+									style="background-image: url(cdn/shop/files/slide1_2048x867_crop_center.jpg);"></div>
+								<div class="slide_caption"></div>
 							</div>
 
 							<div class="swiper-slide image_slide">
-								<div class="img_placeholder__wrap img_placeholder__large" style="
-                    background-image: url(cdn/shop/files/slide2_2048x867_crop_top.jpg);
-                  "></div>
-								<div class="slide_caption">
-									<div></div>
-								</div>
+								<div class="img_placeholder__wrap img_placeholder__large"
+									style="background-image: url(cdn/shop/files/slide2_2048x867_crop_top.jpg);"></div>
+								<div class="slide_caption"></div>
 							</div>
+						</div>
 
-							<div id="slider_prev_1484331457896" class="swiper_btn swiper_btn__prev"></div>
-							<div id="slider_next_1484331457896" class="swiper_btn swiper_btn__next"></div>
+						<div id="slider_prev_1484331457896" class="swiper_btn swiper_btn__prev"></div>
+						<div id="slider_next_1484331457896" class="swiper_btn swiper_btn__next"></div>
+
+						<!-- Custom pagination buttons -->
+						<div class="slider-swiper">
+							<button class="slider-active-dot"></button>
+							<button class="slider-deactive-dot"></button>
 						</div>
 					</div>
+
 				</div>
-				<h1 style="font-size: 24px; text-align: center; margin-top: 100px; margin-bottom: 24px;"> ⎯ Коллекция ⎯ </h1>
+				<h1 style="font-size: 24px; text-align: center; margin-top: 64px; margin-bottom: 24px;"> ⎯ Коллекция ⎯ </h1>
 				<div id="shopify-section-1495558826133" style="background-color: #fff;"
 					class="shopify-section section section_Главнаяpage section_banners">
 					<div class="container">
@@ -1571,31 +1573,30 @@
 						<div style="background-color: #fff;" class="footer_row__1">
 							<div style="background-color: #fff;" class="container">
 								<div class="row">
-									<div style="background-color: #fff;" class="flexbox">
-										<img
-											style="margin-right: 100px; height: 250px; width: 150px; margin-top: 24px; margin-bottom: 24px;"
+									<div style="background-color: #fff; display: flex; justify-content: center; gap: 32px;"
+										class="flexbox">
+										<img style="height: 250px; width: 150px; margin-top: 12px; margin-bottom: 24px;"
 											src="images/footer-light.png" />
-										<div class="col-sm-3 footer_block footer_block__2_1">
-
+										<div class="col-sm-3 footer_block">
 											<div class="footer_item footer_item__links">
-
-												<h6 style="color: #000;">Информация</h6>
-
+												<h6 style="color: #000; background-color: #fff; align-self: flex-start;">Информация</h6>
 												<ul>
 													<li>
-														<a style="color: #000;" class="footer_after_link" href="index.html">Главная</a>
+														<a style="color: #000;" href="collections/collection.html?id=2">Главная</a>
 													</li>
 
 													<li>
-														<a style="color: #000;" class="footer_after_link" href="collections.html">Коллекции</a>
+														<a style="color: #000;" href="collections/collection.html?id=3">Коллекции</a>
 													</li>
 
 													<li>
-														<a style="color: #000;" class="footer_after_link" href="about-us.html">О нас</a>
+														<a style="color: #000;" href="collections/collection.html?id=4">О нас</a>
 													</li>
+
 													<li>
-														<a style="color: #000;" class="footer_after_link" href="contact-us.html">Контакты</a>
+														<a style="color: #000;" href="collections/collection.html?id=5">Контакты</a>
 													</li>
+
 												</ul>
 											</div>
 										</div>
@@ -1606,27 +1607,6 @@
 												<ul>
 													<li>
 														<a style="color: #000;" href="collections/collection.html?id=2">Waterjet marble mosaic</a>
-													</li>
-
-													<li>
-														<a style="color: #000;" href="collections/collection.html?id=3">3D marble mosaic tiles</a>
-													</li>
-
-													<li>
-														<a style="color: #000;" href="collections/collection.html?id=4">Marble & Metal</a>
-													</li>
-
-													<li>
-														<a style="color: #000;" href="collections/collection.html?id=5">Irregular marble mosaic
-															tiles</a>
-													</li>
-
-													<li>
-														<a style="color: #000;" href="collections/collection.html?id=6">Flat Mosaic</a>
-													</li>
-
-													<li>
-														<a style="color: #000;" href="collections/collection.html?id=7">Border Series</a>
 													</li>
 												</ul>
 											</div>
@@ -1646,9 +1626,8 @@
 												</li>
 
 												<li>
-													<a style="color: #000;" class="footer_after_link" target="_blank" href="tel:77008888099">+7
-														(700)
-														888-80-99</a>
+													<a style="color: #000;" class="footer_after_link" target="_blank" href="tel:77008888099">
+														+7 (700) 888-80-99</a>
 												</li>
 
 												<li>
