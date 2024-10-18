@@ -14,12 +14,15 @@
 	<script defer="" src="js/themeProvider.js"></script>
 	<script defer="" src="js/loadCartCounter.js"></script>
 	<script defer="" src="js/customeSwiper.js"></script>
+	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 	<link href="./css/navbar.css" rel="stylesheet" />
 	<link href="./css/swiper.css" rel="stylesheet" />
 	<link href="./src/output.css" rel="stylesheet" />
 
 	<link href="font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 	<link href="./src/responsive.css" rel="stylesheet" />
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+
 
 	<title>DStone</title>
 
@@ -1164,6 +1167,28 @@
 			animation: l3 1s infinite linear;
 		}
 
+		.swiper-container {
+			width: 100%;
+			height: 90vh;
+		}
+
+		.swiper-button-next,
+		.swiper-button-prev {
+			color: #000;
+		}
+
+		.swiper-button-next::after,
+		.swiper-button-prev::after {
+			font-size: 20px;
+			font-weight: 700;
+		}
+
+		.swiper-pagination-bullet {
+			background: #053982;
+			width: 10px;
+			height: 10px;
+		}
+
 		@keyframes l3 {
 			to {
 				transform: rotate(1turn)
@@ -1282,31 +1307,31 @@
 				<div id="shopify-section-1484331457896"
 					class="shopify-section index-section section_bg section_slideshow_wrapper main_swiper section_Главнаяpage">
 
-					<div class="section section_slideshow section_slideshow__large swiper-container" id="slideshow_1484331457896"
-						data-autoplay="true" data-speed="5000">
+
+
+					<div class="swiper-container">
 						<div class="swiper-wrapper">
 							<div class="swiper-slide image_slide">
-								<div class="img_placeholder__wrap img_placeholder__large"
-									style="background-image: url(cdn/shop/files/slide1_2048x867_crop_center.jpg);"></div>
+								<div class="img_placeholder__wrap img_placeholder__large" style="background-image: url(cdn/shop/files/slide1_2048x867_crop_center.jpg); height: 100%; width: 100%;
+								 background-size: cover;">
+								</div>
 								<div class="slide_caption"></div>
 							</div>
 
 							<div class="swiper-slide image_slide">
-								<div class="img_placeholder__wrap img_placeholder__large"
-									style="background-image: url(cdn/shop/files/slide2_2048x867_crop_top.jpg);"></div>
+								<div class="img_placeholder__wrap img_placeholder__large" style="background-image: url(cdn/shop/files/slide2_2048x867_crop_top.jpg); height: 100%; width: 100%;
+								 background-size: cover;">
+								</div>
 								<div class="slide_caption"></div>
 							</div>
 						</div>
+						<div class="swiper_btn swiper-button-next"></div>
+						<div class="swiper_btn swiper-button-prev"></div>
 
-						<div id="slider_prev_1484331457896" class="swiper_btn swiper_btn__prev"></div>
-						<div id="slider_next_1484331457896" class="swiper_btn swiper_btn__next"></div>
-
-						<!-- Custom pagination buttons -->
-						<div class="slider-swiper">
-							<button class="slider-active-dot"></button>
-							<button class="slider-deactive-dot"></button>
-						</div>
+						<div class="swiper-pagination"></div>
 					</div>
+
+
 
 				</div>
 				<h1 style="font-size: 24px; text-align: center; margin-top: 64px; margin-bottom: 24px;"> ⎯ Коллекция ⎯ </h1>
@@ -1573,10 +1598,8 @@
 						<div style="background-color: #fff;" class="footer_row__1">
 							<div style="background-color: #fff;" class="container">
 								<div class="row">
-									<div style="background-color: #fff; display: flex; justify-content: center; gap: 32px;"
-										class="flexbox">
-										<img style="height: 250px; width: 150px; margin-top: 12px; margin-bottom: 24px;"
-											src="images/footer-light.png" />
+									<div class="flexbox">
+										<img style="height: 250px; width: 150px; margin-top: 8px;" src="images/footer-light.png" />
 										<div class="col-sm-3 footer_block">
 											<div class="footer_item footer_item__links">
 												<h6 style="color: #000; background-color: #fff; align-self: flex-start;">Информация</h6>
@@ -1601,15 +1624,15 @@
 											</div>
 										</div>
 
-										<div class="col-sm-3 footer_block">
-											<div class="footer_item footer_item__links footer_item__categories_links">
-												<h6 style="color: #000; background-color: #fff;">Коллекция</h6>
-												<ul>
-													<li>
-														<a style="color: #000;" href="collections/collection.html?id=2">Waterjet marble mosaic</a>
-													</li>
-												</ul>
-											</div>
+										<div class="footer_item footer_item__links footer_item__categories_links">
+
+											<h6 style="color: #000; ">Коллекция</h6>
+
+											<ul>
+												<li>
+													<a style="color: #000;" href="collections/collection.html?id=2">Waterjet marble mosaic</a>
+												</li>
+											</ul>
 										</div>
 
 										<div class="footer_item footer_item__links">
@@ -1687,6 +1710,27 @@
 
 		<link href="css?family=Lato:300,300i,400,400i,700,700i,900,900i&subset=cyrillic" rel="stylesheet" type="text/css" />
 	</noscript>
+
+	<script>
+		const swiper = new Swiper('.swiper-container', {
+			autoplay: {
+				delay: 5000,
+				disableOnInteraction: false,
+			},
+			navigation: {
+				nextEl: '.swiper-button-next',
+				prevEl: '.swiper-button-prev',
+			},
+			pagination: {
+				el: '.swiper-pagination',
+				clickable: true,
+			},
+			loop: true,
+			slidesPerView: 1,
+			spaceBetween: 5,
+		});
+	</script>
+
 
 	<script>
 		var loadDeferredStyles = function () {

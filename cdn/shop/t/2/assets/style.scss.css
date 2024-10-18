@@ -5165,6 +5165,8 @@ body {
   display: -moz-flex;
   display: -ms-flexbox;
   display: flex;
+  justify-content: center;
+  gap: 32px;
 }
 
 .section_heading+.product_listing__main {
