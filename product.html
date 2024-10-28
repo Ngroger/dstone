@@ -1709,9 +1709,7 @@
 						<div class="single_product__img col-xs-6">
 							<div id="gallery_big-template-product" class="gallery_big swiper-container">
 								<div class="swiper-wrapper">
-									<div id="no-images-message"
-										style="display: none; width: 100%; text-align: center; font-size: clamp(1rem, 0.792rem + 0.67vw, 1.625rem);">
-									</div>
+									<img src="./images/no-image.png" id="no-images-message" />
 								</div>
 
 								<div id="prev_template-product" class="swiper_btn swiper_btn__prev"></div>
@@ -1740,50 +1738,53 @@
 
 									<div class="details_wrapper">
 										<div class="details_left">
-											<p class="single_product__weight" style="font-size: 16px !important;">
-												<b>Код:</b>
-												<span id="product_code">LAY907</span>
+											<p id="product_code_container" class="single_product__weight" style="font-size: 16px !important;">
+												<b>Код:</b><span id="product_code">LAY907</span>
 											</p>
 
-											<p class="single_product__weight" style="font-size: 16px !important;">
+											<p id="product_category_container" class="single_product__weight"
+												style="font-size: 16px !important;">
 												<b>Коллекция:</b><span id="product_category">Waterjet marble mosaic</span>
 											</p>
 
-											<p class="single_product__type" style="font-size: 16px !important;">
+											<p id="product_color_container" class="single_product__type" style="font-size: 16px !important;">
 												<b>Цвет:</b><span id="product_color">Белый</span>
 											</p>
-											<p class="single_product__type" style="font-size: 16px !important;">
+
+											<p id="product_material_container" class="single_product__type"
+												style="font-size: 16px !important;">
 												<b>Материал:</b><span id="product_material"> Мрамор + Металл</span>
 											</p>
-											<p class="single_product__type" style="font-size: 16px !important;">
+
+											<p id="product_size_container" class="single_product__type" style="font-size: 16px !important;">
 												<b>Размер:</b><span id="product_size">300x290мм</span>
 											</p>
-											<p class="single_product__type" style="font-size: 16px !important;">
+
+											<p id="product_thickness_container" class="single_product__type"
+												style="font-size: 16px !important;">
 												<b>Толщина:</b><span id="product_thickness">8мм</span>
 											</p>
-											<p class="single_product__type" style="font-size: 16px !important;">
+
+											<p id="product_place_of_application_container" class="single_product__type"
+												style="font-size: 16px !important;">
 												<b>Место применения:</b><span id="product_place_of_application"> Ванна</span>
 											</p>
 										</div>
 
 										<div class="details_right">
 
-
+											<button class="cart-add btn btn_big btn-cart add-cart-button" id="add-cart-button" data-id=""
+												data-name="" data-image="" data-collection="" data-color="" data-material="" data-size=""
+												data-thickness="" weight="">
+												В корзину
+											</button>
 											<div class="single_product__quantity">
 												<div class="quantity_box"></div>
 											</div>
 
-											<div class="social_sharing_block">
-
-											</div>
 										</div>
 									</div>
 								</form>
-								<button class="cart-add btn btn_big btn-cart add-cart-button" id="add-cart-button" data-id=""
-									data-name="" data-image="" data-collection="" data-color="" data-material="" data-size=""
-									data-thickness="" weight="">
-									В корзину
-								</button>
 							</div>
 						</div>
 					</div>

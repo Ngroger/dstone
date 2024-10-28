@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
             const data = await response.json();
             if (data.success) {
                 console.log("product", data.product[0]);
-                return data.product[0]; // Assuming product is an object, not an array
+                return data.product[0];
             } else {
                 console.error("Failed to fetch product data");
                 return null;
@@ -28,26 +28,47 @@ document.addEventListener("DOMContentLoaded", function () {
         if (!product) return;
 
         const swiperWrapperBig = document.querySelector(".gallery_big .swiper-wrapper");
-        const swiperWrapperThumbs = document.querySelector(".gallery_thumbs .swiper-wrapper");
+        const swiperWrapperThumbs = document.querySelector(".gallery_thumbs");
         const noImagesMessage = document.getElementById("no-images-message");
-        
-        const images = [{ photo: product.photo1 },{ photo: product.photo2 },{ photo: product.photo3 }];
+
+        // Filter out null images and move them to the end
+        const images = [product.photo1, product.photo2, product.photo3]
+            .filter(photo => photo) // Remove null/undefined entries
+            .concat([product.photo1, product.photo2, product.photo3].filter(photo => !photo)); // Append null/undefined entries
 
         let photoCount = 0;
 
-        images.forEach((image, index) => {
-            if (image.photo && image.photo !== 'no-image.png') {
-                const slideIndex = index + 1;
+        const fields = [
+            { id: "product_code_container", value: product.title },
+            { id: "product_category_container", value: product.category },
+            { id: "product_color_container", value: product.color },
+            { id: "product_material_container", value: product.material },
+            { id: "product_size_container", value: product.size },
+            { id: "product_thickness_container", value: product.thickness },
+            { id: "product_place_of_application_container", value: product.placeOfApplication },
+        ];
+
+        fields.forEach(field => {
+            const element = document.getElementById(field.id);
+            if (field.value) {
+                element.querySelector("span").innerText = field.value;
+                element.style.display = 'block';
+            } else {
+                element.style.display = 'none';
+            }
+        });
+
+        images.forEach((photo, index) => {
+            if (photo) {
+                console.log(`Image ${index + 1} URL: https://diamondstone.kz/api-productImage/${photo}`);
 
                 const bigSlideDiv = document.createElement('div');
                 bigSlideDiv.classList.add('swiper-slide');
-                bigSlideDiv.id = `big-slide-${slideIndex}`;
 
                 const bigImage = document.createElement('img');
-                bigImage.id = `big-image-${slideIndex}`;
                 bigImage.style.objectFit = 'cover';
                 bigImage.style.width = '100%';
-                bigImage.src = `https://diamondstone.kz/api-productImage/${image.photo}`;
+                bigImage.src = `https://diamondstone.kz/api-productImage/${photo}`;
                 bigImage.alt = product.title;
 
                 bigSlideDiv.appendChild(bigImage);
@@ -55,20 +76,23 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 const smallSlideDiv = document.createElement('div');
                 smallSlideDiv.classList.add('swiper-slide');
-                smallSlideDiv.id = `small-slide-${slideIndex}`;
 
                 const smallImage = document.createElement('img');
-                smallImage.id = `small-image-${slideIndex}`;
                 smallImage.style.height = '100px';
-                smallImage.src = `https://diamondstone.kz/api-productImage/${image.photo}`;
+                smallImage.src = `https://diamondstone.kz/api-productImage/${photo}`;
                 smallImage.alt = product.title;
 
                 smallSlideDiv.appendChild(smallImage);
-                swiperWrapperThumbs.appendChild(smallSlideDiv);
+                swiperWrapperThumbs.querySelector(".swiper-wrapper").appendChild(smallSlideDiv);
 
                 photoCount++;
             }
         });
+
+        // Hide gallery thumbs if there’s only one valid image
+        if (photoCount < 2) {
+            swiperWrapperThumbs.style.display = 'none';
+        }
 
         const prevButton = document.getElementById("prev_template-product");
         const nextButton = document.getElementById("next_template-product");
@@ -79,61 +103,35 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         if (photoCount === 0) {
-            noImagesMessage.innerText = "У данного товара нет картинок";
-            noImagesMessage.style.display = 'block';  
+            noImagesMessage.style.display = 'block'; // Показываем заглушку
         } else {
-            noImagesMessage.style.display = 'none';  
-        }
+            noImagesMessage.style.display = 'none'; // Скрываем заглушку
+        };
 
-
+        // Update addCartButton data attributes
         const addCartButton = document.getElementById("add-cart-button");
         addCartButton.dataset.name = product.title;
-        addCartButton.dataset.image = `$https://diamondstone.kz/api-productImage/${product.image}`;
+        addCartButton.dataset.image = `https://diamondstone.kz/api-productImage/${product.photo1 || 'no-image.png'}`;
         addCartButton.dataset.collection = product.category;
         addCartButton.dataset.color = product.color;
         addCartButton.dataset.material = product.material;
         addCartButton.dataset.size = product.size;
         addCartButton.dataset.thickness = product.thickness;
         addCartButton.weight = product.weight;
-        console.log("addCartButton: ", addCartButton);
 
         // Update text details (title, category, etc.)
-        const title = document.querySelector(".single_product__title");
-        title.innerText = product.title;
-
-        const mainTitle = document.getElementById('main-title');
-        mainTitle.innerText = product.title;
-
-        const code = document.getElementById("product_code")
-        code.innerText = product.title
-
-        const category = document.getElementById("product_category")
-        category.innerText = product.category
-
-        const mainCategory = document.getElementById('main-category');
-        mainCategory.innerText = product.category;
-
-        const color = document.getElementById("product_color");
-        color.innerText = product.color;
-
-        const material = document.getElementById("product_material");
-        material.innerText = product.material;
-
-        const size = document.getElementById("product_size");
-        size.innerText = product.size;
-
-        const thickness = document.getElementById("product_thickness");
-        thickness.innerText = product.thickness;
-
-        const placeOfApplication = document.getElementById("product_place_of_application");
-        placeOfApplication.innerText = product.placeOfApplication;
-
-        const descriptionTitle = document.getElementById("description-title");
-        console.log("descriptionTitle: ", descriptionTitle);
-        descriptionTitle.innerText = product.descriptionTitle
-
-        const description = document.getElementById("description");
-        description.innerText = product.description
+        document.querySelector(".single_product__title").innerText = product.title;
+        document.getElementById('main-title').innerText = product.title;
+        document.getElementById("product_code").innerText = product.title;
+        document.getElementById("product_category").innerText = product.category;
+        document.getElementById('main-category').innerText = product.category;
+        document.getElementById("product_color").innerText = product.color;
+        document.getElementById("product_material").innerText = product.material;
+        document.getElementById("product_size").innerText = product.size;
+        document.getElementById("product_thickness").innerText = product.thickness;
+        document.getElementById("product_place_of_application").innerText = product.placeOfApplication;
+        document.getElementById("description-title").innerText = product.descriptionTitle;
+        document.getElementById("description").innerText = product.description;
     }
 
     // Main function to execute the script logic
