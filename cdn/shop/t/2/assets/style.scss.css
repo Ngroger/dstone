@@ -6939,7 +6939,6 @@ footer .footer_row__1 .flexbox {
 footer .footer_row__1 .footer_block {
   padding-bottom: 10px;
   padding-left: 21px;
-  border-left: 1px solid #fff6;
 }
 
 footer .footer_item {
@@ -6955,7 +6954,6 @@ footer .footer_item h6 {
   display: block;
   text-overflow: ellipsis;
   white-space: nowrap;
-  z-index: 1;
 }
 
 footer .footer_item h6:before {
@@ -7536,10 +7534,6 @@ footer .footer_payments i {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.section_single-product .swiper-slide {
-  background: #0000000a;
 }
 
 .section_single-product .gallery_big .swiper-slide {
