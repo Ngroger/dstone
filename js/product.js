@@ -118,6 +118,7 @@ document.addEventListener("DOMContentLoaded", function () {
         addCartButton.dataset.size = product.size;
         addCartButton.dataset.thickness = product.thickness;
         addCartButton.weight = product.weight;
+        addCartButton.dataset.id = product.product_id
 
         // Update text details (title, category, etc.)
         document.querySelector(".single_product__title").innerText = product.title;

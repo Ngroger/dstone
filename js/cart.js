@@ -8,6 +8,7 @@ function updateLocalStorage() {
 
 // Функция для добавления товара в корзину
 function addToCart(product) {
+  console.log("product: ", product);
   // Проверка на наличие товара в корзине
   const existingProduct = cart.find(item => item.id === product.id);
 
