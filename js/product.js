@@ -27,86 +27,96 @@ document.addEventListener("DOMContentLoaded", function () {
     function updateProductDetails(product) {
         if (!product) return;
 
-        const swiperWrapperBig = document.querySelector(".gallery_big .swiper-wrapper");
-        const swiperWrapperThumbs = document.querySelector(".gallery_thumbs");
-        const noImagesMessage = document.getElementById("no-images-message");
+        // Меняем заголовок страницы
+        document.title = product.title;
 
-        // Filter out null images and move them to the end
-        const images = [product.photo1, product.photo2, product.photo3]
-            .filter(photo => photo) // Remove null/undefined entries
-            .concat([product.photo1, product.photo2, product.photo3].filter(photo => !photo)); // Append null/undefined entries
+        const images = [product.photo1, product.photo2, product.photo3].filter(Boolean); // Фильтруем null или undefined
 
-        let photoCount = 0;
+        const mainSlide = document.getElementById("custom-main-slide");
+        const thumbsContainer = document.getElementById("custom-thumbs-container");
+        const prevButton = document.getElementById("custom-prev-slide");
+        const nextButton = document.getElementById("custom-next-slide");
+        const thumbsWrapper = document.querySelector(".custom-slider-thumbs");
 
+        // Удаляем старые миниатюры, если они были
+        thumbsContainer.innerHTML = "";
+
+        // Если только одна фотография, скрываем стрелки и превью
+        if (images.length <= 1) {
+            prevButton.style.display = "none";
+            nextButton.style.display = "none";
+            thumbsWrapper.style.display = "none";
+
+            if (images.length === 1) {
+                mainSlide.src = `https://diamondstone.kz/api-productImage/${images[0]}`;
+            }
+        } else {
+            let currentIndex = 0;
+
+            // Добавляем миниатюры
+            images.forEach((image, index) => {
+                const thumb = document.createElement("img");
+                thumb.classList.add("custom-thumb");
+                thumb.dataset.index = index;
+                thumb.src = `https://diamondstone.kz/api-productImage/${image}`;
+                thumb.alt = `Thumb ${index + 1}`;
+                thumbsContainer.appendChild(thumb);
+            });
+
+            const thumbs = document.querySelectorAll(".custom-thumb");
+
+            function updateMainSlide(index) {
+                mainSlide.src = `https://diamondstone.kz/api-productImage/${images[index]}`;
+                thumbs.forEach((thumb, i) => {
+                    thumb.classList.toggle("active", i === index);
+                });
+            }
+
+            // Навигация по стрелкам
+            prevButton.addEventListener("click", () => {
+                currentIndex = (currentIndex - 1 + images.length) % images.length;
+                updateMainSlide(currentIndex);
+            });
+
+            nextButton.addEventListener("click", () => {
+                currentIndex = (currentIndex + 1) % images.length;
+                updateMainSlide(currentIndex);
+            });
+
+            // Клик на миниатюры
+            thumbs.forEach((thumb) => {
+                thumb.addEventListener("click", () => {
+                    currentIndex = parseInt(thumb.dataset.index, 10);
+                    updateMainSlide(currentIndex);
+                });
+            });
+
+            // Инициализация
+            updateMainSlide(currentIndex);
+        }
+
+        // Заполняем остальные данные
         const fields = [
-            { id: "product_code_container", value: product.title },
-            { id: "product_category_container", value: product.category },
-            { id: "product_color_container", value: product.color },
-            { id: "product_material_container", value: product.material },
-            { id: "product_size_container", value: product.size },
-            { id: "product_thickness_container", value: product.thickness },
-            { id: "product_place_of_application_container", value: product.placeOfApplication },
+            { id: "product_code_container", label: "Код", value: product.title },
+            { id: "product_category_container", label: "Коллекция", value: product.category },
+            { id: "product_color_container", label: "Цвет", value: product.color },
+            { id: "product_material_container", label: "Материал", value: product.material },
+            { id: "product_size_container", label: "Размер", value: product.size },
+            { id: "product_thickness_container", label: "Толщина", value: product.thickness },
+            { id: "product_place_of_application_container", label: "Место применения", value: product.placeOfApplication },
         ];
 
         fields.forEach(field => {
             const element = document.getElementById(field.id);
-            if (field.value) {
+
+            // Проверяем, если значение пустое, равно "-" или null/undefined
+            if (field.value && field.value !== "-") {
                 element.querySelector("span").innerText = field.value;
                 element.style.display = 'block';
             } else {
                 element.style.display = 'none';
             }
         });
-
-        images.forEach((photo, index) => {
-            if (photo) {
-                console.log(`Image ${index + 1} URL: https://diamondstone.kz/api-productImage/${photo}`);
-
-                const bigSlideDiv = document.createElement('div');
-                bigSlideDiv.classList.add('swiper-slide');
-
-                const bigImage = document.createElement('img');
-                bigImage.style.objectFit = 'cover';
-                bigImage.style.width = '100%';
-                bigImage.src = `https://diamondstone.kz/api-productImage/${photo}`;
-                bigImage.alt = product.title;
-
-                bigSlideDiv.appendChild(bigImage);
-                swiperWrapperBig.appendChild(bigSlideDiv);
-
-                const smallSlideDiv = document.createElement('div');
-                smallSlideDiv.classList.add('swiper-slide');
-
-                const smallImage = document.createElement('img');
-                smallImage.style.height = '100px';
-                smallImage.src = `https://diamondstone.kz/api-productImage/${photo}`;
-                smallImage.alt = product.title;
-
-                smallSlideDiv.appendChild(smallImage);
-                swiperWrapperThumbs.querySelector(".swiper-wrapper").appendChild(smallSlideDiv);
-
-                photoCount++;
-            }
-        });
-
-        // Hide gallery thumbs if there’s only one valid image
-        if (photoCount < 2) {
-            swiperWrapperThumbs.style.display = 'none';
-        }
-
-        const prevButton = document.getElementById("prev_template-product");
-        const nextButton = document.getElementById("next_template-product");
-
-        if (photoCount < 2) {
-            prevButton.style.display = 'none';
-            nextButton.style.display = 'none';
-        }
-
-        if (photoCount === 0) {
-            noImagesMessage.style.display = 'block'; // Показываем заглушку
-        } else {
-            noImagesMessage.style.display = 'none'; // Скрываем заглушку
-        };
 
         // Update addCartButton data attributes
         const addCartButton = document.getElementById("add-cart-button");
@@ -117,23 +127,14 @@ document.addEventListener("DOMContentLoaded", function () {
         addCartButton.dataset.material = product.material;
         addCartButton.dataset.size = product.size;
         addCartButton.dataset.thickness = product.thickness;
-        addCartButton.weight = product.weight;
-        addCartButton.dataset.id = product.product_id
+        addCartButton.dataset.id = product.product_id;
 
         // Update text details (title, category, etc.)
         document.querySelector(".single_product__title").innerText = product.title;
-        document.getElementById('main-title').innerText = product.title;
-        document.getElementById("product_code").innerText = product.title;
-        document.getElementById("product_category").innerText = product.category;
-        document.getElementById('main-category').innerText = product.category;
-        document.getElementById("product_color").innerText = product.color;
-        document.getElementById("product_material").innerText = product.material;
-        document.getElementById("product_size").innerText = product.size;
-        document.getElementById("product_thickness").innerText = product.thickness;
-        document.getElementById("product_place_of_application").innerText = product.placeOfApplication;
-        document.getElementById("description-title").innerText = product.descriptionTitle;
-        document.getElementById("description").innerText = product.description;
+        document.getElementById("description-title").innerText = product.descriptionTitle !== "-" ? product.descriptionTitle : "";
+        document.getElementById("description").innerText = product.description !== "-" ? product.description : "";
     }
+
 
     // Main function to execute the script logic
     async function main() {

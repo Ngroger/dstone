@@ -3,10 +3,12 @@
 
 <head>
 	<link rel="stylesheet" href="css/knopka.css" />
+	<link rel="stylesheet" href="css/product-swiper.css" />
 	<meta charset="utf-8" />
 	<script defer="" src="js/cart.js"></script>
 	<script defer="" src="js/product.js"></script>
 	<script defer="" src="js/languages.js"></script>
+	<script defer="" src="js/customSwiper.js"></script>
 	<script defer="" src="js/loadLanguage.js"></script>
 	<script defer="" src="js/footerCategories.js"></script>
 	<script defer="" src="js/loadPage.js"></script>
@@ -1270,18 +1272,30 @@
 
 				<div class="container">
 					<div class="row">
-						<div class="single_product__img col-xs-6">
-							<div id="gallery_big-template-product" class="gallery_big swiper-container">
-								<div class="swiper-wrapper">
-									<img src="./images/no-image.png" id="no-images-message" />
+						<div class="custom-slider-container col-xs-6">
+							<div id="custom-slider">
+								<!-- Большой слайд -->
+								<div class="custom-slider-preview">
+									<button class="custom-slider-arrow custom-slider-left-arrow" id="custom-prev-slide">&#8249;</button>
+									<img id="custom-main-slide"
+										src="https://diamondstone.kz/api-productImage/previewImage-1736058054777-b9a924e5-f8b5-4116-b094-0d3b708e5edf.webp"
+										alt="Slide Preview">
+									<button class="custom-slider-arrow custom-slider-right-arrow" id="custom-next-slide">&#8250;</button>
 								</div>
 
-								<div id="prev_template-product" class="swiper_btn swiper_btn__prev"></div>
-								<div id="next_template-product" class="swiper_btn swiper_btn__next"></div>
-							</div>
-
-							<div id="gallery_thumbs-template-product" class="gallery_thumbs gallery_thumbs__medium swiper-container">
-								<div class="swiper-wrapper">
+								<!-- Горизонтальный слайдер с превью -->
+								<div class="custom-slider-thumbs">
+									<div class="custom-thumbs-container" id="custom-thumbs-container">
+										<img class="custom-thumb" data-index="0"
+											src="https://diamondstone.kz/api-productImage/previewImage-1736058054777-b9a924e5-f8b5-4116-b094-0d3b708e5edf.webp"
+											alt="Thumb 1">
+										<img class="custom-thumb" data-index="1"
+											src="https://diamondstone.kz/api-productImage/previewImage-1736058054777-6a382f64-63f7-4b72-b19c-b7a2d6ef1a36.webp"
+											alt="Thumb 2">
+										<img class="custom-thumb" data-index="2"
+											src="https://diamondstone.kz/api-productImage/previewImage-1736058054779-9a3cf016-5b92-468d-8261-50f5a07b8cb8.webp"
+											alt="Thumb 3">
+									</div>
 								</div>
 							</div>
 						</div>
@@ -1347,19 +1361,18 @@
 							</div>
 						</div>
 
-						<div class="product_description rte">
-							<div>
-								<h2 id="description-title">Искусство керамики: Вдохновение и мастерство</h2>
-								<p id="description">Керамика - это не просто ремесло, а настоящее искусство, воплощенное в глине и огне.
-									Каждый керамический предмет уникален, созданный с любовью и вниманием к деталям. В нашем ассортименте
-									представлены разнообразные изделия - от утонченных ваз и декоративных фигур до практичных кухонных
-									принадлежностей. Наши мастера используют только качественные материалы и древние техники, сочетая их с
-									современным дизайном, чтобы создать настоящие шедевры. Откройте для себя мир керамики, где каждая вещь
-									рассказывает свою историю и приносит тепло и уют в ваш дом.</p>
-							</div>
+					</div>
+					<div class="product_description rte">
+						<div>
+							<h2 id="description-title">Искусство керамики: Вдохновение и мастерство</h2>
+							<p id="description">Керамика - это не просто ремесло, а настоящее искусство, воплощенное в глине и огне.
+								Каждый керамический предмет уникален, созданный с любовью и вниманием к деталям. В нашем ассортименте
+								представлены разнообразные изделия - от утонченных ваз и декоративных фигур до практичных кухонных
+								принадлежностей. Наши мастера используют только качественные материалы и древние техники, сочетая их с
+								современным дизайном, чтобы создать настоящие шедевры. Откройте для себя мир керамики, где каждая вещь
+								рассказывает свою историю и приносит тепло и уют в ваш дом.</p>
 						</div>
 					</div>
-
 					<script>
 						var producText = {
 							available: "Available",
